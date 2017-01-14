@@ -6,17 +6,18 @@
 #### If you think this project is helpful, please star it.
 
 ### Categories
-+ [Chinese Part(Official)](https://github.com/marktony/Awesome_API/blob/master/Internal_Official.md)
-+ [Chinese Part(Unofficial)](https://github.com/marktony/Awesome_API/blob/master/Internal_Unofficial.md)
-+ [English Version](https://github.com/marktony/Awesome_API/blob/master/Foreign_Version.md)
++ [Chinese Part(Official)](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
++ [Chinese Part(Unofficial)](https://github.com/marktony/Awesome_API/blob/master/Chinese_Unofficial.md)
++ [English Version](https://github.com/marktony/Awesome_API/blob/master/Global_Version.md)
 
 ### Contribution Guidelines
 This project is in progress, and I will complete it in the near future.If you have found any awesome apis and want to share with other developers, please make a pull request. Please adhere to the [guidelines](https://github.com/marktony/Awesome_API/blob/master/Contribution_Guidelines.md).
 
 ### Donate
-If you think, I deserve to get paid for my work, you can leave me a little money here by scanning the QR code through Wechat.
+If you think, I deserve to get paid for my work, you can leave me a little money here by scanning the QR code through Wechat or Alipay.
 
-![Wechat_QRCode](https://github.com/marktony/ZhiHuDaily/blob/master/screenshots/wechat_qrcode.png)
+![Wechat_QRCode](https://github.com/marktony/Awesome_API/blob/master/we_chat_qr_code.png)
+![Alipay_QRCode](https://github.com/marktony/Awesome_API/blob/master/alipay_qr_code.png)
 
 ## 中文版
 #### 如果此项目对你有帮助的话，请给她一个star吧
@@ -30,9 +31,10 @@ If you think, I deserve to get paid for my work, you can leave me a little money
 项目仍然在进行中，我会在未来一段时间内完成她。如果你发现了一些很好的api并想要与其他开发者分享，请提pull requst吧。请参考[代码贡献指导建议](https://github.com/marktony/Awesome_API/blob/master/Contribution_Guidelines.md)。
 
 ### Donate
-如果你认为我所做的工作值得过得一定的报酬，请使用微信扫描下面的二维码，向我捐赠。
+如果你认为我所做的工作值得过得一定的报酬，请使用微信或支付宝扫描下面的二维码，向我捐赠。
 
-![Wechat_QRCode](https://github.com/marktony/ZhiHuDaily/blob/master/screenshots/wechat_qrcode.png)
+![Wechat_QRCode](https://github.com/marktony/Awesome_API/blob/master/we_chat_qr_code.png)
+![Alipay_QRCode](https://github.com/marktony/Awesome_API/blob/master/alipay_qr_code.png)
 
 ### License
 ```
