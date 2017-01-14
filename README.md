@@ -2,7 +2,6 @@
 
 中文版请戳[这里](#中文版)
 
-## English
 #### If you think this project is helpful, please star it.
 
 ### Categories
@@ -16,7 +15,7 @@ This project is in progress, and I will complete it in the near future.If you ha
 ### Contact Me
 marktonymengyi#gmail.com
 
-If you have any questions, ideas or suggestion, please email me and I will reply as soon as possible.
+If you have any questions, ideas or suggestions, please email me and I will reply as soon as possible.
 
 ### Donate
 If you think, I deserve to get paid for my work, you can leave me a little money here by scanning the QR code through Wechat or Alipay.
@@ -25,10 +24,10 @@ If you think, I deserve to get paid for my work, you can leave me a little money
 ![Alipay_QRCode](https://github.com/marktony/Awesome_API/blob/master/alipay_qr_code.png)
 
 ### Other Repositories of Mine
-+ [PaperPlane](https://github.com/marktony/PaperPlane) -- MVP Architecture, Including the Content of Zhihu Daily, Guokr Handpick and Douban Moment
-+ [知乎专栏](https://github.com/marktony/zhuanlan) -- Analysis of Zhihu Zhuanlan's API + Unofficial Android App of Zhihu Zhuanlan
-+ [饭否精选](https://github.com/marktony/FanfouHandpick) -- A Fanfou Handpick Client Developed by Kotlin
-+ [简单翻译](https://github.com/marktony/Translator) --  A translation app based on Android platform
++ [Paper Plane](https://github.com/marktony/PaperPlane) -- MVP Architecture, Including the Content of Zhihu Daily, Guokr Handpick and Douban Moment
++ [Zhihu Zhuanlan](https://github.com/marktony/zhuanlan) -- Analysis of Zhihu Zhuanlan's API
++ [Fanfou Handpick](https://github.com/marktony/FanfouHandpick) -- A Fanfou Handpick Client Developed by Kotlin
++ [Translator](https://github.com/marktony/Translator) --  A translation app based on Android platform
 
 
 ## 中文版
