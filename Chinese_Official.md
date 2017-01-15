@@ -132,28 +132,27 @@
 + [友盟](http://dev.umeng.com/push/android/api-doc) - 支持Android和iOS平台，服务器端支持PHP, Java, Python并提供SDK。
 
 #### 音乐
-+ [豆瓣音乐](https://developers.douban.com/wiki/?title=music_v2)
-+ [考拉FM](https://github.com/kaolafm/api)
-+ [企鹅FM](http://wq.qq.com/)
-+ [蜻蜓FM](http://open.qingting.fm/)
-+ [虾米音乐](http://open.taobao.com/docs/api_list.htm?spm=a219a.7629065.0.0.wOAaQb&cid=20625)
-+ [喜马拉雅FM](http://open.ximalaya.com/index)
++ [豆瓣音乐](https://developers.douban.com/wiki/?title=music_v2) - 支持音乐信息，评论信息，标签信息，搜索音乐，某个音乐中标记最多的标签，发表、修改、删除评论，用户对音乐的所有标签等内容。
++ [考拉FM](https://github.com/kaolafm/api) - 支持获取指定分类下列表和内容，搜索指定关键字内容，专辑/电台/直播详情，指定专辑下列表，指定电台播单，分类下专辑TOP50，指定期(碎片)所在专辑最新分页功能，分类下全部直播计划，版本升级接口，排行榜，精选，传统电台列表/详情/地区等。
++ [企鹅FM](http://wq.qq.com/) - 支持获取电台分类列表，电台分类下的专辑信息列表，专辑下节目信息列表，电台节目播放链接，搜索关键字相关主播/专辑/节目，主播名下专辑，特定时间段内新增主播/更新的专辑/新增的专辑等。
++ [蜻蜓FM](http://open.qingting.fm/) - 支持OAuth2.0授权，音频数据中心，分类，点播，直播，临时直播，排行榜，搜索，内容更新状态，主播，此刻，专题，活动等内容。
++ [喜马拉雅FM](http://open.ximalaya.com/index) - 支持Android和iOS平台，并提供相应的SDK和Demo，具体支持内容请下载相关文件查看。
 
 #### 云
-+ [阿里云](https://develop.aliyun.com/api?spm=5176.8142029.388261.274.4FJSwV)
-+ [百度云](https://cloud.baidu.com/doc/index.html)
-+ [腾讯云](https://www.qcloud.com/doc/api)
++ [阿里云](https://develop.aliyun.com/api?spm=5176.8142029.388261.274.4FJSwV) - 支持弹性计算，数据库，存储与CDN，网络，应用服务，域名与网站等类别的内容，并提供了相关SDK。
++ [百度云](https://cloud.baidu.com/doc/index.html) - 支持计算和网络，存储和CDN，数据库，安全和管理，数据分析，智能多媒体服务，物联网服务，人工智能，应用服务，网站服务，数字营销服务等内容，并提供相关的SDK。
++ [腾讯云](https://www.qcloud.com/doc/api) - 支持计算，网络，存储与CDN，数据库，安全服务，监控与管理，域名服务，视频服务，大数据与AI等内容，提供相关SDK。
 
 #### 语音识别
-+ [百度语音](http://yuyin.baidu.com/)
-+ [搜狗语音云开放平台](http://openspeech.sogou.com/Sogou/php/index.php)
-+ [讯飞开放平台](http://www.xfyun.cn/)
++ [百度语音](http://yuyin.baidu.com/) - 支持全平台REST API, 离线在线融合模式，深度语义解析，场景识别定制，自定义上传语料、训练模型，基础服务永久免费。提供相应SDK和Demo应用。
++ [搜狗语音云开放平台](http://openspeech.sogou.com/Sogou/php/index.php) - 支持在线/离线语音识别，在线听歌识曲，离线语音合成等内容。提供相应平台SDK。
++ [讯飞开放平台](http://www.xfyun.cn/) - 支持语音听写/转写，在线/离线命令词识别，语音唤醒等内容，平台支持广泛，提供相应SDK。
 
 #### 综合
-+ [阿凡达数据](http://www.avatardata.cn/Docs)
-+ [阿里大于](http://www.alidayu.com/)
-+ [APiX](https://www.apix.cn/)
-+ [百度API STORE](http://apistore.baidu.com/)
-+ [HaoService](http://www.haoservice.com/)
-+ [聚合数据](https://www.juhe.cn/)
-+ [通联数据](https://m.datayes.com/)
++ [阿凡达数据](http://www.avatardata.cn/Docs) - 支持金融股票，充值认证，便民类，新闻文章，医药交通，科教文艺，创意数据，及时通讯等内容。
++ [阿里大于](http://www.alidayu.com/) - 支持验证码，短信通知，语音通知，流量钱包充值，私密专线，群发助手等内容。
++ [APiX](https://www.apix.cn/) - 支持基础征信数据，信用分析服务，支付缴费接口等数据，部分免费。
++ [百度API STORE](http://apistore.baidu.com/) - 支持多种类型数据，部分免费，提供SDK。
++ [HaoService](http://www.haoservice.com/) - 支持多种类型数据。
++ [聚合数据](https://www.juhe.cn/) - 支持多种类型数据，部分免费。
++ [通联数据](https://m.datayes.com/) - 提供金融类数据，支持免费试用。
