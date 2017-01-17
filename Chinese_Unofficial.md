@@ -12,7 +12,7 @@
 + [猫眼电影](http://www.jianshu.com/p/9855610eb1d4) - 支持查询首页电影列表，电影详情(含评论)，本地影院和影院详情，选座。
 
 #### 视频
-+ [Bilibili 1](https://github.com/fython/BilibiliAPIDocs) - 支持登录，我的信息，番剧专题，视频/专题收藏、关注，番剧，弹幕等。
++ [Bilibili](https://github.com/fython/BilibiliAPIDocs) - 支持登录，我的信息，番剧专题，视频/专题收藏、关注，番剧，弹幕等。
 
 #### 图片
 + [Bing每日壁纸](https://www.v2ex.com/t/157267) - 支持图片URL和图片描述，可获取不同地区的数据

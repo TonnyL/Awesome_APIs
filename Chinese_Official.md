@@ -8,7 +8,6 @@
 + [电商](#电商)
 + [地图](#地图)
 + [电影](#电影)
-+ [后端云](#后端云)
 + [即时通讯](#即时通讯)
 + [开发者网站](#开发者网站)
 + [快递查询](#快递查询)
@@ -25,6 +24,7 @@
 + [综合](#综合)
 
 #### 笔记
++ [OneNote](https://msdn.microsoft.com/en-us/office/office365/howto/onenote-landing) - OneNote支持获取，复制，创建，更新，导入与导出笔记，支持为笔记添加多媒体内容，管理权限等。提供SDK和Demo。
 + [为知笔记](http://www.wiz.cn/manual/plugin/) - 为知笔记Windows客户端开放了大量的API，其中绝大部分，都通过COM提供，可以在javascript, C#, C++, Delphi等语言中使用。接口通过IDL(Interface description language)语言描述。
 + [印象笔记](https://dev.yinxiang.com/) - 印象笔记提供了ActionScript 3, Android, C++, Windows, iOS, Java, JavaScript, OS X, Perl, PHP, Python, Ruby等平台的SDK和完整的API参考文档，可通过API进行认证，笔记，笔记本，附件，搜索，同步等操作，同时提供企业版和本地API。
 + [有道云笔记](http://note.youdao.com/open/) - 有道云笔记提供了Android SDK，同时Open API允许进行授权，用户，笔记本，笔记，分享，附件等方面的操作。
@@ -58,11 +58,6 @@
 #### 电影
 + [豆瓣电影](https://developers.douban.com/wiki/?title=movie_v2) - 豆瓣电影支持电影条目，影人条目，搜索和榜单等。
 
-#### 后端云
-+ [Bmob](http://www.bmob.cn/) - 支持云数据库，容器服务，消息推送，文件存储，短信验证码，及时通讯，云端逻辑，定时任务，地理位置等。
-+ [野狗](https://www.wilddog.com/) - 支持实时数据同步，实时视频通话，及时通讯，短信，身份认证等。
-+ [LeanCloud](https://leancloud.cn/) - 	支持云存储，数据分析，用户关系，实时通讯，消息推送，移动统计等。
-
 #### 即时通讯
 + [环信](http://www.easemob.com/) - 支持Android, iOS, WebIM, Linux, REST集成，支持多种消息类型。
 + [融云](http://rongcloud.cn/) - 支持Android, iOS, Web, 游戏集成，支持多种消息类型。
@@ -70,9 +65,11 @@
 + [腾讯云通信IM](https://www.qcloud.com/product/im) - 提供iOS, Android, Windows和Web SDK，支持多种消息类型。
 
 #### 开发者网站
++ [Coding](https://open.coding.net/) - 授权后可访问coding.net网站的内容。
 + [干货集中营](http://gank.io/api) - 提供妹子图和Android, iOS, 前端，拓展资源等内容。
 + [diycode](https://www.diycode.cc/api) - 授权后可访问diycode网站的内容。
-+ [开源中国](http://www.oschina.net/openapi) - 授权后可访问diycode网站的内容。
++ [开源中国](http://www.oschina.net/openapi) - 授权后可访问开源中国网站的内容。
++ [Ruby China](https://ruby-china.org/api-doc/) - 授权后可访问Ruby China网站的内容。
 + [V2EX](https://www.v2ex.com/p/7v9TEc53) - 可访问V2EX网站的内容。
 
 #### 快递查询
@@ -141,7 +138,11 @@
 #### 云
 + [阿里云](https://develop.aliyun.com/api?spm=5176.8142029.388261.274.4FJSwV) - 支持弹性计算，数据库，存储与CDN，网络，应用服务，域名与网站等类别的内容，并提供了相关SDK。
 + [百度云](https://cloud.baidu.com/doc/index.html) - 支持计算和网络，存储和CDN，数据库，安全和管理，数据分析，智能多媒体服务，物联网服务，人工智能，应用服务，网站服务，数字营销服务等内容，并提供相关的SDK。
++ [Bmob](http://www.bmob.cn/) - 支持云数据库，容器服务，消息推送，文件存储，短信验证码，及时通讯，云端逻辑，定时任务，地理位置等。
++ [LeanCloud](https://leancloud.cn/) - 	支持云存储，数据分析，用户关系，实时通讯，消息推送，移动统计等。
++ [七牛云](http://www.qiniu.com/) - 支持对象存储，融合CDN，直播云，数据处理等。
 + [腾讯云](https://www.qcloud.com/doc/api) - 支持计算，网络，存储与CDN，数据库，安全服务，监控与管理，域名服务，视频服务，大数据与AI等内容，提供相关SDK。
++ [野狗](https://www.wilddog.com/) - 支持实时数据同步，实时视频通话，及时通讯，短信，身份认证等。
 
 #### 语音识别
 + [百度语音](http://yuyin.baidu.com/) - 支持全平台REST API, 离线在线融合模式，深度语义解析，场景识别定制，自定义上传语料、训练模型，基础服务永久免费。提供相应SDK和Demo应用。
