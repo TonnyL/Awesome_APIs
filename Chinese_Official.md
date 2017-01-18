@@ -65,11 +65,11 @@
 + [腾讯云通信IM](https://www.qcloud.com/product/im) - 提供iOS, Android, Windows和Web SDK，支持多种消息类型。
 
 #### 开发者网站
-+ [Laravel China](https://laravel-china.org/topics/3097) - 授权后可访问 Laravel China 网站的内容。
 + [Coding](https://open.coding.net/) - 授权后可访问coding.net网站的内容。
 + [干货集中营](http://gank.io/api) - 提供妹子图和Android, iOS, 前端，拓展资源等内容。
 + [diycode](https://www.diycode.cc/api) - 授权后可访问diycode网站的内容。
 + [开源中国](http://www.oschina.net/openapi) - 授权后可访问开源中国网站的内容。
++ [Laravel China](https://laravel-china.org/topics/3097) - 授权后可访问 Laravel China 网站的内容。
 + [Ruby China](https://ruby-china.org/api-doc/) - 授权后可访问Ruby China网站的内容。
 + [V2EX](https://www.v2ex.com/p/7v9TEc53) - 可访问V2EX网站的内容。
 

@@ -59,13 +59,17 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 
 #### Social Media
 + [Facebook](https://developers.facebook.com/docs/?locale=en_US) - Access to analytics of apps, app ads/development/events/invites/links, atlas api, facebook audience network/login/pixel, basics, games, articles, marketing, messenger, pages, sharing, video and more.
++ [Flickr](https://www.flickr.com/services/api/) - Access to the users, blogs, cameras, collections, commons, contacts, favorites, galleries, groups, interestingness, machinetags, panda, people, photos, places, prefs, push, reflection, stats, tags data of Flickr.
 + [Instagram](https://www.instagram.com/developer/) - Access to the basic, comments, followers list, likes, public content and relationships data.
 + [LINE](https://developers.line.me/) - LINE Login API make it easy for your users to log in to your app or website using their existing LINE accounts. Using Messaging API to send customized, interactive messages and responses.
-+ [Wechat](http://open.wechat.com/cgi-bin/newreadtemplate?t=overseas_open/index) - Access to Wechat's API.
-+ [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Access to timeline, weibo, user, direct message, friendships, trends, social graph, account, favorites data of Sina Weibo.
++ [LinkedIn](https://developer.linkedin.com/) - Access to user accounts, data, connections,groups, communications, and social streams.
++ [Pinterest](https://developers.pinterest.com/) - The Pinterest API lets you access users' Pinterest data, like their boards, Pins, followers and more. 
++ [Reddit](https://www.reddit.com/dev/api/) - Access to account, captcha, flair, reddit gold, links & comments, listings, live threads, private messages, misc, moderation, new modmail, multies, search, subreddits, users, wiki data.
 + [Telegram](https://core.telegram.org/api) - The Bot API allows you to easily create programs that use Telegram messages for an interface. The Telegram API allows you to build your own customized Telegram clients. Demos are provided.
 + [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Access to blog info, avatar, likes, following, followers, posts, queue, drafts, submissions, posting, editing posts, reblogging posts, deleting posts and so much more data of Tumblr.
 + [Twitter](https://dev.twitter.com/) - Access to Twitter's data.
++ [Wechat](http://open.wechat.com/cgi-bin/newreadtemplate?t=overseas_open/index) - Access to Wechat's API.
++ [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Access to timeline, weibo, user, direct message, friendships, trends, social graph, account, favorites data of Sina Weibo.
 
 #### Sports
 + [Nike+](https://developer.nike.com/content/nike-developer-cq/us/en_us/index/documentation/api-docs.html) - Activity Services return detailed information aggregated from a user’s activity with Nike+. For example, a user’s run details, like average pace, time, distance, NikeFuel earned from his/her Nike+ FuelBand, lifetime achievements and more.
