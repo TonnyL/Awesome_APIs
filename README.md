@@ -5,9 +5,9 @@
 #### If you think this project is helpful, please star it.
 
 ### Categories
-+ [Chinese Part(Official)](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
++ [Chinese Part](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
 + [Chinese Part(Unofficial)](https://github.com/marktony/Awesome_API/blob/master/Chinese_Unofficial.md)
-+ [English Version](https://github.com/marktony/Awesome_API/blob/master/Global_Version.md)
++ [Global Version](https://github.com/marktony/Awesome_API/blob/master/Global_Version.md)
 
 ### Contribution Guidelines
 This project is in progress, and I will complete it in the near future.If you have found any awesome apis and want to share with other developers, please make a pull request. Please adhere to the [guidelines](https://github.com/marktony/Awesome_API/blob/master/Contribution_Guidelines.md).
@@ -34,9 +34,9 @@ If you think, I deserve to get paid for my work, you can leave me a little money
 #### 如果此项目对你有帮助的话，请给她一个star吧
 
 ### 分类
-+ [国内部分(官方)](https://github.com/marktony/Awesome_API/blob/master/Internal_Official.md)
-+ [国内部分(非官方)](https://github.com/marktony/Awesome_API/blob/master/Internal_Unofficial.md)
-+ [国外部分](https://github.com/marktony/Awesome_API/blob/master/Foreign_Version.md)
++ [国内部分(官方)](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
++ [国内部分(非官方)](https://github.com/marktony/Awesome_API/blob/master/Chinese_Unofficial.md)
++ [国外部分](https://github.com/marktony/Awesome_API/blob/master/Global_Version.md)
 
 ### 代码贡献建议
 项目仍然在进行中，我会在未来一段时间内完成她。如果你发现了一些很好的api并想要与其他开发者分享，请提pull requst吧。请参考[代码贡献指导建议](https://github.com/marktony/Awesome_API/blob/master/Contribution_Guidelines.md)。

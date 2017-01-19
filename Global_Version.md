@@ -32,6 +32,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 
 #### Developing
 + [GitHub](https://developer.github.com/v3/) - Access to activity, gists, git data, integrations, issues, migration, miscellaneous, organizations, projects, pull requests, reations, repositories, search, users and enterprise.
++ [StackOverFlow](https://api.stackexchange.com/docs) - Access to the answers, badges, comments, events, info, posts, privileges, questions, revisions, search, suggested edits, tags, users data of StackOverFlow.
 
 #### Language-learning
 + [Google Translate](https://cloud.google.com/translate/docs/) - Dynamically translate between thousands of available language pairs.
@@ -63,6 +64,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Instagram](https://www.instagram.com/developer/) - Access to the basic, comments, followers list, likes, public content and relationships data.
 + [LINE](https://developers.line.me/) - LINE Login API make it easy for your users to log in to your app or website using their existing LINE accounts. Using Messaging API to send customized, interactive messages and responses.
 + [LinkedIn](https://developer.linkedin.com/) - Access to user accounts, data, connections,groups, communications, and social streams.
++ [Medium](https://github.com/Medium/medium-api-docs) - Access to the data of [medium.com](https://medium.com/).
 + [Pinterest](https://developers.pinterest.com/) - The Pinterest API lets you access users' Pinterest data, like their boards, Pins, followers and more. 
 + [Reddit](https://www.reddit.com/dev/api/) - Access to account, captcha, flair, reddit gold, links & comments, listings, live threads, private messages, misc, moderation, new modmail, multies, search, subreddits, users, wiki data.
 + [Telegram](https://core.telegram.org/api) - The Bot API allows you to easily create programs that use Telegram messages for an interface. The Telegram API allows you to build your own customized Telegram clients. Demos are provided.
