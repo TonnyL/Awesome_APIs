@@ -5,7 +5,7 @@
 #### If you think this project is helpful, please star it.
 
 ### Categories
-+ [Chinese Part](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
++ [Chinese Part(Official)](https://github.com/marktony/Awesome_API/blob/master/Chinese_Official.md)
 + [Chinese Part(Unofficial)](https://github.com/marktony/Awesome_API/blob/master/Chinese_Unofficial.md)
 + [Global Version](https://github.com/marktony/Awesome_API/blob/master/Global_Version.md)
 
