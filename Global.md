@@ -1,20 +1,20 @@
 Here are the global APIs, if you wanna see the Chinese version, click [here](https://github.com/marktony/Awesome_API).
 
 ### Table of Contents
-+ [Car-sharing](#Car-sharing)
-+ [Cloud Storage](#Cloud Storage)
-+ [Design](#Design)
-+ [Developing](#Developing)
-+ [Dictionaries](#Dictionaries)
-+ [Images](#Images)
-+ [Maps](#Maps)
-+ [Music](#Music)
-+ [Notes](#Notes)
-+ [Social Media](#Social Media)
-+ [Sports](#Sports)
-+ [Reading](#Reading)
-+ [Video](#Video)
-+ [Weather](#Weather)
++ [Car-sharing](#car-sharing)
++ [Cloud Storage](#cloud-storage)
++ [Design](#design)
++ [Developing](#developing)
++ [Dictionaries](#dictionaries)
++ [Images](#images)
++ [Maps](#maps)
++ [Music](#music)
++ [Notes](#notes)
++ [Social Media](#social-media)
++ [Sports](#sports)
++ [Reading](#reading)
++ [Videos](#videos)
++ [Weather](#weather)
 
 #### Car-sharing
 + [Uber](https://developer.uber.com/) - Allows to customize trip experiences, request ride, power logistics, create bot and so much more.
@@ -80,7 +80,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 #### Reading
 + [goodreads](https://www.goodreads.com/api) - For users, books, comments, events, relationships, groups, ratings, reviews, searches, series, shelves, topics data.
 
-#### Video
+#### Videos
 + [Youtube](https://developers.google.com/youtube/documentation/) - Embed YouTube functionality into your own website and applications.
 
 #### Weather
