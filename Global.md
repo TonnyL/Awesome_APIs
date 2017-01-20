@@ -4,7 +4,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Car-sharing](#Car-sharing)
 + [Cloud Storage](#Cloud Storage)
 + [Design](#Design)
-+ [Develop](#Develop)
++ [Developing](#Developing)
 + [Dictionaries](#Dictionaries)
 + [Images](#Images)
 + [Maps](#Maps)
@@ -32,7 +32,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 
 #### Developing
 + [GitHub](https://developer.github.com/v3/) - Access to activity, gists, git data, integrations, issues, migration, miscellaneous, organizations, projects, pull requests, reations, repositories, search, users and enterprise.
-+ [StackOverFlow](https://api.stackexchange.com/docs) - Access to the answers, badges, comments, events, info, posts, privileges, questions, revisions, search, suggested edits, tags, users data of StackOverFlow.
++ [StackOverFlow](https://api.stackexchange.com/docs) Access to the data of Stack Exchange API.
 
 #### Language-learning
 + [Google Translate](https://cloud.google.com/translate/docs/) - Dynamically translate between thousands of available language pairs.

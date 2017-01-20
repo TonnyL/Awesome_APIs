@@ -1,4 +1,4 @@
-本页仅收集国内部分官方API，如需查看其他版本，请点击[这里](https://github.com/marktony/Awesome_API)。
+本页仅收集中国国内可用API，如需查看其他版本，请点击[这里](https://github.com/marktony/Awesome_API)。
 
 ### 目录
 
@@ -57,6 +57,7 @@
 
 #### 电影
 + [豆瓣电影](https://developers.douban.com/wiki/?title=movie_v2) - 豆瓣电影支持电影条目，影人条目，搜索和榜单等。
++ [猫眼电影(非官方)](http://www.jianshu.com/p/9855610eb1d4) - 支持查询首页电影列表，电影详情(含评论)，本地影院和影院详情，选座。 #非官方
 
 #### 即时通讯
 + [环信](http://www.easemob.com/) - 支持Android, iOS, WebIM, Linux, REST集成，支持多种消息类型。
@@ -95,6 +96,7 @@
 
 #### 视频
 + [爱奇艺](http://open.iqiyi.com/) - 支持弹幕，全色彩播放器，高清码流，视频托管，播放爱奇艺视频，应用分发，IOCP等内容。
++ [Bilibili(非官方)](https://github.com/fython/BilibiliAPIDocs) - 支持登录，我的信息，番剧专题，视频/专题收藏、关注，番剧，弹幕等。 #非官方
 + [乐视](http://www.lecloud.com/zh-cn/help/api.html) - 支持标准直播，标准点播，视频发行平台，移动直播等内容，提供SDK下载。
 + [搜狐视频](http://lm.tv.sohu.com/union/open_platform.do) - 支持一二级内容获取，内容分类获取，视频详情信息，专辑详情信息，分级列表获取，关键词搜索等内容。
 + [土豆](http://api.tudou.com/apidoc/index.php/%E9%A6%96%E9%A1%B5) - 支持视频模块，豆单模块，影视库模块，用户模块，转帖模块，字段定义模块等内容。
@@ -106,6 +108,7 @@
 + [心知天气](http://www.thinkpage.cn/doc) - 支持天气实况，逐日预报和历史，24小时逐小时预报，过去24小时天气历史记录，气象灾害预警，空气质量实况与城市排行，逐日和逐小时空气质量预报，过去24小时空气质量历史记录，生活指数，农历、节气、生肖，机动车尾号限行，日出日落，月初月落和月像，城市搜索等内容，仅国内数据免费。
 
 #### 图片与图像处理
++ [Bing每日壁纸(非官方)](https://www.v2ex.com/t/157267) - 支持图片URL和图片描述，可获取不同地区的数据。 #非官方
 + [Camera360](https://github.com/pinguo/PGSkinPrettifyEngine) - 支持全帧率直播美白滤镜，提供SDK和Demo。
 + [嗨图](http://imgsdk.com/) - 支持图片标注，仅提供iOS版本SDK。
 + [名片全能王](https://dev.camcard.com/?language=zh-cn) - 支持精准识别几十种语言的名片，自动切边并美化名片图像，自动返回识别结果，提供多种版本SDK，收费。
@@ -130,10 +133,14 @@
 + [友盟](http://dev.umeng.com/push/android/api-doc) - 支持Android和iOS平台，服务器端支持PHP, Java, Python并提供SDK。
 
 #### 音乐
++ [百度音乐(非官方)](https://my.oschina.net/skiden/blog/102025) - 支持频道歌曲列表，专辑的歌曲列表，歌曲的详细信息，歌手专辑信息，搜索，歌手的所有歌曲，排行榜，所有专辑，所有歌手，歌手的专辑列表，歌手信息，歌词搜索，歌曲文件详细信息。 #非官方
 + [豆瓣音乐](https://developers.douban.com/wiki/?title=music_v2) - 支持音乐信息，评论信息，标签信息，搜索音乐，某个音乐中标记最多的标签，发表、修改、删除评论，用户对音乐的所有标签等内容。
 + [考拉FM](https://github.com/kaolafm/api) - 支持获取指定分类下列表和内容，搜索指定关键字内容，专辑/电台/直播详情，指定专辑下列表，指定电台播单，分类下专辑TOP50，指定期(碎片)所在专辑最新分页功能，分类下全部直播计划，版本升级接口，排行榜，精选，传统电台列表/详情/地区等。
++ [酷狗音乐(非官方)](http://119.29.39.252/index.php/2016/10/20/1-2/) - 支持搜索，各种排行榜，歌手专辑信息，下载和获取播放地址。 #非官方
 + [企鹅FM](http://wq.qq.com/) - 支持获取电台分类列表，电台分类下的专辑信息列表，专辑下节目信息列表，电台节目播放链接，搜索关键字相关主播/专辑/节目，主播名下专辑，特定时间段内新增主播/更新的专辑/新增的专辑等。
++ [QQ音乐(非官方)](https://github.com/ccchangkong/article/issues/23) - 支持歌曲榜单，歌曲/歌词地址，歌曲图片。 #非官方
 + [蜻蜓FM](http://open.qingting.fm/) - 支持OAuth2.0授权，音频数据中心，分类，点播，直播，临时直播，排行榜，搜索，内容更新状态，主播，此刻，专题，活动等内容。
++ [网易云音乐(非官方)](https://github.com/darknessomi/musicbox/wiki/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E6%96%B0%E7%89%88WebAPI%E5%88%86%E6%9E%90%E3%80%82) - 支持获取用户歌单，歌单详情，歌曲URL。 #非官方
 + [喜马拉雅FM](http://open.ximalaya.com/index) - 支持Android和iOS平台，并提供相应的SDK和Demo，具体支持内容请下载相关文件查看。
 
 #### 云
@@ -149,6 +156,12 @@
 + [百度语音](http://yuyin.baidu.com/) - 支持全平台REST API, 离线在线融合模式，深度语义解析，场景识别定制，自定义上传语料、训练模型，基础服务永久免费。提供相应SDK和Demo应用。
 + [搜狗语音云开放平台](http://openspeech.sogou.com/Sogou/php/index.php) - 支持在线/离线语音识别，在线听歌识曲，离线语音合成等内容。提供相应平台SDK。
 + [讯飞开放平台](http://www.xfyun.cn/) - 支持语音听写/转写，在线/离线命令词识别，语音唤醒等内容，平台支持广泛，提供相应SDK。
+
+#### 杂志
++ [豆瓣一刻(非官方)](https://github.com/ZongweiBai/DoubanOpenDaily/blob/b87473b90911e687d291e847b133b5c4c4a700a3/app/src/main/java/com/monosky/daily/constant/APIConstData.java) - 支持获取指定日期文章列表，栏目总览，推荐作者，作者信息，作者更多文章信息，栏目文章列表及翻页，文章评论及热门评论列表。 #非官方
++ [One一个(非官方)](https://github.com/jokermonn/-Api) - 支持获取首页图片，文章，音乐及电影。 #非官方
++ [知乎日报(非官方)](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90) - 支持获取界面启动图像，软件版本查询，最新消息，消息内容获取与离线下载，过往消息，新闻额外消息，新闻对应长/短评论查看，主题日报列表，主题日报内容，热门消息，栏目总览，栏目具体消息，新闻的推荐者，某个专栏之前的新闻，Editor的主页等。 #非官方
++ [知乎专栏(非官方)](https://github.com/marktony/zhuanlan/wiki) - 支持获取指定专栏的信息，指定专栏的文章列表，指定的文章内容，评论列表，点赞信息。 #非官方
 
 #### 综合
 + [阿凡达数据](http://www.avatardata.cn/Docs) - 支持金融股票，充值认证，便民类，新闻文章，医药交通，科教文艺，创意数据，及时通讯等内容。
