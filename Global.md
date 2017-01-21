@@ -9,6 +9,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Images](#images)
 + [Maps](#maps)
 + [Music](#music)
++ [Movies](#movies)
 + [Notes](#notes)
 + [Social Media](#social-media)
 + [Sports](#sports)
@@ -53,6 +54,11 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Last.fm](http://www.last.fm/zh/api?setlang=en) - The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 + [SoundCloud](https://developers.soundcloud.com/) - Allow users to upload and share sounds across the web.
 + [Spotify](https://developer.spotify.com/web-api/) - Spotify's Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
+
+#### Movies
++ [IMDb 1](http://imdb.wemakesites.net/) - RESTful JSON API for IMDb. #Unofficial
++ [IMDb 2](https://www.omdbapi.com/) - The OMDb API is a free web service to obtain movie information, all content and images on the site are contributed and maintained by our users. #Unofficial
++ [Rotten Tomatoes](https://developer.fandango.com/Rotten_Tomatoes) - The Rotten Tomatoes API provides access to Rotten Tomatoes' ratings and reviews, allowing approved companies and individuals to enrich their applications and widgets with Rotten Tomatoes data.
 
 #### Notes
 + [Evernote](https://dev.evernote.com/doc/) - Access to notes, notebooks, attachments data of Evernote, search, synchronize. The SDKs of ActionScript 3, Android, C++, Windows, iOS, Java, JavaScript, OS X, Perl, PHP, Python, Ruby platform and complete API reference documents are provided.
