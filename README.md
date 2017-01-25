@@ -17,7 +17,9 @@ marktonymengyi#gmail.com
 If you have any questions, ideas or suggestions, please email me and I will reply as soon as possible.
 
 ### Donate
-If you think, I deserve to get paid for my work, you can leave me a little money here by scanning the QR code through Wechat or Alipay.
+If my work is helpful to you, please support me a cup of coffee. THX. 
+
+[PayPal](paypal.me/TonnyL/1)
 
 ![Wechat_QRCode](https://github.com/marktony/Awesome_API/blob/master/we_chat_qr_code.png)
 ![Alipay_QRCode](https://github.com/marktony/Awesome_API/blob/master/alipay_qr_code.png)
@@ -45,7 +47,9 @@ marktonymengyi#gmail.com
 如果你有任何问题、意见或者建议，都可以向我发送邮件，我会尽快回复。
 
 ### 捐赠
-如果你认为我所做的工作值得过得一定的报酬，请使用微信或支付宝扫描下面的二维码，向我捐赠。
+如果我的工作对你有帮助，可以请我喝一杯咖啡。谢谢！
+
+[PayPal](paypal.me/TonnyL/1)
 
 ![Wechat_QRCode](https://github.com/marktony/Awesome_API/blob/master/we_chat_qr_code.png)
 ![Alipay_QRCode](https://github.com/marktony/Awesome_API/blob/master/alipay_qr_code.png)
