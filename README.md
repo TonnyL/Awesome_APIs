@@ -19,7 +19,7 @@ If you have any questions, ideas or suggestions, please email me and I will repl
 ### Donate
 If my work is helpful to you, please support me a cup of coffee. THX. 
 
-[PayPal](paypal.me/TonnyL/1)
+[PayPal](https://www.paypal.me/TonnyL/1)
 
 ![Wechat_QRCode](https://github.com/marktony/Awesome_API/blob/master/we_chat_qr_code.png)
 ![Alipay_QRCode](https://github.com/marktony/Awesome_API/blob/master/alipay_qr_code.png)
@@ -49,7 +49,7 @@ marktonymengyi#gmail.com
 ### 捐赠
 如果我的工作对你有帮助，可以请我喝一杯咖啡。谢谢！
 
-[PayPal](paypal.me/TonnyL/1)
+[PayPal](https://www.paypal.me/TonnyL/1)
 
 ![Wechat_QRCode](https://github.com/marktony/Awesome_API/blob/master/we_chat_qr_code.png)
 ![Alipay_QRCode](https://github.com/marktony/Awesome_API/blob/master/alipay_qr_code.png)

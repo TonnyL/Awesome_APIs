@@ -1,29 +1,38 @@
 Here are the global APIs, if you wanna see the Chinese version, click [here](https://github.com/marktony/Awesome_API).
 
 ### Table of Contents
-+ [Amazon](#amazon)
+
++ [Blogging](#blogging)
 + [Bookmarking](#bookmarking)
++ [Calendar](#calendar)
 + [Car-sharing](#car-sharing)
 + [Cloud Storage](#cloud-storage)
 + [Communication](#communication)
++ [Connected Car](#connected-car)
 + [Design](#design)
 + [Developer Tools](#developer-tools)
 + [Dictionaries](#dictionaries)
-+ [Fitness&Wearables](#fitness&wearables)
-+ [Google](#google)
++ [Email](#email)
++ [Fitness&Wearables](#fitness-wearables)
 + [Images](#images)
 + [Maps](#maps)
 + [Music](#music)
 + [Movies](#movies)
-+ [News&information](news&information)
++ [News&information](news-information)
 + [Notes](#notes)
 + [Social Networks](#social-networks)
++ [Shopping](#shopping)
 + [Reading](#reading)
 + [Videos](#videos)
 + [Weather](#weather)
++ [More Resource](#more-resource)
 
-#### Amazon
-+ [Amazon Developer](https://developer.amazon.com/) - Allows to build software about the Amazon Apps&Games, the Alexa, the AWS, the Amazon Services&APIs and the Amazon Devices.
+#### Blogging
++ [Blogger](https://developers.google.com/blogger/) - The Blogger API v3 allows you to create new blog posts, edit or delete existing posts, and query for posts that match particular criteria.
++ [Medium](https://github.com/Medium/medium-api-docs) - Access to the data of [medium.com](https://medium.com/).
++ [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Access to blog info, avatar, likes, following, followers, posts, queue, drafts, submissions, posting, editing posts, reblogging posts, deleting posts and so much more data of Tumblr.
++ [Weebly](https://cloud-developer.weebly.com/) - Access to Weebly's API.
++ [WordPress](https://codex.wordpress.org/WordPress_APIs) - Access to WordPress's API.
 
 #### Bookmarking
 + [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
@@ -33,6 +42,10 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Narro](https://docs.narro.co/#introduction) - Access articles and readings, as well as submit them on behalf of customers.
 + [Pinboard](https://pinboard.in/api) - The Pinboard API is a way to interact programatically with your bookmarks, notes and other Pinboard data.
 + [pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
+
+#### Calendar
++ [Google Calendar](https://developers.google.com/google-apps/calendar/) - The Google Calendar API lets you integrate your app with Google Calendar, creating new ways for you to engage your users.
++ [Outlook Calendar](https://msdn.microsoft.com/en-us/office/office365/api/calendar-rest-operations) - The Calendar API provides access to events, calendar, and calendar group data secured by Azure Active Directory on Office 365, and to similar data in Microsoft accounts specifically in these domains: Hotmail.com, Live.com, MSN.com, Outlook.com, and Passport.com.
 
 #### Car-sharing
 + [Uber](https://developer.uber.com/) - Allows to customize trip experiences, request ride, power logistics, create bot and so much more.
@@ -63,6 +76,11 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Wechat](http://open.wechat.com/cgi-bin/newreadtemplate?t=overseas_open/index) - Access to Wechat's API.
 + [Yo](http://docs.justyo.co/) - Yo is the simplest notification platform.
 
+#### Connected Car
++ [Automatic](https://developer.automatic.com/) - Access to Automatic's API.
++ [Mojio](https://www.moj.io/developer/) - Mojio facilitates the efficient integration of connected car data into new and existing applications via their suite of best-in-class APIs and mobile SDKs.
++ [Vinli](https://dev.vin.li/#/home) - Vinli is a platform for easily and quickly building connected car apps.
+
 #### Design
 + [Dribbble](http://developer.dribbble.com/v1/) - Access to buckets, projects, shots, teams, users, jobs data.
 + [Behance](https://www.behance.net/dev/api/endpoints/) - Get infomation of projects, creatives to follow, creative fields, users, collections.
@@ -76,6 +94,10 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Particle](https://docs.particle.io/reference/api/) - The Particle Cloud API is a REST API.
 + [StackOverFlow](https://api.stackexchange.com/docs) Access to the data of Stack Exchange API.
 
+#### Email
++ [Gmail](https://developers.google.com/gmail/api/) - Flexible, RESTful access to the user's inbox.
++ [Outlook Mail](https://msdn.microsoft.com/en-us/office/office365/api/mail-rest-operations) - The Outlook Mail API lets you read, create, and send messages and attachments, view and respond to event messages, and manage folders that are secured by Azure Active Directory in Office 365. It also provides the same functionality in Microsoft accounts specifically in these domains: Hotmail.com, Live.com, MSN.com, Outlook.com, and Passport.com.
+
 #### Fitness&Wearables
 + [Adidas AG](https://developers.adidas.com/services) - Access to Adidas AG's API.
 + [Fitbit](https://dev.fitbit.com/) - The Fitbit API allows developers to interact with Fitbit data in their own applications, products and services.
@@ -87,9 +109,6 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Recon](http://www.reconinstruments.com/developers/develop/for-recon-engage/api-documentation/) - Access to [Recon instruments](http://www.reconinstruments.com/)'s data.
 + [Strava](https://strava.github.io/api/) - The Strava V3 API is a publicly available interface allowing developers access to the rich Strava dataset. 
 + [Withings](http://www.withings.com/us/en/developers) - The Withings API allows developers to create applications that take advantage of the Withings devices and the data they record. 
-
-#### Google
-+ [Google API Library](https://console.developers.google.com/apis/library) - The Google API Library contains more than 100 apis such as the Google Cloud APIs, the Google Maps APIs, the Google Apps APIs, the Mobile APIs, the Social Media APIs, the Youtube APIs, the Advertising APIs, and the Other popular APIs.
 
 #### Language-learning
 + [Google Translate](https://cloud.google.com/translate/docs/) - Dynamically translate between thousands of available language pairs.
@@ -114,8 +133,8 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Spotify](https://developer.spotify.com/web-api/) - Spotify's Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
 
 #### Movies
-+ [IMDb 1](http://imdb.wemakesites.net/) - RESTful JSON API for IMDb. #Unofficial
-+ [IMDb 2](https://www.omdbapi.com/) - The OMDb API is a free web service to obtain movie information, all content and images on the site are contributed and maintained by our users. #Unofficial
++ [IMDb 1(Unofficial)](http://imdb.wemakesites.net/) - RESTful JSON API for IMDb. #Unofficial
++ [IMDb 2(Unofficial)](https://www.omdbapi.com/) - The OMDb API is a free web service to obtain movie information, all content and images on the site are contributed and maintained by our users. #Unofficial
 + [Rotten Tomatoes](https://developer.fandango.com/Rotten_Tomatoes) - The Rotten Tomatoes API provides access to Rotten Tomatoes' ratings and reviews, allowing approved companies and individuals to enrich their applications and widgets with Rotten Tomatoes data.
 
 #### News&information
@@ -136,12 +155,17 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Foursquare](https://developer.foursquare.com/) - The Foursquare API gives you access to our world-class places database and the ability to interact with Foursquare users and merchants. 
 + [Instagram](https://www.instagram.com/developer/) - Access to the basic, comments, followers list, likes, public content and relationships data.
 + [LinkedIn](https://developer.linkedin.com/) - Access to user accounts, data, connections,groups, communications, and social streams.
-+ [Medium](https://github.com/Medium/medium-api-docs) - Access to the data of [medium.com](https://medium.com/).
 + [Pinterest](https://developers.pinterest.com/) - The Pinterest API lets you access users' Pinterest data, like their boards, Pins, followers and more. 
 + [Reddit](https://www.reddit.com/dev/api/) - Access to account, captcha, flair, reddit gold, links & comments, listings, live threads, private messages, misc, moderation, new modmail, multies, search, subreddits, users, wiki data.
-+ [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Access to blog info, avatar, likes, following, followers, posts, queue, drafts, submissions, posting, editing posts, reblogging posts, deleting posts and so much more data of Tumblr.
 + [Twitter](https://dev.twitter.com/) - Access to Twitter's data.
 + [Weibo](http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en) - Access to timeline, weibo, user, direct message, friendships, trends, social graph, account, favorites data of Sina Weibo.
+
+#### Shopping
++ [Best Buy](https://developer.bestbuy.com/) - Access to Best Buy's API.
++ [eBay](https://go.developer.ebay.com/) - Access to eBay's API.
++ [Home Depot](https://developer.homedepot.com/) - Access to Home Depot's API.
++ [Semantics3](http://docs.semantics3.com/reference) - Access to Semantics3's RESTful API.
++ [Slice](https://developer.slice.com/) - Access to Slice's REST API.
 
 #### Reading
 + [goodreads](https://www.goodreads.com/api) - For users, books, comments, events, relationships, groups, ratings, reviews, searches, series, shelves, topics data.
@@ -160,3 +184,9 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Weather Underground](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages. 
 + [Yandex.Weather](https://tech.yandex.com/weather/) - Access to  current weather conditions in specific locations on the territory of **Russia** and create forecasts for these geographic coordinates.
 + [Yahoo Weather](https://developer.yahoo.com/weather/) - Get up-to-date weather information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
+
+#### More Resource
++ [Amazon Developer](https://developer.amazon.com/) - Allows to build software about the Amazon Apps&Games, the Alexa, the AWS, the Amazon Services&APIs and the Amazon Devices.
++ [Google API Library](https://console.developers.google.com/apis/library) - The Google API Library contains more than 100 apis such as the Google Cloud APIs, the Google Maps APIs, the Google Apps APIs, the Mobile APIs, the Social Media APIs, the Youtube APIs, the Advertising APIs, and the Other popular APIs.
++ [Micorsoft Developer](https://developer.microsoft.com/en-us/) - Access to Microsoft's public APIs.
++ [ProgrammableWeb](https://www.programmableweb.com/) - The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
