@@ -4,6 +4,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 
 + [Blogging](#blogging)
 + [Bookmarking](#bookmarking)
++ [Business](#business)
 + [Calendar](#calendar)
 + [Car-sharing](#car-sharing)
 + [Cloud Storage](#cloud-storage)
@@ -15,14 +16,18 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Email](#email)
 + [Fitness&Wearables](#fitness-wearables)
 + [Images](#images)
++ [IoT](#iot)
 + [Maps](#maps)
 + [Music](#music)
 + [Movies](#movies)
 + [News&information](news-information)
 + [Notes](#notes)
++ [Payment](#payment)
++ [Places](#places)
 + [Social Networks](#social-networks)
 + [Shopping](#shopping)
 + [Reading](#reading)
++ [To-dos](#to-dos)
 + [Videos](#videos)
 + [Weather](#weather)
 + [More Resource](#more-resource)
@@ -42,6 +47,18 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Narro](https://docs.narro.co/#introduction) - Access articles and readings, as well as submit them on behalf of customers.
 + [Pinboard](https://pinboard.in/api) - The Pinboard API is a way to interact programatically with your bookmarks, notes and other Pinboard data.
 + [pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
+
+#### Business
++ [Airtable](https://airtable.com/api) - The Airtable Standard API allows you to create, read, update, and destroy records.
++ [Buffer](https://buffer.com/developers/api) - The Buffer API provides access to user's pending and sent updates, social media profiles, scheduled times and more.
++ [Concur Labs](https://developer.concur.com/api-reference/) - Access to Concur's RESTful API.
++ [Envoy](https://developers.envoy.com/) - Access to Envoy's API.
++ [JotForm](http://api.jotform.com/docs/) - The JotForm API makes it possible to connect to your form data without using the JotForm web site. 
++ [MailChimp](https://developer.mailchimp.com/) - Access to MailChimp's API.
++ [Pruvan](https://pruvan.com/resources/pruvan-api/) - Access to Pruvan's API.
++ [Quip](https://quip.com/api/) - The Quip REST API enables you to automate processes and integrate Quip with other products you or your company uses.
++ [Salesforce](https://developer.salesforce.com/page/Salesforce_APIs) - Access to Salesforce's API.
++ [Wolfram Data Drop](https://www.wolfram.com/datadrop/quick-reference/web-api/) - Access to Wolfram Data Drop's RESTful API.
 
 #### Calendar
 + [Google Calendar](https://developers.google.com/google-apps/calendar/) - The Google Calendar API lets you integrate your app with Google Calendar, creating new ways for you to engage your users.
@@ -121,8 +138,25 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Giphy](https://github.com/Giphy/GiphyAPI) - Giphy is an animated GIF search engine.
 + [Unsplash](https://unsplash.com/documentation) - Access to the most powerful photo engine in the world.
 
+#### IoT
++ [Amazon Alexa](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/content/avs-api-overview) - The Alexa Voice Service (AVS) API allows developers to voice-enable connected products with a microphone and speaker. 
++ [Google Assistant](https://developers.google.com/actions/) - Actions on Google let you build for the Google Assistant. 
++ [Home8](https://developer.home8systems.com/) - The Internet of Things (IoT) refers to the set of sensors, devices, and systems that interconnect via the Internet.
++ [Homey](https://developers.athom.com/api/) - Access to Homey's API.
++ [HP Print](https://developers.hp.com/printos/printos) - Access to HP's API.
++ [LIFX](https://api.developer.lifx.com/) - LIFX is a multi-color smart WiFi-enabled LED lightbulb. The LIFX HTTP API lets you control LIFX devices over the internet and is REST inspired API for interacting with LIFX devices.
++ [LightwaveRF](https://api.lightwaverf.com/) - This API outlines the local command protocols currently in use in the LightwaveRF system.
++ [microBees](http://developers.microbees.com/documentation/#reference) - microBees is your home or office in your hands! Manage small or large automations directly from your smartphone without changing your electrical wiring.
++ [myStrom](https://mystrom.ch/de/mystrom-api) - The myStrom WLAN Energy Control Switch offers a REST API which allows you to access/control the switch from directly from your local network independent from myStrom.
++ [Neurio](http://neur.io/developers/) - Neurio is an open platform with a public API so you can extend it any way you like. Connect it to web services, or write your own applications.
++ [Philips Hue](https://developers.meethue.com/) - Philips Hue connected bulbs and bridge let you to take full control of your lighting. 
++ [Smappee](https://smappee.atlassian.net/wiki/display/DEVAPI/SmappeeDevAPI+Home) - Access to Smappee's API which helps you measure your electrical energy consumption and solar production.
++ [SmartThins](https://developers.athom.com/api/) - Access to SmartThings' API.
++ [Stack Lighting](http://developers.stacklighting.com/) - The Stack API is a REST API, which defines a set of functions that allow developers to perform requests and to receive responses via the HTTP protocol. This API provides developers with the ability to control brightness, color temperature, motion settings, ambient light sensing settings, and other features to tailor Stack’s responsive lighting to one's unique preferences.
++ [Yeelight](http://www.yeelight.com/en_US/developer) - Yeelight smart LED products support remote control through WiFi. 
+
 #### Maps
-+ [Bing maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - multiple APIs are provided.
++ [Bing maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Access to Bing maps' API.
 + [Here Maps](https://developer.here.com/develop/rest-apis) - Use simple HTTP GET methods providing maps, routing, geocoding, places, positioning, traffic, transit and weather information. Platform Extensions add capabilities to the service results received from HERE REST APIs. Samples are provided.
 
 #### Music
@@ -148,6 +182,17 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Evernote](https://dev.evernote.com/doc/) - Access to notes, notebooks, attachments data of Evernote, search, synchronize. The SDKs of ActionScript 3, Android, C++, Windows, iOS, Java, JavaScript, OS X, Perl, PHP, Python, Ruby platform and complete API reference documents are provided.
 + [OneNote](https://msdn.microsoft.com/en-us/office/office365/howto/onenote-landing) - Allows developers conceptual articles. SDKs and demos are provided.
 
+#### Payment
++ [PayPal](https://developer.paypal.com/docs/api/) - Access to PayPal's REST API.
+
+#### Places
++ [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - Access to Yelp's API.
++ [Zomato](https://developers.zomato.com/api) - Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally. 
+
+#### Reading
++ [goodreads](https://www.goodreads.com/api) - For users, books, comments, events, relationships, groups, ratings, reviews, searches, series, shelves, topics data.
++ [Pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
+
 #### Social Media
 + [Ello(Unofficial)](https://gist.github.com/conatus/cc665f917d5558c123bc) - Access to API for Ello. #Unofficial
 + [Facebook](https://developers.facebook.com/docs/?locale=en_US) - Access to analytics of apps, app ads/development/events/invites/links, atlas api, facebook audience network/login/pixel, basics, games, articles, marketing, messenger, pages, sharing, video and more.
@@ -167,9 +212,12 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Semantics3](http://docs.semantics3.com/reference) - Access to Semantics3's RESTful API.
 + [Slice](https://developer.slice.com/) - Access to Slice's REST API.
 
-#### Reading
-+ [goodreads](https://www.goodreads.com/api) - For users, books, comments, events, relationships, groups, ratings, reviews, searches, series, shelves, topics data.
-+ [Pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
+#### To-dos
++ [Beeminder](https://www.beeminder.com/api) - Access to Beeminder's API.
++ [FollowUp.cc](http://docs.followup.cc/) - Access to FollowUp.cc's API.
++ [Todoist](https://developer.todoist.com/) - Todoist API (also known as the “Sync API”) is specially designed for efficient data sync between clients (e.g. mobile apps) and Todoist.
++ [Toodledo](https://api.toodledo.com/3/) - The Toodledo API is free to use and provides access to a user's tasks, notes, outlines and lists.
++ [Trello](https://developers.trello.com/) - Access to Trello's API.
 
 #### Videos
 + [Dailymotion](https://developer.dailymotion.com/api) - Dailymotion is the second largest video hosting platform in the world. 
