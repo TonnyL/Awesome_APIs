@@ -38,6 +38,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Access to blog info, avatar, likes, following, followers, posts, queue, drafts, submissions, posting, editing posts, reblogging posts, deleting posts and so much more data of Tumblr.
 + [Weebly](https://cloud-developer.weebly.com/) - Access to Weebly's API.
 + [WordPress](https://codex.wordpress.org/WordPress_APIs) - Access to WordPress's API.
++ [Telegraph](http://telegra.ph/api) - Access to Telegraph's API, Telegram's publishing service.
 
 #### Bookmarking
 + [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
@@ -46,7 +47,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Instapaper](https://www.instapaper.com/api) - The Instapaper API allows third-party applications to add URLs to Instapaper.
 + [Narro](https://docs.narro.co/#introduction) - Access articles and readings, as well as submit them on behalf of customers.
 + [Pinboard](https://pinboard.in/api) - The Pinboard API is a way to interact programatically with your bookmarks, notes and other Pinboard data.
-+ [pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
++ [Pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
 
 #### Business
 + [Airtable](https://airtable.com/api) - The Airtable Standard API allows you to create, read, update, and destroy records.
@@ -177,6 +178,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [npr](http://www.npr.org/api/index) - NPR's API provides a flexible, powerful way to access your favorite NPR content.
 + [Product Hunt](https://api.producthunt.com/v1/docs) - Access to [producthunt.com](https://www.producthunt.com/)'s API.
 + [The New York Times](https://developer.nytimes.com/) - Access to The New York Times's API.
++ [feedly](https://developer.feedly.com/) - Access to feedly's API.
 
 #### Notes
 + [Evernote](https://dev.evernote.com/doc/) - Access to notes, notebooks, attachments data of Evernote, search, synchronize. The SDKs of ActionScript 3, Android, C++, Windows, iOS, Java, JavaScript, OS X, Perl, PHP, Python, Ruby platform and complete API reference documents are provided.
