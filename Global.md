@@ -6,7 +6,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Bookmarking](#bookmarking)
 + [Business](#business)
 + [Calendar](#calendar)
-+ [Car-sharing](#car-sharing)
++ [Carsharing](#carsharing)
 + [Cloud Storage](#cloud-storage)
 + [Communication](#communication)
 + [Connected Car](#connected-car)
@@ -15,6 +15,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Dictionaries](#dictionaries)
 + [Email](#email)
 + [Fitness&Wearables](#fitness-wearables)
++ [Games](#games)
 + [Images](#images)
 + [IoT](#iot)
 + [Maps](#maps)
@@ -65,7 +66,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Google Calendar](https://developers.google.com/google-apps/calendar/) - The Google Calendar API lets you integrate your app with Google Calendar, creating new ways for you to engage your users.
 + [Outlook Calendar](https://msdn.microsoft.com/en-us/office/office365/api/calendar-rest-operations) - The Calendar API provides access to events, calendar, and calendar group data secured by Azure Active Directory on Office 365, and to similar data in Microsoft accounts specifically in these domains: Hotmail.com, Live.com, MSN.com, Outlook.com, and Passport.com.
 
-#### Car-sharing
+#### Carsharing
 + [Uber](https://developer.uber.com/) - Allows to customize trip experiences, request ride, power logistics, create bot and so much more.
 + [Lyft](https://www.lyft.com/developers) - Allows to get real-time ETAs, availability, price estimates, ride status.
 
@@ -128,6 +129,15 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Strava](https://strava.github.io/api/) - The Strava V3 API is a publicly available interface allowing developers access to the rich Strava dataset. 
 + [Withings](http://www.withings.com/us/en/developers) - The Withings API allows developers to create applications that take advantage of the Withings devices and the data they record. 
 
+#### Games
++ [Battle.net](https://dev.battle.net/) - Battle.net is an online video game Web site that features a collection of games developed by Blizzard Entertainment. The available Battle.net APIs include D3, WoW, SC2, Community APIs, and Game Data APIs. 
++ [Clash of Clans](https://developer.clashofclans.com/#/) - The Clash of Clans API provides near real­time access to game related data. 
++ [EVE Online](https://developers.eveonline.com/) - EVE Online is one of the most popular science fiction massively multiplayer online role-playing games (MMORPG). The EVE Online CREST and XML APIs provide programmatic access to characters, industries, markets, solar system, alliances and corporations, and other game data.
++ [Facebook Games Services](https://developers.facebook.com/docs/games) - The Facebook Games Developer Center features a variety of services for game developers including (but not limited to) Achievements API, Scores API, App Notifications, Requests, Feed Gaming, and Facebook SDK for Unity. There is a lot of information available at the Facebook Games Developer Center such as games overview, API migration guide, tutorials, production and checklists, game monetization, and more.
++ [Google Play Games Services](https://developers.google.com/games/) - The Google Developers Games site provides a variety of APIs, SDKs, and services including (but not limited to) game publishing API, Unity Plugin, Play Games Services (achievements, leaderboards, player stats, etc.), and Google AdMob. 
++ [Riot Games](https://developer.riotgames.com/) - Access to recent games, ranked statistics, runes, masteries, and much more at your fingertips.
++ [Steam Web APIs](https://steamcommunity.com/dev) - The Steam Web APIs allow developers to query Steam for information that they can present on their own sites.At the moment the only APIs we offer provide item data for Team Fortress 2, but this list will grow over time.
+
 #### Language-learning
 + [Google Translate](https://cloud.google.com/translate/docs/) - Dynamically translate between thousands of available language pairs.
 + [Microsoft Translator](https://www.microsoft.com/en-us/translator/translatorapi.aspx) -  A cloud-based machine translation service supporting multiple languages that reach more than 95% of world's gross domestic product (GDP).
@@ -137,6 +147,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 #### Images
 + [500px](https://github.com/500px/api-documentation) - Access to photo resources, upload, user resources, gallery resouces, collections/sets resources, comments resources.
 + [Giphy](https://github.com/Giphy/GiphyAPI) - Giphy is an animated GIF search engine.
++ [Imgur](https://api.imgur.com/) - Using Imgur's RESTful API, you can do just about anything you can do on [imgur.com](http://imgur.com/).
 + [Unsplash](https://unsplash.com/documentation) - Access to the most powerful photo engine in the world.
 
 #### IoT
@@ -240,3 +251,4 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Google API Library](https://console.developers.google.com/apis/library) - The Google API Library contains more than 100 apis such as the Google Cloud APIs, the Google Maps APIs, the Google Apps APIs, the Mobile APIs, the Social Media APIs, the Youtube APIs, the Advertising APIs, and the Other popular APIs.
 + [Micorsoft Developer](https://developer.microsoft.com/en-us/) - Access to Microsoft's public APIs.
 + [ProgrammableWeb](https://www.programmableweb.com/) - The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
++ [Yahoo Developer Network](https://developer.yahoo.com/everything.html) - The Yahoo Developer Network offers APIs and tools to make it easy for developers to build, advertise, enhance applications and earn money with Yahoo.
