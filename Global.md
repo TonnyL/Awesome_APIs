@@ -146,6 +146,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 
 #### Images
 + [500px](https://github.com/500px/api-documentation) - Access to photo resources, upload, user resources, gallery resouces, collections/sets resources, comments resources.
++ [Bing Daily Wallpaper(Unofficial)](http://stackoverflow.com/questions/10639914/is-there-a-way-to-get-bings-photo-of-the-day)
 + [Giphy](https://github.com/Giphy/GiphyAPI) - Giphy is an animated GIF search engine.
 + [Imgur](https://api.imgur.com/) - Using Imgur's RESTful API, you can do just about anything you can do on [imgur.com](http://imgur.com/).
 + [Unsplash](https://unsplash.com/documentation) - Access to the most powerful photo engine in the world.
