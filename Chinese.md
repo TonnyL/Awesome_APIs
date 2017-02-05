@@ -60,7 +60,7 @@
 + [豆瓣电影](https://developers.douban.com/wiki/?title=movie_v2) - 豆瓣电影支持电影条目，影人条目，搜索和榜单等。
 + [猫眼电影(非官方)](http://www.jianshu.com/p/9855610eb1d4) - 支持查询首页电影列表，电影详情(含评论)，本地影院和影院详情，选座。 #非官方
 + [V电影(非官方)](https://github.com/avenwu/vplus/blob/master/doc/v%E7%94%B5%E5%BD%B1api%E6%8E%A5%E5%8F%A3.md) - 支持获取[V电影](http://www.vmovier.com/)网站的数据。 #非官方
-+ [Time时光(非官方)](https://github.com/jokermonn/-Api/blob/master/Time.md) - 支持获取[时光网](http://www.mtime.com/)网站数据 #非官方
++ [Time时光(非官方)](https://github.com/jokermonn/-Api/blob/master/Time.md) - 支持获取[时光网](http://www.mtime.com/)网站数据。 #非官方
 
 #### 即时通讯
 + [环信](http://www.easemob.com/) - 支持Android, iOS, WebIM, Linux, REST集成，支持多种消息类型。
@@ -88,6 +88,7 @@
 + [途牛](http://open.tuniu.cn/) - 支持途牛网的内容，仅开放给供应商系统。
 + [携程](http://u.ctrip.com/union/help/Termsofuse.aspx) - 支持携程网的内容。
 + [艺龙](http://open.elong.com/wiki/API%E6%96%87%E6%A1%A3) - 支持获取产品数据，完成用户的预订，进行订单查询、更改或取消。提供在线工具，以及H5, Java, C#, PHP, Ruby版本的Demo。
++ [12306(非官方)](https://github.com/jokermonn/-Api/blob/master/12306.md) - 支持获取12306火车票票数、票价查询。 #非官方
 
 #### 社交
 + [钉钉](https://open-doc.dingtalk.com/) - 支持免登，企业通讯录，服务窗，钉盘，地图，会话，DING，电话，音频，扫码，支付，分享等服务，提供SDK和Demo，PC版UI规范，调试工具和钉钉UI组件库。
