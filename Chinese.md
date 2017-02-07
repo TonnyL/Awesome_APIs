@@ -80,16 +80,18 @@
 #### 快递查询
 + [爱快递](http://www.aikuaidi.cn/api/) - 爱快递支持国内90多家快递物流订单查询服务，免费版有使用次数限制，可用于电子商城单号跟踪,手机应用,微信快递接口等服务。
 + [快递100](http://www.kuaidi100.com/openapi/) - 快递100支持300家国内国际快递，免费版有使用次数限制。
++ [快递100（非官方）](https://github.com/jokermonn/-Api/blob/master/ExpressDelivery100.md) - 快递100支持300家国内国际快递。 #非官方
 + [快递鸟](http://www.kdniao.com/) - 快递鸟支持国内外400多家快递公司，免费版有使用次数限制，包含.Net, PHP, Java版Demo。
 + [快递网](http://www.kuaidi.com/openapi.html) - 快递网支持上百家快递查询服务，免费版有使用次数限制。
++ [快递网（非官方）](https://github.com/jokermonn/-Api/blob/master/ExpressDelivery.md) - 快递网支持上百家快递查询服务。 #非官方
 
 #### 旅游
++ [12306(非官方)](https://github.com/jokermonn/-Api/blob/master/12306.md) - 支持获取12306火车票票数、票价查询。 #非官方
 + [去哪儿](http://open.qunar.com/) - 支持获取去哪儿网的内容。
 + [途牛](http://open.tuniu.cn/) - 支持途牛网的内容，仅开放给供应商系统。
++ [途牛火车票(非官方)](https://github.com/jokermonn/-Api/blob/master/TuniuTickets.md) - 支持获取途牛火车票票数、票价查询。 #非官方
 + [携程](http://u.ctrip.com/union/help/Termsofuse.aspx) - 支持携程网的内容。
 + [艺龙](http://open.elong.com/wiki/API%E6%96%87%E6%A1%A3) - 支持获取产品数据，完成用户的预订，进行订单查询、更改或取消。提供在线工具，以及H5, Java, C#, PHP, Ruby版本的Demo。
-+ [12306(非官方)](https://github.com/jokermonn/-Api/blob/master/12306.md) - 支持获取12306火车票票数、票价查询。 #非官方
-+ [途牛火车票(非官方)](https://github.com/jokermonn/-Api/blob/master/TuniuTickets.md) - 支持获取途牛火车票票数、票价查询。 #非官方
 
 #### 社交
 + [钉钉](https://open-doc.dingtalk.com/) - 支持免登，企业通讯录，服务窗，钉盘，地图，会话，DING，电话，音频，扫码，支付，分享等服务，提供SDK和Demo，PC版UI规范，调试工具和钉钉UI组件库。
