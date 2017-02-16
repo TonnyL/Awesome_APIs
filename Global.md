@@ -109,10 +109,13 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [ARTIK Cloud](https://developer.artik.cloud/documentation/api-reference/) - The ARTIK Cloud API provides access to the ARTIK Cloud platform.
 + [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X's RESTful API streamlines the connection between devices and the M2X service, allowing you to build applications and services that leverage time-series data analytics and distributed, high-availability time-series data storage, to deliver meaningful information to your customers and end-users and build IOT and M2M solutions without managing your own storage infrastructure.
 + [GitHub](https://developer.github.com/v3/) - Access to activity, gists, git data, integrations, issues, migration, miscellaneous, organizations, projects, pull requests, reations, repositories, search, users and enterprise.
++ [GitLab](https://docs.gitlab.com/ee/api/README.html) - Automate GitLab via a simple and powerful API.
 + [IPInfo.io](https://ipinfo.io/developers) - IP address geolocation and company details REST API 
 + [openHAB](https://github.com/openhab/openhab1-addons/wiki/REST-API) - The REST API of openHAB serves different purposes. It can be used to integrate openHAB with other systems as it allows read access to items and item states as well as status updates or the sending of commands for items. Furthermore, it gives access to the sitemaps, so that it is the interface to be used by remote user interfaces (e.g. fat clients or fully Javascript based web clients).
 + [Particle](https://docs.particle.io/reference/api/) - The Particle Cloud API is a REST API.
 + [StackOverFlow](https://api.stackexchange.com/docs) Access to the data of Stack Exchange API.
++ [SVN](https://subversion.apache.org/docs/api/1.8/) - This documentation covers the public APIs provided by the Subversion libraries. It is intended mainly for programmers, both those working on Subversion itself, as well as developers of 3rd-party applications intending to use these APIs.
++ [W3C](https://github.com/w3c/w3c-api) - In response to demand from developers in W3C community wanting to interact with [W3C](http://www.w3.org/)'s data, the W3C Systems Team has developed a Web API. Through it they are making available data on Specifications, Groups, Organizations and Users.The W3C API is a read-only Web API based on the JSON format exposing only public data.
 
 #### Email
 + [Gmail](https://developers.google.com/gmail/api/) - Flexible, RESTful access to the user's inbox.
