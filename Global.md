@@ -254,6 +254,6 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 #### More Resource
 + [Amazon Developer](https://developer.amazon.com/) - Allows to build software about the Amazon Apps&Games, the Alexa, the AWS, the Amazon Services&APIs and the Amazon Devices.
 + [Google API Library](https://console.developers.google.com/apis/library) - The Google API Library contains more than 100 apis such as the Google Cloud APIs, the Google Maps APIs, the Google Apps APIs, the Mobile APIs, the Social Media APIs, the Youtube APIs, the Advertising APIs, and the Other popular APIs.
-+ [Micorsoft Developer](https://developer.microsoft.com/en-us/) - Access to Microsoft's public APIs.
++ [Microsoft Developer](https://developer.microsoft.com/en-us/) - Access to Microsoft's public APIs.
 + [ProgrammableWeb](https://www.programmableweb.com/) - The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 + [Yahoo Developer Network](https://developer.yahoo.com/everything.html) - The Yahoo Developer Network offers APIs and tools to make it easy for developers to build, advertise, enhance applications and earn money with Yahoo.
