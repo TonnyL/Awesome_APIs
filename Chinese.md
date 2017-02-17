@@ -41,6 +41,7 @@
 + [金山词霸](http://open.iciba.com/?c=api) - 金山词霸允许进行简单的翻译操作。
 + [扇贝](https://www.shanbay.com/help/developer/api_v1/) - 扇贝提供了完整的API，允许进行用户，查询，添加学习记录，忘记单词，例句，笔记等方面的操作。
 + [有道词典](http://fanyi.youdao.com/openapi) - 有道词典允许进行简单的翻译操作。
++ [有道词典(非官方)](https://github.com/jokermonn/-Api/blob/master/YoudaoDic.md) - 允许进行简单的翻译操作。 #非官方
 
 #### 电商
 + [当当](http://open.dangdang.com/) - 当当允许商家用户和网站接入授权，可进行商品，订单，图片，问答，店铺和促销等方面的操作。
@@ -80,10 +81,10 @@
 #### 快递查询
 + [爱快递](http://www.aikuaidi.cn/api/) - 爱快递支持国内90多家快递物流订单查询服务，免费版有使用次数限制，可用于电子商城单号跟踪,手机应用,微信快递接口等服务。
 + [快递100](http://www.kuaidi100.com/openapi/) - 快递100支持300家国内国际快递，免费版有使用次数限制。
-+ [快递100（非官方）](https://github.com/jokermonn/-Api/blob/master/ExpressDelivery100.md) - 快递100支持300家国内国际快递。 #非官方
++ [快递100(非官方)](https://github.com/jokermonn/-Api/blob/master/ExpressDelivery100.md) - 快递100支持300家国内国际快递。 #非官方
 + [快递鸟](http://www.kdniao.com/) - 快递鸟支持国内外400多家快递公司，免费版有使用次数限制，包含.Net, PHP, Java版Demo。
 + [快递网](http://www.kuaidi.com/openapi.html) - 快递网支持上百家快递查询服务，免费版有使用次数限制。
-+ [快递网（非官方）](https://github.com/jokermonn/-Api/blob/master/ExpressDelivery.md) - 快递网支持上百家快递查询服务。 #非官方
++ [快递网(非官方)](https://github.com/jokermonn/-Api/blob/master/ExpressDelivery.md) - 快递网支持上百家快递查询服务。 #非官方
 
 #### 旅游
 + [12306(非官方)](https://github.com/jokermonn/-Api/blob/master/12306.md) - 支持获取12306火车票票数、票价查询。 #非官方
