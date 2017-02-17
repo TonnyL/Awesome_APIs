@@ -38,6 +38,7 @@
 #### 词典
 + [百度翻译](http://api.fanyi.baidu.com/api/trans/product/index) - 百度翻译支持多种语言互相翻译，包含PHP, JS, Python, C, Java版Demo。
 + [必应词典](https://www.microsoft.com/en-us/translator/translatorapi.aspx) - 微软翻译API支持文字和语音两种类型，支持多种语言互相翻译，提供C#版本Demo。
++ [必应词典(非官方)](https://github.com/jokermonn/-Api/blob/master/BingDic.md) - 支持单词和语句翻译。 #非官方
 + [金山词霸](http://open.iciba.com/?c=api) - 金山词霸允许进行简单的翻译操作。
 + [扇贝](https://www.shanbay.com/help/developer/api_v1/) - 扇贝提供了完整的API，允许进行用户，查询，添加学习记录，忘记单词，例句，笔记等方面的操作。
 + [有道词典](http://fanyi.youdao.com/openapi) - 有道词典允许进行简单的翻译操作。
