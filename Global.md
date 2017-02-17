@@ -18,6 +18,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Games](#games)
 + [Images](#images)
 + [IoT](#iot)
++ [Machine Learning](#machine-learning)
 + [Maps](#maps)
 + [Music](#music)
 + [Movies](#movies)
@@ -84,7 +85,6 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [dondeEsta Family](http://docs.dondeesta.apiary.io/#introduction/api) - Access to dondeEsta family API.
 + [Fleep](https://fleep.io/fleepapi/) - Fleep is a messenger for all your teams and projects.
 + [GroupMe](https://dev.groupme.com/docs/v3) - The GroupMe API will enable you to enhance existing apps with our group messaging abilities, build interesting new experiences, or simply add a little spice to your existing groups.
-+ [IBM Watson](https://developer.ibm.com/watson/) - The IBM Watson™ Developer Cloud (WDC) offers a variety of services for developing cognitive applications.  Each Watson service provides a Representational State Transfer (REST) Application Programming Interface (API) for interacting with the service.
 + [indoona](https://developer.indoona.com/) - The indoona RESTful API over HTTPS that lets you:send messages to indoona users and groups, create special address book contacts to let indoona users chat with your application.
 + [join.me](https://developer.join.me/) - join.me is the online meeting tool that just gets out of the way so that people can accomplish great things together.
 + [LINE](https://developers.line.me/) - LINE Login API make it easy for your users to log in to your app or website using their existing LINE accounts. Using Messaging API to send customized, interactive messages and responses.
@@ -154,6 +154,8 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Giphy](https://github.com/Giphy/GiphyAPI) - Giphy is an animated GIF search engine.
 + [Imgur](https://api.imgur.com/) - Using Imgur's RESTful API, you can do just about anything you can do on [imgur.com](http://imgur.com/).
 + [Unsplash](https://unsplash.com/documentation) - Access to the most powerful photo engine in the world.
++ [Unsplash It](https://unsplash.it/) - Beautiful placeholders using images from [unsplash](https://unsplash.com/).
++ [Unsplash Resource](https://source.unsplash.com/) - A simple API for embedding [Unsplash](https://unsplash.com/) photos.
 
 #### IoT
 + [Amazon Alexa](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/content/avs-api-overview) - The Alexa Voice Service (AVS) API allows developers to voice-enable connected products with a microphone and speaker. 
@@ -172,6 +174,14 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Stack Lighting](http://developers.stacklighting.com/) - The Stack API is a REST API, which defines a set of functions that allow developers to perform requests and to receive responses via the HTTP protocol. This API provides developers with the ability to control brightness, color temperature, motion settings, ambient light sensing settings, and other features to tailor Stack’s responsive lighting to one's unique preferences.
 + [Yeelight](http://www.yeelight.com/en_US/developer) - Yeelight smart LED products support remote control through WiFi. 
 
+#### Machine Learning
++ [Amazon Machine Learning](https://aws.amazon.com/cn/documentation/machine-learning/) - Amazon Machine Learning makes it easy for developers to build smart applications, including applications for fraud detection, demand forecasting, targeted marketing, and click prediction. 
++ [BigML](https://bigml.com/api) - The BigML platform features anomaly detection, cluster analysis, SunBurst visualization for decision trees, text analysis, and more. 
++ [Diffbot](https://www.diffbot.com/dev/docs/) - The Diffbot platform utilizes a combination of AI, computer vision, machine learning, and natural language processing to automatically extract data from web pages such as text, images, video, product information, and comments.
++ [Google Cloud Prediction](https://cloud.google.com/prediction/docs/) - Google Cloud Prediction API provides a RESTful API to build Machine Learning models. Prediction's cloud-based machine learning tools can help analyze your data to add various features to your applications, such as customer sentiment analysis, spam detection, recommendation systems, and more.
++ [IBM Watson](https://developer.ibm.com/watson/) - Allow developers to build applications that utilize machine learning technologies such as natural language processing, computer vision, and prediction.
++ [Microsoft Azure Machine Learning](https://azure.microsoft.com/en-us/services/cognitive-services/) - The Microsoft Azure Machine Learning platform provides capabilities such as natural language processing, recommendation engine, pattern recognition, computer vision, and predictive modeling.
+
 #### Maps
 + [Bing maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Access to Bing maps' API.
 + [Here Maps](https://developer.here.com/develop/rest-apis) - Use simple HTTP GET methods providing maps, routing, geocoding, places, positioning, traffic, transit and weather information. Platform Extensions add capabilities to the service results received from HERE REST APIs. Samples are provided.
@@ -189,12 +199,15 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Rotten Tomatoes](https://developer.fandango.com/Rotten_Tomatoes) - The Rotten Tomatoes API provides access to Rotten Tomatoes' ratings and reviews, allowing approved companies and individuals to enrich their applications and widgets with Rotten Tomatoes data.
 
 #### News&information
++ [feedly](https://developer.feedly.com/) - Access to feedly's API.
 + [Genius](https://docs.genius.com/) - The Genius API to help build the world's greatest public knowledge project since Wikipedia.
++ [HackerNews](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 + [Newsblur](https://newsblur.com/api) - NewsBlur's API allows users to retrieve their feeds, feed counts, feed icons, feed statistics, and individual feed stories.
 + [npr](http://www.npr.org/api/index) - NPR's API provides a flexible, powerful way to access your favorite NPR content.
 + [Product Hunt](https://api.producthunt.com/v1/docs) - Access to [producthunt.com](https://www.producthunt.com/)'s API.
++ [The New York Public Library Digital Collections API](http://api.repo.nypl.org/) - For more than a century, The NY Public Library has amassed an extraordinary trove of rare and unique material covering the full spectrum of recorded knowledge.
 + [The New York Times](https://developer.nytimes.com/) - Access to The New York Times's API.
-+ [feedly](https://developer.feedly.com/) - Access to feedly's API.
++ [USA TODAY](https://developer.usatoday.com/docs/) - Access to the latest news and most interesting stories from USA TODAY.
 
 #### Notes
 + [Evernote](https://dev.evernote.com/doc/) - Access to notes, notebooks, attachments data of Evernote, search, synchronize. The SDKs of ActionScript 3, Android, C++, Windows, iOS, Java, JavaScript, OS X, Perl, PHP, Python, Ruby platform and complete API reference documents are provided.
@@ -202,6 +215,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 
 #### Payment
 + [PayPal](https://developer.paypal.com/docs/api/) - Access to PayPal's REST API.
++ [Paymill](https://developers.paymill.com/index) - Access the full API reference and get any information you need to know to implement PAYMILL.
 
 #### Places
 + [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - Access to Yelp's API.
@@ -254,6 +268,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 #### More Resource
 + [Amazon Developer](https://developer.amazon.com/) - Allows to build software about the Amazon Apps&Games, the Alexa, the AWS, the Amazon Services&APIs and the Amazon Devices.
 + [Google API Library](https://console.developers.google.com/apis/library) - The Google API Library contains more than 100 apis such as the Google Cloud APIs, the Google Maps APIs, the Google Apps APIs, the Mobile APIs, the Social Media APIs, the Youtube APIs, the Advertising APIs, and the Other popular APIs.
++ [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - The Search API allows you to place search fields in your website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store. 
 + [Microsoft Developer](https://developer.microsoft.com/en-us/) - Access to Microsoft's public APIs.
 + [ProgrammableWeb](https://www.programmableweb.com/) - The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 + [Yahoo Developer Network](https://developer.yahoo.com/everything.html) - The Yahoo Developer Network offers APIs and tools to make it easy for developers to build, advertise, enhance applications and earn money with Yahoo.
