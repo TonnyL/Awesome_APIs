@@ -60,6 +60,7 @@
 
 #### 电影
 + [豆瓣电影](https://developers.douban.com/wiki/?title=movie_v2) - 豆瓣电影支持电影条目，影人条目，搜索和榜单等。
++ [豆瓣电影(非官方)](https://github.com/jokermonn/-Api/blob/master/DoubanMovie.md) - 获取最近热映电影、短评、影评、图片等。 #非官方
 + [猫眼电影(非官方)](http://www.jianshu.com/p/9855610eb1d4) - 支持查询首页电影列表，电影详情(含评论)，本地影院和影院详情，选座。 #非官方
 + + [Time时光(非官方)](https://github.com/jokermonn/-Api/blob/master/Time.md) - 支持获取[时光网](http://www.mtime.com/)网站数据。 #非官方
 + [V电影(非官方)](https://github.com/avenwu/vplus/blob/master/doc/v%E7%94%B5%E5%BD%B1api%E6%8E%A5%E5%8F%A3.md) - 支持获取[V电影](http://www.vmovier.com/)网站的数据。 #非官方
