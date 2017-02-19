@@ -216,6 +216,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 #### Payment
 + [PayPal](https://developer.paypal.com/docs/api/) - Access to PayPal's REST API.
 + [Paymill](https://developers.paymill.com/index) - Access the full API reference and get any information you need to know to implement PAYMILL.
++ [Paytm](https://paytm.com/business/payments/developers) - Access to the details of the APIs you need to work with to take payments on your app/website using Paytm Wallet and for handling operational issues related to payments (eg: refunds, transaction status check).
 
 #### Places
 + [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - Access to Yelp's API.
