@@ -62,8 +62,8 @@
 + [豆瓣电影](https://developers.douban.com/wiki/?title=movie_v2) - 豆瓣电影支持电影条目，影人条目，搜索和榜单等。
 + [豆瓣电影(非官方)](https://github.com/jokermonn/-Api/blob/master/DoubanMovie.md) - 获取最近热映电影、短评、影评、图片等。 #非官方
 + [猫眼电影(非官方)](http://www.jianshu.com/p/9855610eb1d4) - 支持查询首页电影列表，电影详情(含评论)，本地影院和影院详情，选座。 #非官方
-+ [V电影(非官方)](https://github.com/avenwu/vplus/blob/master/doc/v%E7%94%B5%E5%BD%B1api%E6%8E%A5%E5%8F%A3.md) - 支持获取[V电影](http://www.vmovier.com/)网站的数据。 #非官方
 + [Time时光(非官方)](https://github.com/jokermonn/-Api/blob/master/Time.md) - 支持获取[时光网](http://www.mtime.com/)网站数据。 #非官方
++ [V电影(非官方)](https://github.com/avenwu/vplus/blob/master/doc/v%E7%94%B5%E5%BD%B1api%E6%8E%A5%E5%8F%A3.md) - 支持获取[V电影](http://www.vmovier.com/)网站的数据。 #非官方
 
 #### 即时通讯
 + [环信](http://www.easemob.com/) - 支持Android, iOS, WebIM, Linux, REST集成，支持多种消息类型。
@@ -107,6 +107,7 @@
 #### 视频
 + [爱奇艺](http://open.iqiyi.com/) - 支持弹幕，全色彩播放器，高清码流，视频托管，播放爱奇艺视频，应用分发，IOCP等内容。
 + [Bilibili(非官方)](https://github.com/fython/BilibiliAPIDocs) - 支持登录，我的信息，番剧专题，视频/专题收藏、关注，番剧，弹幕等。 #非官方
++ [Bilibili(非官方)](https://github.com/Vespa314/bilibili-api/blob/master/api.md) - 支持获取Bilibili网站数据。#非官方
 + [乐视](http://www.lecloud.com/zh-cn/help/api.html) - 支持标准直播，标准点播，视频发行平台，移动直播等内容，提供SDK下载。
 + [搜狐视频](http://lm.tv.sohu.com/union/open_platform.do) - 支持一二级内容获取，内容分类获取，视频详情信息，专辑详情信息，分级列表获取，关键词搜索等内容。
 + [土豆](http://api.tudou.com/apidoc/index.php/%E9%A6%96%E9%A1%B5) - 支持视频模块，豆单模块，影视库模块，用户模块，转帖模块，字段定义模块等内容。
@@ -115,10 +116,10 @@
 #### 天气
 + [彩云天气](http://wiki.swarma.net/index.php/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94API/v2) - 支持全球天气数据，两种空气质量数据，天气预报，实况天气，独家降水预报，独家空气质量预报，六种天气数据，四种生活指数数据等内容，部分功能收费。
 + [和风天气](http://www.kancloud.cn/hefengyun/weather/222344) - 支持7-10天预报，实况天气，每小时预报，生活指数，灾害预警，景点天气，历史天气，城市查询等内容，仅国内数据免费。
-+ [心知天气](http://www.thinkpage.cn/doc) - 支持天气实况，逐日预报和历史，24小时逐小时预报，过去24小时天气历史记录，气象灾害预警，空气质量实况与城市排行，逐日和逐小时空气质量预报，过去24小时空气质量历史记录，生活指数，农历、节气、生肖，机动车尾号限行，日出日落，月初月落和月像，城市搜索等内容，仅国内数据免费。
 + [魅族天气(非官方)](https://github.com/jokermonn/-Api/blob/master/MeizuWeather.md) - 支持获取魅族天气。 #非官方
-+ [中央天气预报(非官方)](https://github.com/jokermonn/-Api/blob/master/CenterWeather.md) - 支持获取中央天气预报数据。 #非官方
 + [小米天气(非官方)](https://github.com/jokermonn/-Api/blob/master/XiaomiWeather.md) - 支持获取小米天气数据。 #非官方
++ [心知天气](http://www.thinkpage.cn/doc) - 支持天气实况，逐日预报和历史，24小时逐小时预报，过去24小时天气历史记录，气象灾害预警，空气质量实况与城市排行，逐日和逐小时空气质量预报，过去24小时空气质量历史记录，生活指数，农历、节气、生肖，机动车尾号限行，日出日落，月初月落和月像，城市搜索等内容，仅国内数据免费。
++ [中央天气预报(非官方)](https://github.com/jokermonn/-Api/blob/master/CenterWeather.md) - 支持获取中央天气预报数据。 #非官方
 
 #### 团队协作
 + [Teambition](https://www.teambition.com/developer/open-platform) - 支持详细的文档说明，部分平台提供demo。
