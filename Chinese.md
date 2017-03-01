@@ -177,7 +177,7 @@
 
 #### 杂志
 + [豆瓣一刻(非官方)](https://github.com/ZongweiBai/DoubanOpenDaily/blob/b87473b90911e687d291e847b133b5c4c4a700a3/app/src/main/java/com/monosky/daily/constant/APIConstData.java) - 支持获取指定日期文章列表，栏目总览，推荐作者，作者信息，作者更多文章信息，栏目文章列表及翻页，文章评论及热门评论列表。 #非官方
-+ [开眼(非官方)](https://github.com/jokermonn/-Api/blob/master/Eyepetizer.md) - 支持获取开眼所有信息，包括精选、发现等。 #非官方
++ [开眼(非官方)](https://github.com/jokermonn/-Api/blob/master/Eyepetizer.md) - 支持获取未登录状态下开眼精选、发现、关注信息。  #非官方
 + [One一个(非官方)](https://github.com/jokermonn/-Api/blob/master/ONEv3.5.0~.md) - 支持获取首页图片，文章，音乐及电影。 #非官方
 + [知乎日报(非官方)](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90) - 支持获取界面启动图像，软件版本查询，最新消息，消息内容获取与离线下载，过往消息，新闻额外消息，新闻对应长/短评论查看，主题日报列表，主题日报内容，热门消息，栏目总览，栏目具体消息，新闻的推荐者，某个专栏之前的新闻，Editor的主页等。 #非官方
 + [知乎专栏(非官方)](https://github.com/marktony/zhuanlan/wiki) - 支持获取指定专栏的信息，指定专栏的文章列表，指定的文章内容，评论列表，点赞信息。 #非官方
