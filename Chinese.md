@@ -127,10 +127,12 @@
 + [Teambition](https://www.teambition.com/developer/open-platform) - 支持详细的文档说明，部分平台提供demo。
 
 #### 图片与图像处理
++ [别样网](http://www.ssyer.com/) - 无版权免费大尺寸图片共享平台。
 + [Bing每日壁纸(非官方)](https://www.v2ex.com/t/157267) - 支持图片URL和图片描述，可获取不同地区的数据。 #非官方
 + [Camera360](https://github.com/pinguo/PGSkinPrettifyEngine) - 支持全帧率直播美白滤镜，提供SDK和Demo。
 + [嗨图](http://imgsdk.com/) - 支持图片标注，仅提供iOS版本SDK。
 + [名片全能王](https://dev.camcard.com/?language=zh-cn) - 支持精准识别几十种语言的名片，自动切边并美化名片图像，自动返回识别结果，提供多种版本SDK，收费。
++ [pixabay](https://pixabay.com/api/docs/) - 在所有的图像和视频Pixabay释放自由版权下创作共用CC0。你可以下载、修改、分发，并使用它们在任何你喜欢的任何东西，即使在商业应用程序中使用它们。不需要归属权。
 + [企业证件识别](http://www.intsig.com/zh/products/camcard_for_id) - 支持身份证，驾驶证，护照等，收费。
 + [扫描全能王](https://dev.camscanner.com/?language=zh-cn) - 支持图像智能剪裁，五种图像增强模式，手动调节图像细节，自动返回扫描结果等，提供iOS与Android版本SDK，收费。
 + [我知图](http://api1.wozhitu.com/) - 支持相似图像搜索，图像识别匹配，图像识别关键词推荐，重复图片探测等内容。
