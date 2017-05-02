@@ -1,18 +1,19 @@
-# Awesome_API
+# Awesome_APIs
+
 
 中文版请戳[这里](#中文版)
 
 #### If you think this project is helpful, please star it.
 
 ### Categories
-+ [Chinese Part](https://github.com/marktony/Awesome_API/blob/master/Chinese.md)
-+ [Global Part](https://github.com/marktony/Awesome_API/blob/master/Global.md)
++ [Chinese Part](https://github.com/TonnyL/Awesome_APIs/blob/master/Chinese.md)
++ [Global Part](https://github.com/TonnyL/Awesome_APIs/blob/master/Global.md)
 
 ### Contribution Guidelines
-This project is in progress, and I will complete it in the near future.If you have found any awesome apis and want to share with other developers, please make a pull request. Please adhere to the [guidelines](https://github.com/marktony/Awesome_API/blob/master/Contribution_Guidelines.md).
+This project is in progress, and I will complete it in the near future.If you have found any awesome apis and want to share with other developers, please make a pull request. Please adhere to the [guidelines](https://github.com/TonnyL/Awesome_APIs/blob/master/Contribution_Guidelines.md).
 
 ### Contact Me
-marktonymengyi#gmail.com
+lizhaotailang#gmail.com
 
 If you have any questions, ideas or suggestions, please email me and I will reply as soon as possible.
 
@@ -21,28 +22,22 @@ If my work is helpful to you, please support me a cup of coffee. THX.
 
 [PayPal](https://www.paypal.me/TonnyL/1)
 
-![Wechat_QRCode](https://github.com/marktony/Awesome_API/blob/master/we_chat_qr_code.png)
-![Alipay_QRCode](https://github.com/marktony/Awesome_API/blob/master/alipay_qr_code.png)
-
-### Other Repositories of Mine
-+ [Paper Plane](https://github.com/marktony/PaperPlane) -- MVP Architecture, Including the Content of Zhihu Daily, Guokr Handpick and Douban Moment
-+ [Zhihu Zhuanlan](https://github.com/marktony/zhuanlan) -- Analysis of Zhihu Zhuanlan's API
-+ [Fanfou Handpick](https://github.com/marktony/FanfouHandpick) -- A Fanfou Handpick Client Developed by Kotlin
-+ [Translator](https://github.com/marktony/Translator) --  A translation app based on Android platform
+![Wechat_QRCode](https://github.com/TonnyL/Awesome_APIs/blob/master/we_chat_qr_code.png)
+![Alipay_QRCode](https://github.com/TonnyL/Awesome_APIs/blob/master/alipay_qr_code.png)
 
 
 ## 中文版
 #### 如果此项目对你有帮助的话，请给她一个star吧
 
 ### 分类
-+ [国内部分](https://github.com/marktony/Awesome_API/blob/master/Chinese.md)
-+ [国外部分](https://github.com/marktony/Awesome_API/blob/master/Global.md)
++ [国内部分](https://github.com/TonnyL/Awesome_APIs/blob/master/Chinese.md)
++ [国外部分](https://github.com/TonnyL/Awesome_APIs/blob/master/Global.md)
 
 ### 代码贡献建议
-项目仍然在进行中，我会在未来一段时间内完成她。如果你发现了一些很好的api并想要与其他开发者分享，请提pull request吧。请参考[代码贡献指导建议](https://github.com/marktony/Awesome_API/blob/master/Contribution_Guidelines.md)。
+项目仍然在进行中，我会在未来一段时间内完成她。如果你发现了一些很好的api并想要与其他开发者分享，请提pull request吧。请参考[代码贡献指导建议](https://github.com/TonnyL/Awesome_APIs/blob/master/Contribution_Guidelines.md)。
 
 ### 联系
-marktonymengyi#gmail.com
+lizhaotailang#gmail.com
 
 如果你有任何问题、意见或者建议，都可以向我发送邮件，我会尽快回复。
 
@@ -51,14 +46,8 @@ marktonymengyi#gmail.com
 
 [PayPal](https://www.paypal.me/TonnyL/1)
 
-![Wechat_QRCode](https://github.com/marktony/Awesome_API/blob/master/we_chat_qr_code.png)
-![Alipay_QRCode](https://github.com/marktony/Awesome_API/blob/master/alipay_qr_code.png)
-
-### 我的其他项目
-+ [纸飞机](https://github.com/marktony/PaperPlane) -- 采用MVP架构，集合了果壳精选和豆瓣一刻的综合性阅读客户端
-+ [知乎专栏](https://github.com/marktony/zhuanlan) -- 知乎专栏API分析 + 第三方知乎专栏Android客户端
-+ [饭否精选](https://github.com/marktony/FanfouHandpick) -- 使用Kotlin开发的饭否精选客户端
-+ [简单翻译](https://github.com/marktony/Translator) -- Android翻译App
+![Wechat_QRCode](https://github.com/TonnyL/Awesome_APIs/blob/master/we_chat_qr_code.png)
+![Alipay_QRCode](https://github.com/TonnyL/Awesome_APIs/blob/master/alipay_qr_code.png)
 
 ### License
 ```
