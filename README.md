@@ -39,7 +39,7 @@ If my work is helpful to you, please support me a cup of coffee. THX.
 + [国外部分](https://github.com/marktony/Awesome_API/blob/master/Global.md)
 
 ### 代码贡献建议
-项目仍然在进行中，我会在未来一段时间内完成她。如果你发现了一些很好的api并想要与其他开发者分享，请提pull requst吧。请参考[代码贡献指导建议](https://github.com/marktony/Awesome_API/blob/master/Contribution_Guidelines.md)。
+项目仍然在进行中，我会在未来一段时间内完成她。如果你发现了一些很好的api并想要与其他开发者分享，请提pull request吧。请参考[代码贡献指导建议](https://github.com/marktony/Awesome_API/blob/master/Contribution_Guidelines.md)。
 
 ### 联系
 marktonymengyi#gmail.com
