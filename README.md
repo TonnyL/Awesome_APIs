@@ -6,11 +6,11 @@
 #### If you think this project is helpful, please star it.
 
 ### Categories
-+ [Chinese Part](https://github.com/TonnyL/Awesome_APIs/blob/master/Chinese.md)
-+ [Global Part](https://github.com/TonnyL/Awesome_APIs/blob/master/Global.md)
++ [Chinese Part](./Chinese.md)
++ [Global Part](./Global.md)
 
 ### Contribution Guidelines
-This project is in progress, and I will complete it in the near future.If you have found any awesome apis and want to share with other developers, please make a pull request. Please adhere to the [guidelines](https://github.com/TonnyL/Awesome_APIs/blob/master/Contribution_Guidelines.md).
+This project is in progress, and I will complete it in the near future.If you have found any awesome apis and want to share with other developers, please make a pull request. Please adhere to the [guidelines](./Contribution_Guidelines.md).
 
 ### Contact Me
 lizhaotailang#gmail.com
@@ -18,23 +18,23 @@ lizhaotailang#gmail.com
 If you have any questions, ideas or suggestions, please email me and I will reply as soon as possible.
 
 ### Donate
-If my work is helpful to you, please support me a cup of coffee. THX. 
+If my work is helpful to you, please support me a cup of coffee. THX.
 
 [PayPal](https://www.paypal.me/TonnyL/1)
 
-![Wechat_QRCode](https://github.com/TonnyL/Awesome_APIs/blob/master/we_chat_qr_code.png)
-![Alipay_QRCode](https://github.com/TonnyL/Awesome_APIs/blob/master/alipay_qr_code.png)
+![Wechat_QRCode](./we_chat_qr_code.png)
+![Alipay_QRCode](./alipay_qr_code.png)
 
 
 ## 中文版
 #### 如果此项目对你有帮助的话，请给她一个star吧
 
 ### 分类
-+ [国内部分](https://github.com/TonnyL/Awesome_APIs/blob/master/Chinese.md)
-+ [国外部分](https://github.com/TonnyL/Awesome_APIs/blob/master/Global.md)
++ [国内部分](./Chinese.md)
++ [国外部分](./Global.md)
 
 ### 代码贡献建议
-项目仍然在进行中，我会在未来一段时间内完成她。如果你发现了一些很好的api并想要与其他开发者分享，请提pull request吧。请参考[代码贡献指导建议](https://github.com/TonnyL/Awesome_APIs/blob/master/Contribution_Guidelines.md)。
+项目仍然在进行中，我会在未来一段时间内完成她。如果你发现了一些很好的api并想要与其他开发者分享，请提pull request吧。请参考[代码贡献指导建议](./Contribution_Guidelines.md)。
 
 ### 联系
 lizhaotailang#gmail.com
@@ -46,8 +46,8 @@ lizhaotailang#gmail.com
 
 [PayPal](https://www.paypal.me/TonnyL/1)
 
-![Wechat_QRCode](https://github.com/TonnyL/Awesome_APIs/blob/master/we_chat_qr_code.png)
-![Alipay_QRCode](https://github.com/TonnyL/Awesome_APIs/blob/master/alipay_qr_code.png)
+![Wechat_QRCode](./we_chat_qr_code.png)
+![Alipay_QRCode](./alipay_qr_code.png)
 
 ### License
 ```
