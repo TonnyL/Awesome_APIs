@@ -2,9 +2,10 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 
 ### Table of Contents
 
++ [BarCode and QR Code](#barcode-and-qr-code)
 + [Blogging](#blogging)
 + [Bookmarking](#bookmarking)
-+ [Bookshare](#bookshare)
++ [Booksharing](#booksharing)
 + [Business](#business)
 + [Calendar](#calendar)
 + [Carsharing](#carsharing)
@@ -33,6 +34,10 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Videos](#videos)
 + [Weather](#weather)
 + [More Resource](#more-resource)
+
+#### BarCode and QR Code
++ [Google Barcode](https://developers.google.com/vision/android/barcodes-overview?hl=en) - The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.
++ [QR Code Generator](http://goqr.me/api/) - You can generate and decode / read QR code graphics with our QR code generator web API at api.qrserver.com.
 
 #### Blogging
 + [Blogger](https://developers.google.com/blogger/) - The Blogger API v3 allows you to create new blog posts, edit or delete existing posts, and query for posts that match particular criteria.

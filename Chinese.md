@@ -21,6 +21,7 @@
 + [消息推送](#消息推送)
 + [音乐](#音乐)
 + [云](#云)
++ [语义识别](#语义识别)
 + [语音识别](#语音识别)
 + [杂志](#杂志)
 + [综合](#综合)
@@ -40,9 +41,10 @@
 + [百度翻译](http://api.fanyi.baidu.com/api/trans/product/index) - 百度翻译支持多种语言互相翻译，包含PHP, JS, Python, C, Java版Demo。
 + [必应词典](https://www.microsoft.com/en-us/translator/translatorapi.aspx) - 微软翻译API支持文字和语音两种类型，支持多种语言互相翻译，提供C#版本Demo。
 + [必应词典(非官方)](https://github.com/jokermonn/-Api/blob/master/BingDic.md) - 支持单词和语句翻译。 #非官方
-+ [金山词霸](http://open.iciba.com/?c=api) - 金山词霸允许进行简单的翻译操作。
++ [金山词霸](http://open.iciba.com/?c=api) - 金山词霸支持简单的翻译操作。
 + [金山词霸(非官方)](https://github.com/jokermonn/-Api/blob/master/KingsoftDic.md) - 金山词霸允许进行简单的翻译操作。 #非官方
 + [扇贝](https://www.shanbay.com/help/developer/api_v1/) - 扇贝提供了完整的API，允许进行用户，查询，添加学习记录，忘记单词，例句，笔记等方面的操作。
++ [译云翻译](http://api.yeekit.com/) - 译云支持进行中英互译，后续会支持更多的语言。
 + [有道词典](http://fanyi.youdao.com/openapi) - 有道词典允许进行简单的翻译操作。
 + [有道词典(非官方)](https://github.com/jokermonn/-Api/blob/master/YoudaoDic.md) - 允许进行简单的翻译操作。 #非官方
 
@@ -174,6 +176,10 @@
 + [腾讯云](https://www.qcloud.com/doc/api) - 支持计算，网络，存储与CDN，数据库，安全服务，监控与管理，域名服务，视频服务，大数据与AI等内容，提供相关SDK。
 + [野狗](https://www.wilddog.com/) - 支持实时数据同步，实时视频通话，及时通讯，短信，身份认证等。
 
+#### 语义识别
++ [BosonNLP玻森](http://bosonnlp.com/) - 支持REST API并提供Python SDK。
++ [腾讯文智](http://nlp.qq.com/) - 支持词法类，句法类，篇章类，下载类API，目前平台能识别类别囊括了求职招聘、影视、音乐、健康养生、财经、广告推广、犯罪、政治等90多个类别，且算法支持快速迭代更新已有类别及增加新类别。提供Python SDK。
+
 #### 语音识别
 + [百度语音](http://yuyin.baidu.com/) - 支持全平台REST API, 离线在线融合模式，深度语义解析，场景识别定制，自定义上传语料、训练模型，基础服务永久免费。提供相应SDK和Demo应用。
 + [搜狗语音云开放平台](http://openspeech.sogou.com/Sogou/php/index.php) - 支持在线/离线语音识别，在线听歌识曲，离线语音合成等内容。提供相应平台SDK。
@@ -192,7 +198,7 @@
 + [阿凡达数据](http://www.avatardata.cn/Docs) - 支持金融股票，充值认证，便民类，新闻文章，医药交通，科教文艺，创意数据，及时通讯等内容。
 + [阿里大于](http://www.alidayu.com/) - 支持验证码，短信通知，语音通知，流量钱包充值，私密专线，群发助手等内容。
 + [APiX](https://www.apix.cn/) - 支持基础征信数据，信用分析服务，支付缴费接口等数据，部分免费。
-+ [百度API STORE](http://apistore.baidu.com/) - 支持多种类型数据，部分免费，提供SDK。
++ [百度API STORE](http://apistore.baidu.com/) - 支持多种类型数据，提供SDK。
 + [HaoService](http://www.haoservice.com/) - 支持多种类型数据。
 + [聚合数据](https://www.juhe.cn/) - 支持多种类型数据，部分免费。
 + [通联数据](https://m.datayes.com/) - 提供金融类数据，支持免费试用。

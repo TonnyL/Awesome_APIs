@@ -1,8 +1,5 @@
 # Awesome_APIs
 
-
-中文版请戳[这里](#中文版)
-
 #### If you think this project is helpful, please star it.
 
 ### Categories
@@ -10,7 +7,7 @@
 + [Global Part](./Global.md)
 
 ### Contribution Guidelines
-This project is in progress, and I will complete it in the near future.If you have found any awesome apis and want to share with other developers, please make a pull request. Please adhere to the [guidelines](./Contribution_Guidelines.md).
+This project is in progress, and I will complete it in the near future. If you have found any awesome apis and want to share with other developers, please make a pull request. Please adhere to the [guidelines](./Contribution_Guidelines.md).
 
 ### Contact Me
 lizhaotailang#gmail.com
@@ -26,7 +23,6 @@ If my work is helpful to you, please support me a cup of coffee. THX.
 ![Alipay_QRCode](./alipay_qr_code.png)
 
 
-## 中文版
 #### 如果此项目对你有帮助的话，请给她一个star吧
 
 ### 分类
