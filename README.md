@@ -14,15 +14,6 @@ lizhaotailang#gmail.com
 
 If you have any questions, ideas or suggestions, please email me and I will reply as soon as possible.
 
-### Donate
-If my work is helpful to you, please support me a cup of coffee. THX.
-
-[PayPal](https://www.paypal.me/TonnyL/1)
-
-![Wechat_QRCode](./we_chat_qr_code.png)
-![Alipay_QRCode](./alipay_qr_code.png)
-
-
 #### 如果此项目对你有帮助的话，请给她一个star吧
 
 ### 分类
@@ -36,14 +27,6 @@ If my work is helpful to you, please support me a cup of coffee. THX.
 lizhaotailang#gmail.com
 
 如果你有任何问题、意见或者建议，都可以向我发送邮件，我会尽快回复。
-
-### 捐赠
-如果我的工作对你有帮助，可以请我喝一杯咖啡。谢谢！
-
-[PayPal](https://www.paypal.me/TonnyL/1)
-
-![Wechat_QRCode](./we_chat_qr_code.png)
-![Alipay_QRCode](./alipay_qr_code.png)
 
 ### License
 ```
