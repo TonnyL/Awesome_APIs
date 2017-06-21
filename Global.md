@@ -159,6 +159,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Google Play Games Services](https://developers.google.com/games/) - The Google Developers Games site provides a variety of APIs, SDKs, and services including (but not limited to) game publishing API, Unity Plugin, Play Games Services (achievements, leaderboards, player stats, etc.), and Google AdMob.
 + [Riot Games](https://developer.riotgames.com/) - Access to recent games, ranked statistics, runes, masteries, and much more at your fingertips.
 + [Steam Web APIs](https://steamcommunity.com/dev) - The Steam Web APIs allow developers to query Steam for information that they can present on their own sites.At the moment the only APIs we offer provide item data for Team Fortress 2, but this list will grow over time.
++ [Giant Bomb](http://www.giantbomb.com/api/) - The Giant Bomb API provides programmatic access to a lot of the information available on the Giant Bomb Web site such as game titles, ratings, videos, companies, themes, genres, and much more. 
 
 #### Language-learning
 + [Google Translate](https://cloud.google.com/translate/docs/) - Dynamically translate between thousands of available language pairs.
