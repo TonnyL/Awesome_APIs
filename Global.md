@@ -4,6 +4,7 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 
 + [BarCode and QR Code](#barcode-and-qr-code)
 + [Blogging](#blogging)
++ [Book](#book)
 + [Bookmarking](#bookmarking)
 + [Booksharing](#booksharing)
 + [Business](#business)
@@ -46,6 +47,10 @@ Here are the global APIs, if you wanna see the Chinese version, click [here](htt
 + [Weebly](https://cloud-developer.weebly.com/) - Access to Weebly's API.
 + [WordPress](https://codex.wordpress.org/WordPress_APIs) - Access to WordPress's API.
 + [Telegraph](http://telegra.ph/api) - Access to Telegraph's API, Telegram's publishing service.
+
+#### Book
++ [Open Library Books API](https://openlibrary.org/developers/api) - Open Library is an open, editable library catalog, building towards a web page for every book ever published. 
++ [An API Of Ice And Fire](https://anapioficeandfire.com/) - The An API of Ice And Fire provide data about all Book, Characters, Houses from the universe of 'A Song of Ice and Fire' in JSON format. Authentication is not required. Node and Swift libraries available.
 
 #### Bookmarking
 + [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
