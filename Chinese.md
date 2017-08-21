@@ -139,6 +139,7 @@
 + [扫描全能王](https://dev.camscanner.com/?language=zh-cn) - 支持图像智能剪裁，五种图像增强模式，手动调节图像细节，自动返回扫描结果等，提供iOS与Android版本SDK，收费。
 + [我知图](http://api1.wozhitu.com/) - 支持相似图像搜索，图像识别匹配，图像识别关键词推荐，重复图片探测等内容。
 + [银行卡|信用卡识别](http://www.intsig.com/zh/products/creditcard) - 提供SDK和API，收费。
++ [又拍云](https://www.upyun.com/products/process) - 提供图片水印、裁剪、自定义缩略图、图片格式转换、图片瘦身、图片识别等。
 
 #### 外卖
 + [百度外卖](http://dev.waimai.baidu.com/) - 支持商户，菜品，商品，订单和基础数据等内容，提供SDK和Demo。
@@ -174,6 +175,7 @@
 + [七牛云](http://www.qiniu.com/) - 支持对象存储，融合CDN，直播云，数据处理等。
 + [腾讯云](https://www.qcloud.com/doc/api) - 支持计算，网络，存储与CDN，数据库，安全服务，监控与管理，域名服务，视频服务，大数据与AI等内容，提供相关SDK。
 + [野狗](https://www.wilddog.com/) - 支持实时数据同步，实时视频通话，及时通讯，短信，身份认证等。
++ [又拍云](https://www.upyun.com/) - 支持 CDN、融合云存储、短视频、点播云、直播云、内容识别、HTTPS SSL 等。
 
 #### 语义识别
 + [BosonNLP玻森](http://bosonnlp.com/) - 支持REST API并提供Python SDK。
