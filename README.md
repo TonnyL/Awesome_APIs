@@ -13,14 +13,11 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 
 + [Blogging](#blogging)
 + [Books](#books)
-+ [Bookmarking](#bookmarking)
-+ [Booksharing](#booksharing)
 + [Business](#business)
 + [Calendar](#calendar)
 + [Carsharing](#carsharing)
++ [Cloud](#cloud)
 + [Cloud Storage](#cloud-storage)
-+ [Communication](#communication)
-+ [Connected Car](#connected-car)
 + [Delivery tracking](#delivery-tracking)
 + [Design](#design)
 + [Development](#development)
@@ -30,6 +27,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [IoT](#iot)
 + [Machine Learning](#machine-learning)
 + [Maps](#maps)
++ [Messaging](#messaging)
 + [Music](#music)
 + [News & Information](#news--information)
 + [Notes](#notes)
@@ -38,37 +36,29 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Places](#places)
 + [Social](#social)
 + [Shopping](#shopping)
-+ [Reading](#reading)
++ [Takeout](#takeout)
++ [Teamwork](#teamwork)
++ [Text Analysis](#text-analysis)
 + [To-dos](#to-dos)
++ [Tourism](#tourism)
++ [Translation](#translation)
 + [Video](#video)
++ [Voice Analysis](#voice-analysis)
++ [Vision Analysis](#vision-analysis)
 + [Weather](#weather)
 + [More Resource](#more-resource)
-
-### BarCode & QR Code
-+ [QR Code Generator](http://goqr.me/api/) - You can generate and decode / read QR code graphics with our QR code generator web API at api.qrserver.com.
 
 ### Blogging
 + [Blogger](https://developers.google.com/blogger/) - The Blogger API v3 allows you to create new blog posts, edit or delete existing posts, and query for posts that match particular criteria.
 + [Medium](https://github.com/Medium/medium-api-docs) - Access to the data of [medium.com](https://medium.com/).
-+ [Weebly](https://cloud-developer.weebly.com/) - Access to Weebly's API.
-+ [WordPress](https://codex.wordpress.org/WordPress_APIs) - Access to WordPress's API.
-+ [Telegraph](http://telegra.ph/api) - Access to Telegraph's API, Telegram's publishing service.
++ [Weebly](https://cloud-developer.weebly.com/) - With Weebly Cloud, you provide Weebly’s best-in-class website builder to enable your customers to create their own website, blog or online store in minutes, while you maintain full control over billing, support, and the customer relationship. 
++ [WordPress](https://codex.wordpress.org/WordPress_APIs) - Access to WordPress's APIs.
++ [Telegraph](http://telegra.ph/api) - Access to Telegraph's APIs, Telegram's publishing service.
 
 ### Books
 + [An API Of Ice And Fire](https://anapioficeandfire.com/) - The An API of Ice And Fire provide data about all Book, Characters, Houses from the universe of 'A Song of Ice and Fire' in JSON format. Authentication is not required. Node and Swift libraries available.
 + [Open Library Books API](https://openlibrary.org/developers/api) - Open Library is an open, editable library catalog, building towards a web page for every book ever published. 
 + [The New York Public Library Digital Collections API](http://api.repo.nypl.org/) - For more than a century, The NY Public Library has amassed an extraordinary trove of rare and unique material covering the full spectrum of recorded knowledge.
-
-### Bookmarking
-+ [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
-+ [Diigo](https://www.diigo.com/api_dev) - The Diigo API allows you to build apps that interact with the Diigo service.
-+ [Inoreader](https://www.inoreader.com/developers/) - The Inoreader API allows you to help users subscribe to feeds, read articles or catalogue them for viewing later
-+ [Instapaper](https://www.instapaper.com/api) - The Instapaper API allows third-party applications to add URLs to Instapaper.
-+ [Narro](https://docs.narro.co/#introduction) - Access articles and readings, as well as submit them on behalf of customers.
-+ [Pinboard](https://pinboard.in/api) - The Pinboard API is a way to interact programatically with your bookmarks, notes and other Pinboard data.
-+ [Pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
-
-### Booksharing
 + [Bookshare](http://developer.bookshare.org/) - The Bookshare API allows our partners to enable their customers with qualified print disabilities to search,browse and download books and periodicals.
 
 ### Business
@@ -89,10 +79,21 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Outlook Calendar](https://msdn.microsoft.com/en-us/office/office365/api/calendar-rest-operations) - The Calendar API provides access to events, calendar, and calendar group data secured by Azure Active Directory on Office 365, and to similar data in Microsoft accounts specifically in these domains: Hotmail.com, Live.com, MSN.com, Outlook.com, and Passport.com.
 
 ### Carsharing
-+ [滴滴](http://open.xiaojukeji.com/) - 滴滴提供了iOS和Android SDK, 可实现拉起滴滴叫车等方面的操作。
-+ [神州专车](http://developerpre.10101111.com/) - 神州专车提供了API模式和H5模式两种接入模式，允许进行基础信息，订单，支付，充值，用户，发票，代金券，企业等方面的操作。
-+ [Uber](https://developer.uber.com/) - Allows to customize trip experiences, request ride, power logistics, create bot and so much more.
 + [Lyft](https://www.lyft.com/developers) - Allows to get real-time ETAs, availability, price estimates, ride status.
++ [Shenzhou](http://developer.10101111.com/resourceCenter/doc?r=api/content) - A Chinese carsharing company.(**Missing English Docs**)
++ [Uber](https://developer.uber.com/) - Allows to customize trip experiences, request ride, power logistics, create bot and so much more.
+
+### Cloud
++ [aliyun](https://develop.aliyun.com/api/) - (**Missing English Docs**)
++ [Baidu Cloud](https://cloud.baidu.com/doc/index.html) - (**Missing English Docs**)
++ [Bmob](http://www.bmob.cn/) - (**Missing English Docs**)
++ [Google Cloud Platform](https://cloud.google.com/apis/docs/overview)
++ [LeanCloud](https://leancloud.cn/) - 	(**Missing English Docs**)
++ [Oracle Cloud](https://cloud.oracle.com/home)
++ [qiniu](http://www.qiniu.com/) - (**Missing English Docs**)
++ [Tencent Cloud](https://cloud.tencent.com/document/api?lang=en)
++ [wilddog](https://www.wilddog.com/) - (**Missing English Docs**)
++ [upyun](https://www.upyun.com/) - (**Missing English Docs**)
 
 ### Cloud Storage
 + [Amazon Cloud Drive](https://developer.amazon.com/amazon-drive) - With the Amazon Cloud Drive's updated RESTful API and SDKs for Android and iOS, Amazon Drive is moving to an invite-only developer offering to ensure they can provide a consistently viable cloud drive service available for supported use-cases.
@@ -105,30 +106,17 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [QNAP](https://www.qnap.com/event/dev/useng/p_about.php) - With QNAP Development Toolkit (API & SDK), developers can design applications that can run on a client’s device (such as a smart phone or PC) and remotely manage and access files and documents stored on the NAS.
 + [Verizon Cloud](http://www.verizonenterprise.com/cloud/documentation/StorageAPIReference.htm) - Upload, retrieve, and manage large amounts of data ,access data through an API call, view prepackaged reports, rely on Verizon security to keep data safe and accessible at all times.
 
-### Messaging
-+ [Cisco Spark](https://developer.ciscospark.com/) - Create a room and invite people, search for people in your company, post messages into a room, get room history or be notified in real-time when new messages are posted by others.
-+ [dondeEsta Family](http://docs.dondeesta.apiary.io/#introduction/api) - Access to dondeEsta family API.
-+ [Fleep](https://fleep.io/fleepapi/) - Fleep is a messenger for all your teams and projects.
-+ [GroupMe](https://dev.groupme.com/docs/v3) - The GroupMe API will enable you to enhance existing apps with our group messaging abilities, build interesting new experiences, or simply add a little spice to your existing groups.
-+ [indoona](https://developer.indoona.com/) - The indoona RESTful API over HTTPS that lets you:send messages to indoona users and groups, create special address book contacts to let indoona users chat with your application.
-+ [join.me](https://developer.join.me/) - join.me is the online meeting tool that just gets out of the way so that people can accomplish great things together.
-+ [LINE](https://developers.line.me/) - LINE Login API make it easy for your users to log in to your app or website using their existing LINE accounts. Using Messaging API to send customized, interactive messages and responses.
-+ [MessageBird](https://developers.messagebird.com/) - The MessageBird API connects your website or application to operators around the world. With the API you can integrate SMS, Chat & Voice.
-+ [Slack](https://api.slack.com/) - Real-time messaging, archiving and search for modern teams
-+ [TeamSnap](http://developer.teamsnap.com/) - Empower your users with the world's best team management solution.
-+ [Telegram](https://core.telegram.org/api) - The Bot API allows you to easily create programs that use Telegram messages for an interface. The Telegram API allows you to build your own customized Telegram clients. Demos are provided.
-+ [Yo](http://docs.justyo.co/) - Yo is the simplest notification platform.
-
-### Connected Car
-+ [Automatic](https://developer.automatic.com/) - Access to Automatic's API.
-+ [Mojio](https://www.moj.io/developer/) - Mojio facilitates the efficient integration of connected car data into new and existing applications via their suite of best-in-class APIs and mobile SDKs.
-+ [Vinli](https://dev.vin.li/#/home) - Vinli is a platform for easily and quickly building connected car apps.
-
 ### Delivery-Tracking
-+ [爱快递](http://www.aikuaidi.cn/api/) - 爱快递支持国内90多家快递物流订单查询服务，免费版有使用次数限制，可用于电子商城单号跟踪,手机应用,微信快递接口等服务。
-+ [快递100](http://www.kuaidi100.com/openapi/) - 快递100支持300家国内国际快递，免费版有使用次数限制。
-+ [快递鸟](http://www.kdniao.com/) - 快递鸟支持国内外400多家快递公司，免费版有使用次数限制，包含.Net, PHP, Java版Demo。
-+ [快递网](http://www.kuaidi.com/openapi.html) - 快递网支持上百家快递查询服务，免费版有使用次数限制。
++ [AfterShip](https://docs.aftership.com/api/) - Supports shipment tracking and notifications for over 200 couriers.
++ [aikuaidi](http://www.aikuaidi.cn/api/) - Supports shipment tracking for over 200 Chinese couriers.(**Missing English Docs**)
++ [Aramex](https://www.aramex.com/developers/aramex-apis) - Provides parcel, package, and freight delivery via a global network of shipping providers.
++ [Canada Post](http://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/fundamentals.jsf) - Allows e-commerce solution providers and online merchants to integrate Canada Post services, such as shipping, rating and tracking data, into a platform or website.
++ [DHL](http://www.dhl-usa.com/en/express/resource_center/integrated_shipping_solutions.html) - DHL XML Services provides developers the ability to integrate DHL's service availability, transit times, rates, shipment tracking and more from more than 140 countries.
++ [FedEx](https://www.fedex.com/us/developer/web-services/index.html) - FedEx web services allow businesses to integrate FedEx shipping functionality into their existing warehouse management systems without hosting on-site.
++ [kuaidi100](http://www.kuaidi100.com/openapi/) - Supports shipment tracking for over 100 Chinese couriers and 300 international couriers.(**Missing English Docs**)
++ [kuaidi.com](http://www.kuaidi.com/openapi.html) - Supports shipment tracking for over 100 couriers.(**Missing English Docs**)
++ [kdniao](http://www.kdniao.com/) - Supports shipment tracking for over 400 couriers.(**Missing English Docs**)
++ [UPS](http://www.ups.com/content/us/en/resources/techsupport/developercenter.html) - Provides UPS shipping functionalities to be integrated into websites and enterprise applications.  
 
 ### Design
 + [Dribbble](http://developer.dribbble.com/v1/) - Access to buckets, projects, shots, teams, users, jobs data.
@@ -136,29 +124,36 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [deviantART](https://www.deviantart.com/developers/) - Allows to get data of deviantart.com.
 
 ### Development
-+ [Coding](https://open.coding.net/) - 授权后可访问coding.net网站的内容。
-+ [干货集中营](http://gank.io/api) - 提供妹子图和Android, iOS, 前端，拓展资源等内容。
-+ [diycode](https://www.diycode.cc/api) - 授权后可访问diycode网站的内容。
-+ [开源中国](http://www.oschina.net/openapi) - 授权后可访问开源中国网站的内容。
-+ [Laravel China](https://laravel-china.org/topics/3097) - 授权后可访问 Laravel China 网站的内容。
-+ [Ruby China](https://ruby-china.org/api-doc/) - 授权后可访问Ruby China网站的内容。
-+ [V2EX](https://www.v2ex.com/p/7v9TEc53) - 可访问V2EX网站的内容。
 + [ARTIK Cloud](https://developer.artik.cloud/documentation/api-reference/) - The ARTIK Cloud API provides access to the ARTIK Cloud platform.
 + [AskZiggy](https://www.ask-ziggy.net/NLPPortal/Account/Login?ReturnUrl=%2fNLPPortal%2fApplication%2fIndex) - Ask Ziggy develops speech enabled mobile applications and allows developers to integrate their technology through a REST-Based API.
 + [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X's RESTful API streamlines the connection between devices and the M2X service, allowing you to build applications and services that leverage time-series data analytics and distributed, high-availability time-series data storage, to deliver meaningful information to your customers and end-users and build IOT and M2M solutions without managing your own storage infrastructure.
-+ [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - 
++ [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - Bitbucket is a web-based hosting service that is owned by Atlassian, used for source code and development projects that use either Mercurial or Git revision control systems. 
++ [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
 + [BrewereyDB](http://www.brewerydb.com/developers) - BreweryDB was made by developers, for developers. Our vast collection of data can be accessed via our free API. We want to encourage you to build the most awesome beer application, with the most reliable data available.
++ [Buddy](https://buddy.works/api/reference/getting-started/overview) - Buddy is a Continuous Integration service. It supports GitHub, Bitbucket, and Gitlab projects. Automate the lifecycle of web & Docker apps: Build, Test & Deploy.
 + [Bugzilla](https://wiki.mozilla.org/Bugzilla:REST_API) - Bugzilla is a Web-based general-purpose bugtracker and testing tool originally developed and used by the Mozilla project, and licensed under the Mozilla Public License.
++ [CircleCI](https://circleci.com/docs/api/v1-reference/) - The CircleCI API is a RESTful, fully-featured API that allows you to access all information and trigger all actions in CircleCI.
++ [Coding](https://open.coding.net/) - Access to https://coding.net/ .
++ [diycode](https://www.diycode.cc/api) - Access to https://www.diycode.cc/ .
++ [gank.io](http://gank.io/api) - Access to API of http://gank.io/ .(**Missing English Docs**)
 + [GitHub](https://developer.github.com/v3/) - Access to activity, gists, git data, integrations, issues, migration, miscellaneous, organizations, projects, pull requests, reations, repositories, search, users and enterprise.
 + [Gitter](https://developer.gitter.im/docs/welcome) - Chat tools for GitHub.
 + [GitLab](https://docs.gitlab.com/ee/api/README.html) - Automate GitLab via a simple and powerful API.
 + [Google Play Developer](https://developers.google.com/android-publisher/) - The Google Play Developer API allows you to perform a number of publishing and app-management tasks. It includes two components: [The Subscriptions and In-App Purchases API](https://developers.google.com/android-publisher/#subscriptions) lets you manage in-app purchases and subscriptions. [The Publishing API](https://developers.google.com/android-publisher/#publishing) lets you upload and publish apps, and perform other publishing-related tasks.
-+ [IPInfo.io](https://ipinfo.io/developers) - IP address geolocation and company details REST API
++ [IPInfo.io](https://ipinfo.io/developers) - Use the ipinfo.io IP lookup API to quickly and simply integrate IP geolocation into your script or website.
++ [Laravel China](https://laravel-china.org/topics/3097) - Access to API of https://laravel-china.org/ .(**Missing English Docs**)
 + [openHAB](https://github.com/openhab/openhab1-addons/wiki/REST-API) - The REST API of openHAB serves different purposes. It can be used to integrate openHAB with other systems as it allows read access to items and item states as well as status updates or the sending of commands for items. Furthermore, it gives access to the sitemaps, so that it is the interface to be used by remote user interfaces (e.g. fat clients or fully Javascript based web clients).
++ [oschina](http://www.oschina.net/openapi) - Access to API of https://oschina.net/ .(**Missing English Docs**)
 + [Particle](https://docs.particle.io/reference/api/) - The Particle Cloud API is a REST API.
-+ [StackOverFlow](https://api.stackexchange.com/docs) Access to the data of Stack Exchange API.
++ [QR Code Generator](http://goqr.me/api/) - You can generate and decode / read QR code graphics with our QR code generator web API at api.qrserver.com.
++ [Ruby China](https://ruby-china.org/api-doc/) - Access to API of https://ruby-china.org/ .(**Missing English Docs**)
++ [StackExchange](https://api.stackexchange.com/docs) Access to the data of Stack Exchange API.
 + [SVN](https://subversion.apache.org/docs/api/1.8/) - This documentation covers the public APIs provided by the Subversion libraries. It is intended mainly for programmers, both those working on Subversion itself, as well as developers of 3rd-party applications intending to use these APIs.
++ [TravisCI](https://docs.travis-ci.com/api/) - This is the API used by the official Travis CI web interface, so everything the web ui is able to do can also be accomplished via the API.
++ [upyun](http://docs.upyun.com/api/developer_guide/) - Access to API of https://www.upyun.com/ .(**Missing English Docs**)
++ [V2EX](https://www.v2ex.com/p/7v9TEc53) - Access to API of https://www.v2ex.com/ .(**Missing English Docs**)
 + [W3C](https://github.com/w3c/w3c-api) - In response to demand from developers in W3C community wanting to interact with [W3C](http://www.w3.org/)'s data, the W3C Systems Team has developed a Web API. Through it they are making available data on Specifications, Groups, Organizations and Users.The W3C API is a read-only Web API based on the JSON format exposing only public data.
++ [ZenHub](https://github.com/ZenHubIO/API) - ZenHub is the only project management tool that integrates natively within GitHub’s user interface.
 
 ### Email
 + [Context.IO](http://context.io/) - Build awesome things with email! We take the pain out of syncing email data with your app so you can focus on what makes your product great.
@@ -189,17 +184,8 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Steam Web APIs](https://steamcommunity.com/dev) - The Steam Web APIs allow developers to query Steam for information that they can present on their own sites.At the moment the only APIs we offer provide item data for Team Fortress 2, but this list will grow over time.
 + [Giant Bomb](http://www.giantbomb.com/api/) - The Giant Bomb API provides programmatic access to a lot of the information available on the Giant Bomb Web site such as game titles, ratings, videos, companies, themes, genres, and much more. 
 
-### Language-learning
-+ [百度翻译](http://api.fanyi.baidu.com/api/trans/product/index) - 百度翻译支持多种语言互相翻译，包含PHP, JS, Python, C, Java版Demo。
-+ [Google Translate](https://cloud.google.com/translate/docs/) - Dynamically translate between thousands of available language pairs.
-+ [金山词霸](http://open.iciba.com/?c=api) - 金山词霸支持简单的翻译操作。
-+ [Microsoft Translator](https://www.microsoft.com/en-us/translator/translatorapi.aspx) -  A cloud-based machine translation service supporting multiple languages that reach more than 95% of world's gross domestic product (GDP).
-+ [扇贝](https://www.shanbay.com/help/developer/api_v1/) - 扇贝提供了完整的API，允许进行用户，查询，添加学习记录，忘记单词，例句，笔记等方面的操作。
-+ [Yandex Translate](https://tech.yandex.com/translate/) - Supports more than 70 languages and can translate separate words or complete texts.
-+ [译云翻译](http://api.yeekit.com/) - 译云支持进行中英互译，后续会支持更多的语言。
-+ [有道词典](http://fanyi.youdao.com/openapi) - 有道词典允许进行简单的翻译操作。
-
 ### IoT
++ [Automatic](https://developer.automatic.com/) - Provides REST API, Real-time Event API and Streaming API for interacting with Automatic data.
 + [Amazon Alexa](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/content/avs-api-overview) - The Alexa Voice Service (AVS) API allows developers to voice-enable connected products with a microphone and speaker.
 + [Google Assistant](https://developers.google.com/actions/) - Actions on Google let you build for the Google Assistant.
 + [Home8](https://developer.home8systems.com/) - The Internet of Things (IoT) refers to the set of sensors, devices, and systems that interconnect via the Internet.
@@ -208,12 +194,14 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [LIFX](https://api.developer.lifx.com/) - LIFX is a multi-color smart WiFi-enabled LED lightbulb. The LIFX HTTP API lets you control LIFX devices over the internet and is REST inspired API for interacting with LIFX devices.
 + [LightwaveRF](https://api.lightwaverf.com/) - This API outlines the local command protocols currently in use in the LightwaveRF system.
 + [microBees](http://developers.microbees.com/documentation/#reference) - microBees is your home or office in your hands! Manage small or large automations directly from your smartphone without changing your electrical wiring.
++ [Mojio](https://www.moj.io/developer/) - Mojio facilitates the efficient integration of connected car data into new and existing applications via their suite of best-in-class APIs and mobile SDKs.
 + [myStrom](https://mystrom.ch/de/mystrom-api) - The myStrom WLAN Energy Control Switch offers a REST API which allows you to access/control the switch from directly from your local network independent from myStrom.
 + [Neurio](http://neur.io/developers/) - Neurio is an open platform with a public API so you can extend it any way you like. Connect it to web services, or write your own applications.
 + [Philips Hue](https://developers.meethue.com/) - Philips Hue connected bulbs and bridge let you to take full control of your lighting.
 + [Smappee](https://smappee.atlassian.net/wiki/display/DEVAPI/SmappeeDevAPI+Home) - Access to Smappee's API which helps you measure your electrical energy consumption and solar production.
 + [SmartThins](https://developers.athom.com/api/) - Access to SmartThings' API.
 + [Stack Lighting](http://developers.stacklighting.com/) - The Stack API is a REST API, which defines a set of functions that allow developers to perform requests and to receive responses via the HTTP protocol. This API provides developers with the ability to control brightness, color temperature, motion settings, ambient light sensing settings, and other features to tailor Stack’s responsive lighting to one's unique preferences.
++ [Vinli](https://dev.vin.li/#/home) - Vinli is a platform for easily and quickly building connected car apps.
 + [Yeelight](http://www.yeelight.com/en_US/developer) - Yeelight smart LED products support remote control through WiFi.
 
 ### Machine Learning
@@ -225,42 +213,65 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Microsoft Azure Machine Learning](https://azure.microsoft.com/en-us/services/cognitive-services/) - The Microsoft Azure Machine Learning platform provides capabilities such as natural language processing, recommendation engine, pattern recognition, computer vision, and predictive modeling.
 
 ### Maps
-+ [百度地图](http://lbsyun.baidu.com/) - 百度地图提供了Android, iOS版本的SDK和JavaScript API，可进行定位、地图、数据、出行、鹰眼轨迹和分析服务。
-+ [Bing maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Access to Bing maps' API.
-+ [高德地图](http://lbs.amap.com/) - 高德地图提供了JavaScript和web服务API，Android和iOS SDK，支持地图，定位，搜索，路线规划，导航和室内地图等。
++ [Amap](http://lbs.amap.com/) - Access to Amap's web APIs.(**Missing English Docs**)
++ [Baidu Map](http://lbsyun.baidu.com/index.php?title=webapi) - Access to Baidu Map's web APIs.(**Missing English Docs**)
++ [Bing maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Access to Bing maps' APIs.
++ [Google Maps](https://developers.google.com/maps/web-services/?hl=en) - The Google Maps web services are a collection of HTTP interfaces to Google services providing geographic data for your maps applications.
 + [Here Maps](https://developer.here.com/develop/rest-apis) - Use simple HTTP GET methods providing maps, routing, geocoding, places, positioning, traffic, transit and weather information. Platform Extensions add capabilities to the service results received from HERE REST APIs. Samples are provided.
-+ [腾讯地图](http://lbs.qq.com/) - 腾讯地图提供了JavaScript API，Android和iOS SDK，支持定位，地图，地点搜索，路线和导航等。
-+ [天地图](http://lbs.tianditu.com/api-new/home.html) - 天地图提供了H5 API和JavaScript API等web API，同时提供了Android和iOS SDK，支持基础地图服务，图层管理，地图覆盖物，地图工具，地名搜索和出行规划服务。
-+ [图吧地图](http://open.mapbar.com/) - 图吧提供了JavaScript和Flash API，Android和iOS SDK，支持定位，地址解析，位置标注，位置截图，路线规划，周边查询，兴趣点搜索和在线导航。
++ [Tencent Map](http://lbs.qq.com/webservice_v1/index.html) - Access to Tencent Map's WebService APIs.(**Missing English Docs**)
+
+### Messaging
++ [Cisco Spark](https://developer.ciscospark.com/) - Create a room and invite people, search for people in your company, post messages into a room, get room history or be notified in real-time when new messages are posted by others.
++ [Dingtalk](https://open-doc.dingtalk.com/) - Access to Dingtalk's APIs.(**Missing English Docs**)
++ [dondeEsta Family](http://docs.dondeesta.apiary.io/#introduction/api) - Access to dondeEsta family API.
++ [Fleep](https://fleep.io/fleepapi/) - Fleep is a messenger for all your teams and projects.
++ [GroupMe](https://dev.groupme.com/docs/v3) - The GroupMe API will enable you to enhance existing apps with our group messaging abilities, build interesting new experiences, or simply add a little spice to your existing groups.
++ [indoona](https://developer.indoona.com/) - The indoona RESTful API over HTTPS that lets you:send messages to indoona users and groups, create special address book contacts to let indoona users chat with your application.
++ [join.me](https://developer.join.me/) - join.me is the online meeting tool that just gets out of the way so that people can accomplish great things together.
++ [LINE](https://developers.line.me/) - LINE Login API make it easy for your users to log in to your app or website using their existing LINE accounts. Using Messaging API to send customized, interactive messages and responses.
++ [MessageBird](https://developers.messagebird.com/) - The MessageBird API connects your website or application to operators around the world. With the API you can integrate SMS, Chat & Voice.
++ [Slack](https://api.slack.com/) - Real-time messaging, archiving and search for modern teams
++ [TeamSnap](http://developer.teamsnap.com/) - Empower your users with the world's best team management solution.
++ [Telegram](https://core.telegram.org/api) - The Bot API allows you to easily create programs that use Telegram messages for an interface. The Telegram API allows you to build your own customized Telegram clients. Demos are provided.
++ [Yo](http://docs.justyo.co/) - Yo is the simplest notification platform.
 
 ### Music
 + [Deezer](https://developers.deezer.com/)
++ [Douban Music](https://developers.douban.com/wiki/?title=music_v2) - Allows to access the data of Douban Music.(**Missing English Docs**)
++ [KaolaFM](https://github.com/kaolafm/api) - Allows to access the data of KaolaFM.(**Missing English Docs**)
 + [Last.fm](http://www.last.fm/zh/api?setlang=en) - The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 + [MusicGraph](https://developer.musicgraph.com/) - MusicGraph API, launched by Senzari, is the world's first knowledge engine for music, which will be available as a powerful 'graph API' that can be leveraged by developers to enhance their applications with deep musical intelligence.
 + [Musixmatch](https://developer.musixmatch.com/) - Bring lyrics on your application with the Musixmatch API.
 + [One Music](http://www.onemusicapi.com/) - OneMusicAPI is able to provide metadata about an astonishing range of music because it aggregates existing, well maintained, online databases.
++ [QingtingFM](http://open.qingting.fm/) - Allows to access the data fo QingtingFM.(**Missing English Docs**)
++ [Qi'eFM](http://wq.qq.com/) - Allows to access the data of Qi'eFM.(**Missing English Docs**)
 + [Rdio](http://developer.rdio.com/) - Tune in to your personal radio station, your FM, or choose from countless others to suit the mood. Make and share playlists. Get personalized recommendations. Stream or download songs and albums, start to finish, wherever you are.
 + [SoundCloud](https://developers.soundcloud.com/) - Allow users to upload and share sounds across the web.
 + [Spotify](https://developer.spotify.com/web-api/) - Spotify's Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
 
 ### News & information
++ [Diigo](https://www.diigo.com/api_dev) - The Diigo API allows you to build apps that interact with the Diigo service.
 + [feedly](https://developer.feedly.com/) - Access to feedly's API.
 + [Genius](https://docs.genius.com/) - The Genius API to help build the world's greatest public knowledge project since Wikipedia.
++ [goodreads](https://www.goodreads.com/api) - For users, books, comments, events, relationships, groups, ratings, reviews, searches, series, shelves, topics data.
 + [HackerNews](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
++ [Inoreader](https://www.inoreader.com/developers/) - The Inoreader API allows you to help users subscribe to feeds, read articles or catalogue them for viewing later.
++ [Instapaper](https://www.instapaper.com/api) - The Instapaper API allows third-party applications to add URLs to Instapaper.
++ [Narro](https://docs.narro.co/#introduction) - Access articles and readings, as well as submit them on behalf of customers.
 + [Newsblur](https://newsblur.com/api) - NewsBlur's API allows users to retrieve their feeds, feed counts, feed icons, feed statistics, and individual feed stories.
-+ [npr](http://www.npr.org/api/index) - NPR's API provides a flexible, powerful way to access your favorite NPR content.
++ [NPR](http://www.npr.org/api/index) - NPR's API provides a flexible, powerful way to access your favorite NPR content.
++ [Pinboard](https://pinboard.in/api) - The Pinboard API is a way to interact programatically with your bookmarks, notes and other Pinboard data.
++ [Pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
 + [Product Hunt](https://api.producthunt.com/v1/docs) - Access to [producthunt.com](https://www.producthunt.com/)'s API.
 + [The New York Times](https://developer.nytimes.com/) - Access to The New York Times's API.
 + [USA TODAY](https://developer.usatoday.com/docs/) - Access to the latest news and most interesting stories from USA TODAY.
 
 ### Notes
-+ [Evernote](https://dev.evernote.com/doc/) - Access to notes, notebooks, attachments data of Evernote, search, synchronize. The SDKs of ActionScript 3, Android, C++, Windows, iOS, Java, JavaScript, OS X, Perl, PHP, Python, Ruby platform and complete API reference documents are provided.
-+ [OneNote](https://msdn.microsoft.com/en-us/office/office365/howto/onenote-landing) - Allows developers conceptual articles. SDKs and demos are provided.
-+ [为知笔记](http://www.wiz.cn/manual/plugin/) - 为知笔记Windows客户端开放了大量的API，其中绝大部分，都通过COM提供，可以在javascript, C#, C++, Delphi等语言中使用。接口通过IDL(Interface description language)语言描述。
-+ [有道云笔记](http://note.youdao.com/open/) - 有道云笔记提供了Android SDK，同时Open API允许进行授权，用户，笔记本，笔记，分享，附件等方面的操作。
++ [OneNote](https://msdn.microsoft.com/en-us/office/office365/howto/onenote-supported-ops) - Access to OneNote's RESTful APIs.
++ [Youdao Note](http://note.youdao.com/open/) - Access to Youdao Note's web APIs.(**Missing English Docs**)
 
 ### Payment
-+ [PayPal](https://developer.paypal.com/docs/api/) - Access to PayPal's REST API.
++ [PayPal](https://developer.paypal.com/docs/api/) - Access to PayPal's REST APIs.
 + [Paymill](https://developers.paymill.com/index) - Access the full API reference and get any information you need to know to implement PAYMILL.
 + [Paytm](https://paytm.com/business/payments/developers) - Access to the details of the APIs you need to work with to take payments on your app/website using Paytm Wallet and for handling operational issues related to payments (eg: refunds, transaction status check).
 + [WePay](https://www.wepay.com/) - WePay is designed for platforms like marketplaces, crowdfunding sites & small business tools. Get a seamless user experience & fraud protection.
@@ -278,73 +289,121 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - Access to Yelp's API.
 + [Zomato](https://developers.zomato.com/api) - Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
 
-### Reading
-+ [goodreads](https://www.goodreads.com/api) - For users, books, comments, events, relationships, groups, ratings, reviews, searches, series, shelves, topics data.
-+ [Pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
-
 ### Social
-+ [钉钉](https://open-doc.dingtalk.com/) - 支持免登，企业通讯录，服务窗，钉盘，地图，会话，DING，电话，音频，扫码，支付，分享等服务，提供SDK和Demo，PC版UI规范，调试工具和钉钉UI组件库。
 + [Disqus](https://disqus.com/api/docs/) - Disqus' platform includes various features, such as social integration, social networking, user profiles, spam and moderation tools, analytics, email notifications, and mobile commenting.
-+ [豆瓣](https://developers.douban.com/wiki/?title=guide) - 支持图书，电影，音乐，同城，广播，用户，日记，相册，线上活动，论坛，回复和我去等功能，提供豆瓣组件，豆瓣标示和Demo。
++ [Douban](https://developers.douban.com/wiki/?title=guide) - Access to books, movies, music, broadcasts, etc.(**Missing English Docs**)
 + [Facebook](https://developers.facebook.com/docs/?locale=en_US) - Access to analytics of apps, app ads/development/events/invites/links, atlas api, facebook audience network/login/pixel, basics, games, articles, marketing, messenger, pages, sharing, video and more.
 + [Flickr](https://www.flickr.com/services/api/) - Access to the users, blogs, cameras, collections, commons, contacts, favorites, galleries, groups, interestingness, machinetags, panda, people, photos, places, prefs, push, reflection, stats, tags data of Flickr.
 + [Foursquare](https://developer.foursquare.com/) - The Foursquare API gives you access to our world-class places database and the ability to interact with Foursquare users and merchants.
 + [Instagram](https://www.instagram.com/developer/) - Access to the basic, comments, followers list, likes, public content and relationships data.
-+ [开心网](http://open.kaixin001.com/document.php) - 支持用户信息，登录授权，好友，传播应用，支付，分享内容，消息，交互，开心网应用等内容，提供SDK，开源插件和标示素材。
 + [LinkedIn](https://developer.linkedin.com/) - World's largest professional network
 + [Pinterest](https://developers.pinterest.com/) - The Pinterest API lets you access users' Pinterest data, like their boards, Pins, followers and more.
 + [Reddit](https://www.reddit.com/dev/api/) - Access to account, captcha, flair, reddit gold, links & comments, listings, live threads, private messages, misc, moderation, new modmail, multies, search, subreddits, users, wiki data.
 + [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Access to blog info, avatar, likes, following, followers, posts, queue, drafts, submissions, posting, editing posts, reblogging posts, deleting posts and so much more data of Tumblr.
 + [Twitter](https://dev.twitter.com/) - Access to Twitter's data.
-+ [微博](http://open.weibo.com/wiki/API) - 支持粉丝服务，微博，评论，用户，关系，账号，收藏，搜索，提醒，短链，公共服务，位置服务，地理信息，地图引擎，支付以及OAuth2.0授权等内容，提供微博标示及SDK。
++ [Weibo](http://open.weibo.com/wiki/API) - Access to posts, users, comments, favorites, etc.(**Missing English Docs**)
 
 ### Shopping
-+ [Amazon](https://developer.amazon.com/services-and-apis) - Access to Amazon's API.
-+ [Best Buy](https://developer.bestbuy.com/) - Access to Best Buy's API.
-+ [eBay](https://go.developer.ebay.com/) - Access to eBay's API.
-+ [Home Depot](https://developer.homedepot.com/) - Access to Home Depot's API.
-+ [Semantics3](http://docs.semantics3.com/reference) - Access to Semantics3's RESTful API.
-+ [Slice](https://developer.slice.com/) - Access to Slice's REST API.
++ [Amazon](https://developer.amazon.com/services-and-apis) - Access to Amazon's APIs.
++ [Best Buy](https://developer.bestbuy.com/) - Access to Best Buy's APIs.
++ [Dangdang](http://open.dangdang.com/) - Access to Dangdang's APIs.
++ [eBay](https://go.developer.ebay.com/) - Access to eBay's APIs.
++ [Home Depot](https://developer.homedepot.com/) - Access to Home Depot's APIs.
++ [JD](https://jos.jd.com/api/index.htm) - Access to JD's APIs.
++ [Semantics3](http://docs.semantics3.com/reference) - Access to Semantics3's RESTful APIs.
++ [Slice](https://developer.slice.com/) - Access to Slice's REST APIs.
++ [Taobao](https://open.taobao.com/doc2/api_list.htm) - Access to Taobao's APIs.
+
+### Takeout
++ [Baidu Waimai](http://dev.waimai.baidu.com/) - Baidu Waimai is a Chinese takeout platform.(**Missing English Docs**)
++ [Dianping](http://developer.dianping.com) - Dianping is a Chinese takeout platform.(**Missing English Docs**)
++ [Eleme](http://openapi.eleme.io/v2/quickstart.html) - Eleme is a Chinese takeout platform.(**Missing English Docs**)
++ [Meituan](http://developer.waimai.meituan.com/doc/show) - Meituan is a Chinese takeout platform.(**Missing English Docs**)
+
+### Teamwork
++ [Asana](https://asana.com/guide/help/api/api) - Allows you to programmatically update and access much of your data on the platform.
++ [Teambition](https://www.teambition.com/developer/open-platform) - Teambition's Open Platform offers complete set of Open API for data aquistion. Building an app based on project data will make the most use of your callaboration data, such as project tracking, data mining and more.
++ [Trello](https://developers.trello.com/) - Trello is a web-based project management application.
++ [Worktile](https://dev.worktile.com/document/overview) - Access to Worktile's APIs.(**Missing English Docs**)
+
+### Text Analysis
++ [BosonNLP](http://docs.bosonnlp.com/) - Chinese text analysis.(**Missing English Docs**)
++ [Tencent NLP](http://nlp.qq.com/help.cgi) - Chinese text analysis.(**Missing English Docs**)
++ [Text Analytics API](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) - The Text Analytics API is a suite of text analytics web services built with best-in-class Microsoft machine learning algorithms.
++ [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) - Natural Language Understanding by Watson uses natural language processing to analyze semantic features of any text.
 
 ### To-dos
-+ [Beeminder](https://www.beeminder.com/api) - Access to Beeminder's API.
-+ [FollowUp.cc](http://docs.followup.cc/) - Access to FollowUp.cc's API.
++ [Beeminder](https://www.beeminder.com/api) - Access to Beeminder's APIs.
++ [FollowUp.cc](http://docs.followup.cc/) - Access to FollowUp.cc's APIs.
 + [Todoist](https://developer.todoist.com/) - Todoist API (also known as the “Sync API”) is specially designed for efficient data sync between clients (e.g. mobile apps) and Todoist.
 + [Toodledo](https://api.toodledo.com/3/) - The Toodledo API is free to use and provides access to a user's tasks, notes, outlines and lists.
-+ [Trello](https://developers.trello.com/) - Access to Trello's API.
+
+### Tourism
++ [ctrip](http://u.ctrip.com/union/help/Termsofuse.aspx) - Access to the data of ctrip.(**Missing English Docs**)
++ [elong](http://open.elong.com/home/index) - Provides access to the data of hotels and air tickets.(**Missing English Docs**)
++ [qunar](http://open.qunar.com/) - Access to qunar's hotel, train tickets, air tickets and insurance data.(**Missing English Docs**)
++ [tuniu](http://open.tuniu.cn/) - Access to the data of tuniu. Only available to suppliers.(**Missing English Docs**)
+
+### Translation
++ [Baidu Translate](http://api.fanyi.baidu.com/api/trans/product/index) - Supports translation between multiple languages.(**Missing English Docs**)
++ [Google Translate](https://cloud.google.com/translate/docs/) - Dynamically translate between thousands of available language pairs.
++ [iciba](http://open.iciba.com/?c=api) - Support simple translation.(**Missing English Docs**)
++ [Microsoft Translator](https://www.microsoft.com/en-us/translator/translatorapi.aspx) -  A cloud-based machine translation service supporting multiple languages that reach more than 95% of world's gross domestic product (GDP).
++ [Oxford Dictionaries](https://developer.oxforddictionaries.com/) - Access to Oxford Dictionaries' APIs.
++ [Shanbay](https://www.shanbay.com/help/developer/api_v1/) - Provides complete APIs which support users in query, adding study records, writing note, etc.(**Missing English Docs**)
++ [Yandex Translate](https://tech.yandex.com/translate/) - Supports more than 70 languages and can translate separate words or complete texts.
++ [yeekit](http://api.yeekit.com/) - Support translation between several languages.(**Missing English Docs**)
++ [Youdao](http://fanyi.youdao.com/openapi) - Support simple translation.(**Missing English Docs**)
 
 ### Video
 + [Dailymotion](https://developer.dailymotion.com/api) - Dailymotion is the second largest video hosting platform in the world.
-+ [Douban Movie](https://developers.douban.com/wiki/?title=movie_v2) - Movie data.
++ [Douban Movie](https://developers.douban.com/wiki/?title=movie_v2) - Movie data.(**Missing English Docs**)
 + [Narrative](http://open.getnarrative.com/) - Customize your clip, get players, badges, and play with the Narrative API.
++ [iqiyi](http://open.iqiyi.com/lib/scheme.html) - Supports query data of iqiyi.(**Missing English Docs**)
++ [LeTV](http://www.lecloud.com/zh-cn/help/2016/07/27/150.html?LeftMenu=api_db_guide) - Allows to query data, upload, download, etc.(**Missing English Docs**)
 + [Rotten Tomatoes](https://developer.fandango.com/Rotten_Tomatoes) - The Rotten Tomatoes API provides access to Rotten Tomatoes' ratings and reviews, allowing approved companies and individuals to enrich their applications and widgets with Rotten Tomatoes data.
++ [Sohu TV](http://lm.tv.sohu.com/union/open_platform.do) - Allows to query data.(**Missing English Docs**)
 + [The Movie Database (TMDb)](https://developers.themoviedb.org) - The Movie Database API provides access to Top rated movies, Upcoming movies, Now playing movies, Popular movies, Popular TV shows, Top rated TV shows, On the air TV shows, Airing today TV shows, Popular people and more.
 + [Vimeo](https://developer.vimeo.com/) - The web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.
 + [Youtube](https://developers.google.com/youtube/documentation/) - Embed YouTube functionality into your own website and applications.
++ [Youku](https://doc.open.youku.com/) - Allows to upload, download, log in, etc.(**Missing English Docs**)
+
+### Voice Analysis
++ [Baidu Yuyin](http://yuyin.baidu.com/docs) - Access to Baidu Yuyin's voice analysis REST APIs.(**Missing English Docs**)
++ [Cloud Speech API](https://cloud.google.com/speech/) - Google Cloud Speech API enables developers to convert audio to text by applying powerful neural network models in an easy to use API.
+
+### Vision Analysis
++ [CamScanner](https://dev.camscanner.com/?language=en-us) - Allows to digitalize paper documents with cutting-edge image processing technologies.
++ [clarifai](https://clarifai.com/developer/guide/) - The Clarifai API offers image and video recognition as a service.
++ [Cloud Vision API](https://cloud.google.com/vision/) - Google Cloud Vision API enables developers to understand the content of an image by encapsulating powerful machine learning models in an easy to use REST API.
++ [Computer Vision API](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) - The Computer Vision API by Microsoft provides state-of-the-art algorithms to process images and return information.
++ [Face++](https://console.faceplusplus.com/documents/5678948) - Face++ Cognitive Services is a platform offering computer vision technologies that enable your applications to read and understand the world better.
++ [Watson Visual Recognition](https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/#introduction) - The IBM Watson™ Visual Recognition service identifies scenes, objects, and celebrity faces in images you upload to the service. You can create and train a custom classifier to identify subjects that suit your needs.
++ [wozhitu](http://api1.wozhitu.com/) - Access to wozhitu's vision analysis APIs.(**Missing English Docs**)
 
 ### Weather
-+ [AccuWeather](http://apidev.accuweather.com/developers/) - Weather
-+ [Aeris Weather](http://www.aerisweather.com/develop/) - Weather
-+ [Caiyun Weather](https://caiyunapp.com/index.html#api) - Weather information of China.
-+ [heweather](https://www.heweather.com/documents/) - Weather
-+ [Open Weather Map](https://openweathermap.org/api) - Weather
-+ [Weather Underground](https://www.wunderground.com/weather/api/) - Weather
++ [AccuWeather](http://apidev.accuweather.com/developers/) - The AccuWeather API provides subscribers access to location based weather data via a simple RESTful web interface.
++ [Aeris Weather](http://www.aerisweather.com/develop/) - An advanced weather API to power all of your custom applications, offering a breath of fresh air from the basic to the most complex solutions.
++ [Caiyun Weather](https://caiyunapp.com/index.html#api) - Weather information of China.(**Missing English Docs**)
++ [heweather](https://www.heweather.com/documents/) - Weather information of China.(**Missing English Docs**)
++ [Open Weather Map](https://openweathermap.org/api) - The OpenWeatherMap service provides free weather data and forecast API suitable for any cartographic services like web and smartphones applications.
++ [Weather Underground](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages. .
 + [Weather Unlocked](https://developer.weatherunlocked.com/documentation) - Weather driven solutions for digital advertising, eCommerce and developers.
-+ [Seniverse](https://www.seniverse.com/doc) - Weather information of China
-+ [Yandex.Weather](https://tech.yandex.com/weather/) - Weather information of Russia
-+ [Yahoo! Weather](https://developer.yahoo.com/weather/) - Weather
++ [Seniverse](https://www.seniverse.com/doc) - Weather information of China.(**Missing English Docs**)
++ [Yandex.Weather](https://tech.yandex.com/weather/) - Yandex.Weather uses proprietary forecasting technology Meteum to assess current weather conditions in specific locations on the territory of **Russia** and create forecasts for these geographic coordinates.
++ [Yahoo! Weather](https://developer.yahoo.com/weather/) - Get up-to-date weather information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
 
 ### More Resource
-+ [Alidayu](http://www.alidayu.com/) - Provides APIs which are available in China
++ [Alidayu](http://www.alidayu.com/) - Provides APIs which are available in China.(**Missing English Docs**)
 + [Amazon Developer](https://developer.amazon.com/) - Allows to build software about the Amazon Apps&Games, the Alexa, the AWS, the Amazon Services&APIs and the Amazon Devices.
-+ [APiX](https://www.apix.cn/) - Provides some credit APIs which are available in China
-+ [Avatar Data](http://www.avatardata.cn/Docs) - Provides APIs which are available in China
-+ [Baidu API STORE](http://apistore.baidu.com/) - Provides APIs which are available in China
-+ [Datayes](https://m.datayes.com/) - Provides some finacial APIs which are available in China
++ [APiX](https://www.apix.cn/) - Provides some credit APIs which are available in China.(**Missing English Docs**)
++ [Avatar Data](http://www.avatardata.cn/Docs) - Provides APIs which are available in China.(**Missing English Docs**)
++ [Baidu API STORE](http://apistore.baidu.com/) - Provides APIs which are available in China.(**Missing English Docs**)
++ [Datayes](https://m.datayes.com/) - Provides some finacial APIs which are available in China.(**Missing English Docs**)
 + [Google API Library](https://console.developers.google.com/apis/library) - The Google API Library contains more than 100 apis such as the Google Cloud APIs, the Google Maps APIs, the Google Apps APIs, the Mobile APIs, the Social Media APIs, the Youtube APIs, the Advertising APIs, and the Other popular APIs.
-+ [HaoService](http://www.haoservice.com/) - Provides APIs which are available in China
++ [HaoService](http://www.haoservice.com/) - Provides APIs which are available in China.(**Missing English Docs**)
 + [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - Allows to place search fields in the website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
 + [Microsoft Developer](https://developer.microsoft.com/en-us/) - Access to Microsoft's public APIs.
-+ [Juhe Data](https://www.juhe.cn/) - Provides APIs which are available in China
++ [Juhe Data](https://www.juhe.cn/) - Provides APIs which are available in China.(**Missing English Docs**)
 + [ProgrammableWeb](https://www.programmableweb.com/) - The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 + [Yahoo! Developer Network](https://developer.yahoo.com/everything.html) - The Yahoo Developer Network offers APIs and tools to make it easy for developers to build, advertise, enhance applications and earn money with Yahoo.
