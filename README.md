@@ -98,13 +98,13 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 ### Cloud Storage
 + [Amazon Cloud Drive](https://developer.amazon.com/amazon-drive) - With the Amazon Cloud Drive's updated RESTful API and SDKs for Android and iOS, Amazon Drive is moving to an invite-only developer offering to ensure they can provide a consistently viable cloud drive service available for supported use-cases.
 + [Box](https://developer.box.com/) - Search, metadata, granular permission models, enterprise-grade security, retention policies, preview capabilities for 120 file types.
-+ [Digital Ocean](https://developers.digitalocean.com/) - Deploy an SSD cloud server in 55 seconds. Introducing Metadata: Easily Automate The Provisioning Of Your Droplets!
++ [Digital Ocean](https://developers.digitalocean.com/) - Deploy an SSD cloud server in 55 seconds.
 + [Document Cloud](http://www.documentcloud.org/help/api) - DocumentCloud runs every document you upload through OpenCalais,giving you access to extensive information about the people, places and organizations mentioned in each.
 + [Dropbox](https://www.dropbox.com/developers) - A powerful API for apps that work with files.
 + [Google Drive](https://developers.google.com/drive/)- Google Drive APIs allow you to read, write, and sync files stored in Google Drive from your mobile and web apps.
 + [OneDrive](https://dev.onedrive.com/) - Access to OneDrive files.
 + [QNAP](https://www.qnap.com/event/dev/useng/p_about.php) - With QNAP Development Toolkit (API & SDK), developers can design applications that can run on a client’s device (such as a smart phone or PC) and remotely manage and access files and documents stored on the NAS.
-+ [Verizon Cloud](http://www.verizonenterprise.com/cloud/documentation/StorageAPIReference.htm) - Upload, retrieve, and manage large amounts of data ,access data through an API call, view prepackaged reports, rely on Verizon security to keep data safe and accessible at all times.
++ [Verizon Cloud](http://www.verizonenterprise.com/cloud/documentation/StorageAPIReference.htm) - Upload, retrieve, and manage large amounts of data, access data through an API call, view prepackaged reports, rely on Verizon security to keep data safe and accessible at all times.
 
 ### Delivery-Tracking
 + [AfterShip](https://docs.aftership.com/api/) - Supports shipment tracking and notifications for over 200 couriers.
@@ -120,12 +120,11 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 
 ### Design
 + [Dribbble](http://developer.dribbble.com/v1/) - Access to buckets, projects, shots, teams, users, jobs data.
-+ [Behance](https://www.behance.net/dev/api/endpoints/) - Get infomation of projects, creatives to follow, creative fields, users, collections.
++ [Behance](https://www.behance.net/dev/api/endpoints/) - Get information of projects, creatives to follow, creative fields, users, collections.
 + [deviantART](https://www.deviantart.com/developers/) - Allows to get data of deviantart.com.
 
 ### Development
 + [ARTIK Cloud](https://developer.artik.cloud/documentation/api-reference/) - The ARTIK Cloud API provides access to the ARTIK Cloud platform.
-+ [AskZiggy](https://www.ask-ziggy.net/NLPPortal/Account/Login?ReturnUrl=%2fNLPPortal%2fApplication%2fIndex) - Ask Ziggy develops speech enabled mobile applications and allows developers to integrate their technology through a REST-Based API.
 + [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X's RESTful API streamlines the connection between devices and the M2X service, allowing you to build applications and services that leverage time-series data analytics and distributed, high-availability time-series data storage, to deliver meaningful information to your customers and end-users and build IOT and M2M solutions without managing your own storage infrastructure.
 + [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - Bitbucket is a web-based hosting service that is owned by Atlassian, used for source code and development projects that use either Mercurial or Git revision control systems. 
 + [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
@@ -387,7 +386,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Caiyun Weather](https://caiyunapp.com/index.html#api) - Weather information of China.(**Missing English Docs**)
 + [heweather](https://www.heweather.com/documents/) - Weather information of China.(**Missing English Docs**)
 + [Open Weather Map](https://openweathermap.org/api) - The OpenWeatherMap service provides free weather data and forecast API suitable for any cartographic services like web and smartphones applications.
-+ [Weather Underground](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages. .
++ [Weather Underground](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages.
 + [Weather Unlocked](https://developer.weatherunlocked.com/documentation) - Weather driven solutions for digital advertising, eCommerce and developers.
 + [Seniverse](https://www.seniverse.com/doc) - Weather information of China.(**Missing English Docs**)
 + [Yandex.Weather](https://tech.yandex.com/weather/) - Yandex.Weather uses proprietary forecasting technology Meteum to assess current weather conditions in specific locations on the territory of **Russia** and create forecasts for these geographic coordinates.

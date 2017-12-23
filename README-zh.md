@@ -18,7 +18,7 @@
 + [共享汽车](#共享汽车)
 + [云](#云)
 + [云存储](#云存储)
-+ [快递](#快递)
++ [物流](#物流)
 + [设计](#设计)
 + [开发](#开发)
 + [邮件](#邮件)
@@ -49,39 +49,39 @@
 + [更多资源](#更多资源)
 
 ### 博客
-+ [Blogger](https://developers.google.com/blogger/) - The Blogger API v3 allows you to create new blog posts, edit or delete existing posts, and query for posts that match particular criteria.
-+ [Medium](https://github.com/Medium/medium-api-docs) - Access to the data of [medium.com](https://medium.com/).
-+ [Weebly](https://cloud-developer.weebly.com/) - With Weebly Cloud, you provide Weebly’s best-in-class website builder to enable your customers to create their own website, blog or online store in minutes, while you maintain full control over billing, support, and the customer relationship. 
-+ [WordPress](https://codex.wordpress.org/WordPress_APIs) - Access to WordPress's APIs.
-+ [Telegraph](http://telegra.ph/api) - Access to Telegraph's APIs, Telegram's publishing service.
++ [Blogger](https://developers.google.com/blogger/) - Blogger API v3 版本允许你创建新的博客, 编辑或者删除已经存在的博客, 查询符合特定标准的博客.
++ [Medium](https://github.com/Medium/medium-api-docs) - 访问 [medium.com](https://medium.com/) 的数据.
++ [Weebly](https://cloud-developer.weebly.com/) -借助 Weebly Cloud, 您可以提供 Weebly 的最佳网站构建方式, 使您的客户能够在几分钟内创建自己的网站, 博客或在线商店, 同时完全控制帐单, 支持和客户关系.
++ [WordPress](https://codex.wordpress.org/WordPress_APIs) - 访问 WordPress 的 API.
++ [Telegraph](http://telegra.ph/api) - 访问 Telegraph 的 API, Telegram 的 发布服务.
 
 ### 书籍
-+ [An API Of Ice And Fire](https://anapioficeandfire.com/) - The An API of Ice And Fire provide data about all Book, Characters, Houses from the universe of 'A Song of Ice and Fire' in JSON format. Authentication is not required. Node and Swift libraries available.
-+ [Open Library Books API](https://openlibrary.org/developers/api) - Open Library is an open, editable library catalog, building towards a web page for every book ever published. 
-+ [The New York Public Library Digital Collections API](http://api.repo.nypl.org/) - For more than a century, The NY Public Library has amassed an extraordinary trove of rare and unique material covering the full spectrum of recorded knowledge.
-+ [Bookshare](http://developer.bookshare.org/) - The Bookshare API allows our partners to enable their customers with qualified print disabilities to search,browse and download books and periodicals.
++ [An API Of Ice And Fire](https://anapioficeandfire.com/) - 冰与火之歌的 API 提供 JSON 格式的“冰与火之歌”宇宙中的所有书籍, 人物, 房屋的数据. 无需验证身份. Node 和 Swift 库可用.
++ [Open Library Books API](https://openlibrary.org/developers/api) - Open Library 是一个开放的, 可编辑的图书馆目录, 为每一本出版的图书都建立了网页.
++ [The New York Public Library Digital Collections API](http://api.repo.nypl.org/) - 一个多世纪以来, 纽约公共图书馆已经积累了一系列罕见而独特的材料, 涵盖了所有有记录的知识.
++ [Bookshare](http://developer.bookshare.org/) - Bookshare API 使我们的合作伙伴能够使具有合格的阅读障碍的顾客搜索, 浏览和下载书籍和期刊.
 
 ### 商业
-+ [Airtable](https://airtable.com/api) - The Airtable Standard API allows you to create, read, update, and destroy records.
-+ [Buffer](https://buffer.com/developers/api) - The Buffer API provides access to user's pending and sent updates, social media profiles, scheduled times and more.
-+ [Concur Labs](https://developer.concur.com/api-reference/) - Access to Concur's RESTful API.
-+ [Envoy](https://developers.envoy.com/) - Access to Envoy's API.
-+ [JotForm](http://api.jotform.com/docs/) - The JotForm API makes it possible to connect to your form data without using the JotForm web site.
-+ [MailChimp](https://developer.mailchimp.com/) - Access to MailChimp's API.
-+ [Pruvan](https://pruvan.com/resources/pruvan-api/) - Access to Pruvan's API.
-+ [Quip](https://quip.com/api/) - The Quip REST API enables you to automate processes and integrate Quip with other products you or your company uses.
-+ [Salesforce](https://developer.salesforce.com/page/Salesforce_APIs) - Access to Salesforce's API.
-+ [Square](https://connect.squareup.com/) - Square offers easy credit card processing and complete solutions for every type of business.
-+ [Wolfram Data Drop](https://www.wolfram.com/datadrop/quick-reference/web-api/) - Access to Wolfram Data Drop's RESTful API.
++ [Airtable](https://airtable.com/api) - Airtable Standard API 允许你创建, 读取, 更新和销毁记录.
++ [Buffer](https://buffer.com/developers/api) - The Buffer API 提供了访问用户的待发送和已发送的更新内容, 社交媒体资料, 定时访问和更多内容.
++ [Concur Labs](https://developer.concur.com/api-reference/) - 访问 Concur 的 RESTful API.
++ [Envoy](https://developers.envoy.com/) - 访问 Envoy 的 API.
++ [JotForm](http://api.jotform.com/docs/) - JotForm API 可以在不使用JotForm 网站的情况下连接到你的表单数据.
++ [MailChimp](https://developer.mailchimp.com/) - 访问 MailChimp 的 API.
++ [Pruvan](https://pruvan.com/resources/pruvan-api/) - 访问 Pruvan 的 API.
++ [Quip](https://quip.com/api/) - Quip REST API 让你实现流程自动化, 并将Quip 与你或你公司使用的其他产品集成在一起.
++ [Salesforce](https://developer.salesforce.com/page/Salesforce_APIs) - 访问 Salesforce 的 API.
++ [Square](https://connect.squareup.com/) - Square 提供简单的信用卡处理和针对各类业务的完整解决方案.
++ [Wolfram Data Drop](https://www.wolfram.com/datadrop/quick-reference/web-api/) - 访问 Wolfram Data Drop 的 RESTful API.
 
 ### 日历
-+ [Google Calendar](https://developers.google.com/google-apps/calendar/) - The Google Calendar API lets you integrate your app with Google Calendar, creating new ways for you to engage your users.
-+ [Outlook Calendar](https://msdn.microsoft.com/en-us/office/office365/api/calendar-rest-operations) - The Calendar API provides access to events, calendar, and calendar group data secured by Azure Active Directory on Office 365, and to similar data in Microsoft accounts specifically in these domains: Hotmail.com, Live.com, MSN.com, Outlook.com, and Passport.com.
++ [Google Calendar](https://developers.google.com/google-apps/calendar/) - Google Calendar API 可以让你将你的应用与 Google Calendar 集成, 为你吸引用户创造新的途径.
++ [Outlook Calendar](https://msdn.microsoft.com/en-us/office/office365/api/calendar-rest-operations) - The Calendar API 提供了访问由 Office 365 中 Azure Active Directory 保护的事件, 日历, 日历组以及以下域中的特定 Microsoft 帐户中的类似数据: Hotmail.com, Live.com, MSN.com, Outlook.com 和 Passport.com.
 
 ### 共享汽车
-+ [Lyft](https://www.lyft.com/developers) - Allows to get real-time ETAs, availability, price estimates, ride status.
-+ [神州租车](http://developer.10101111.com/resourceCenter/doc?r=api/content) - A Chinese carsharing company.
-+ [Uber](https://developer.uber.com/) - Allows to customize trip experiences, request ride, power logistics, create bot and so much more.
++ [Lyft](https://www.lyft.com/developers) - 允许访问实时 ETA, 可用性, 价格估计, 乘坐状态等数据.
++ [神州租车](http://developer.10101111.com/resourceCenter/doc?r=api/content) - 来自中国的共享汽车公司.
++ [Uber](https://developer.uber.com/) - 允许定制旅行体验, 请求出行, 后勤保障, 创建机器人等等.
 
 ### 云
 + [阿里云](https://develop.aliyun.com/api/)
@@ -96,37 +96,36 @@
 + [又拍云](https://www.upyun.com/)
 
 ### 云存储
-+ [Amazon Cloud Drive](https://developer.amazon.com/amazon-drive) - With the Amazon Cloud Drive's updated RESTful API and SDKs for Android and iOS, Amazon Drive is moving to an invite-only developer offering to ensure they can provide a consistently viable cloud drive service available for supported use-cases.
-+ [Box](https://developer.box.com/) - Search, metadata, granular permission models, enterprise-grade security, retention policies, preview capabilities for 120 file types.
-+ [Digital Ocean](https://developers.digitalocean.com/) - Deploy an SSD cloud server in 55 seconds. Introducing Metadata: Easily Automate The Provisioning Of Your Droplets!
-+ [Document Cloud](http://www.documentcloud.org/help/api) - DocumentCloud runs every document you upload through OpenCalais,giving you access to extensive information about the people, places and organizations mentioned in each.
-+ [Dropbox](https://www.dropbox.com/developers) - A powerful API for apps that work with files.
-+ [Google Drive](https://developers.google.com/drive/)- Google Drive APIs allow you to read, write, and sync files stored in Google Drive from your mobile and web apps.
-+ [OneDrive](https://dev.onedrive.com/) - Access to OneDrive files.
-+ [QNAP](https://www.qnap.com/event/dev/useng/p_about.php) - With QNAP Development Toolkit (API & SDK), developers can design applications that can run on a client’s device (such as a smart phone or PC) and remotely manage and access files and documents stored on the NAS.
-+ [Verizon Cloud](http://www.verizonenterprise.com/cloud/documentation/StorageAPIReference.htm) - Upload, retrieve, and manage large amounts of data ,access data through an API call, view prepackaged reports, rely on Verizon security to keep data safe and accessible at all times.
++ [Amazon Cloud Drive](https://developer.amazon.com/amazon-drive) - 借助 Amazon Cloud Drive 最新的 RESTful API 和 Android 与 iOS SDK, Amazon Drive 正转向为受邀的开发者提供服务, 以确保他们能够为其所支持的使用案例提供始终如一的可用云盘服务。
++ [Box](https://developer.box.com/) - 支持搜索, 元数据, 粒度权限模型, 企业级安全, 保留策略, 120种类型的文件预览功能.
++ [Digital Ocean](https://developers.digitalocean.com/) - 在55秒内部署SSD云服务器.
++ [Document Cloud](http://www.documentcloud.org/help/api) - DocumentCloud 运行在你通过 OpenCalais 上传的每一份文件中, 为你提供有关人员, 地点和组织的广泛信息.
++ [Dropbox](https://www.dropbox.com/developers) - 为和文件相关的应用提供了一个强大的 API.
++ [Google Drive](https://developers.google.com/drive/)- Google Drive API 允许你从移动设备和网络应用中读取, 写入和同步存储在 Google Drive 中的文件.
++ [OneDrive](https://dev.onedrive.com/) - 访问 OneDrive 中的文件.
++ [QNAP](https://www.qnap.com/event/dev/useng/p_about.php) - 借助 QNAP 开发工具包(API 和 SDK), 开发人员可以设计能在客户端设备(如智能手机或 PC)上运行的应用, 并远程管理和访问存储在NAS上的文件和文档。
++ [Verizon Cloud](http://www.verizonenterprise.com/cloud/documentation/StorageAPIReference.htm) - 上传, 检索和管理大量数据, 通过 API 调用访问数据, 查看预先打包的报告, 依靠 Verizon 的安全措施保证数据安全和随时可用.
 
-### 快递
-+ [AfterShip](https://docs.aftership.com/api/) - Supports shipment tracking and notifications for over 200 couriers.
-+ [爱快递](http://www.aikuaidi.cn/api/) - 支持超过200家中国快递公司.
-+ [Aramex](https://www.aramex.com/developers/aramex-apis) - Provides parcel, package, and freight delivery via a global network of shipping providers.
-+ [Canada Post](http://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/fundamentals.jsf) - Allows e-commerce solution providers and online merchants to integrate Canada Post services, such as shipping, rating and tracking data, into a platform or website.
-+ [DHL](http://www.dhl-usa.com/en/express/resource_center/integrated_shipping_solutions.html) - DHL XML Services provides developers the ability to integrate DHL's service availability, transit times, rates, shipment tracking and more from more than 140 countries.
-+ [FedEx](https://www.fedex.com/us/developer/web-services/index.html) - FedEx web services allow businesses to integrate FedEx shipping functionality into their existing warehouse management systems without hosting on-site.
-+ [快递100](http://www.kuaidi100.com/openapi/) - 支持超过100中国快递公司和300家国际快递公司.
-+ [快递网](http://www.kuaidi.com/openapi.html) - 支持超过100家快递公司.
-+ [快递鸟](http://www.kdniao.com/) - 支持超过400家快递公司.
-+ [UPS](http://www.ups.com/content/us/en/resources/techsupport/developercenter.html) - Provides UPS shipping functionalities to be integrated into websites and enterprise applications.  
+### 物流
++ [AfterShip](https://docs.aftership.com/api/) - 支持超过200家物流公司的物流跟踪和通知.
++ [爱快递](http://www.aikuaidi.cn/api/) - 支持超过200家中国物流公司.
++ [Aramex](https://www.aramex.com/developers/aramex-apis) - 通过全球物流提供商网络提供包裹, 快递和货运服务.
++ [Canada Post](http://www.canadapost.ca/cpo/mc/business/productsservices/developers/services/fundamentals.jsf) - 允许电子商务解决方案提供商和在线商家将加拿大邮政服务(如邮寄,评级和跟踪数据)整合到平台或网站中.
++ [DHL](http://www.dhl-usa.com/en/express/resource_center/integrated_shipping_solutions.html) - DHL XML 服务为开发者提供了整合 DHL 来自140多个国家的服务可用性, 运输时间, 费率, 物流跟踪以及更多功能的能力.
++ [FedEx](https://www.fedex.com/us/developer/web-services/index.html) - FedEx 网络服务允许企业将 FedEx 的运输功能集成到他们现有的仓库管理系统中，无需现场托管。
++ [快递100](http://www.kuaidi100.com/openapi/) - 支持超过100中国物流公司和300家国际物流公司.
++ [快递网](http://www.kuaidi.com/openapi.html) - 支持超过100家物流公司.
++ [快递鸟](http://www.kdniao.com/) - 支持超过400家物流公司.
++ [UPS](http://www.ups.com/content/us/en/resources/techsupport/developercenter.html) - 提供了将 UPS 的运输功能集成到网站和企业应用程序的能力.
 
 ### 设计
-+ [Dribbble](http://developer.dribbble.com/v1/) - Access to buckets, projects, shots, teams, users, jobs data.
-+ [Behance](https://www.behance.net/dev/api/endpoints/) - Get infomation of projects, creatives to follow, creative fields, users, collections.
-+ [deviantART](https://www.deviantart.com/developers/) - Allows to get data of deviantart.com.
++ [Dribbble](http://developer.dribbble.com/v1/) - 访问 Bucket, 项目, 作品, 团队, 用户和工作等数据.
++ [Behance](https://www.behance.net/dev/api/endpoints/) - 获取项目, 可关注的广告素材, 创意领域, 用户, 收藏等信息.
++ [deviantART](https://www.deviantart.com/developers/) - 允许获取 deviantart.com 的数据.
 
 ### 开发
-+ [ARTIK Cloud](https://developer.artik.cloud/documentation/api-reference/) - The ARTIK Cloud API provides access to the ARTIK Cloud platform.
-+ [AskZiggy](https://www.ask-ziggy.net/NLPPortal/Account/Login?ReturnUrl=%2fNLPPortal%2fApplication%2fIndex) - Ask Ziggy develops speech enabled mobile applications and allows developers to integrate their technology through a REST-Based API.
-+ [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X's RESTful API streamlines the connection between devices and the M2X service, allowing you to build applications and services that leverage time-series data analytics and distributed, high-availability time-series data storage, to deliver meaningful information to your customers and end-users and build IOT and M2M solutions without managing your own storage infrastructure.
++ [ARTIK Cloud](https://developer.artik.cloud/documentation/api-reference/) - ARTIK Cloud API 提供访问 ARTIK Cloud 平台的数据.
++ [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X 的 RESTful API 简化了设备和 M2X 服务之间的连接, 使你能够构建利用时间序列数据分析和分布式的高可用性时间序列数据存储的应用程序和服务, 为你的客户和最终用户提供有意义的信息, 并构建物联网和 M2M 解决方案, 而无需管理自己的存储基础架构.
 + [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - Bitbucket is a web-based hosting service that is owned by Atlassian, used for source code and development projects that use either Mercurial or Git revision control systems. 
 + [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
 + [BrewereyDB](http://www.brewerydb.com/developers) - BreweryDB was made by developers, for developers. Our vast collection of data can be accessed via our free API. We want to encourage you to build the most awesome beer application, with the most reliable data available.
@@ -376,33 +375,33 @@
 + [clarifai](https://clarifai.com/developer/guide/) - The Clarifai API offers image and video recognition as a service.
 + [Cloud Vision API](https://cloud.google.com/vision/) - Google Cloud Vision API enables developers to understand the content of an image by encapsulating powerful machine learning models in an easy to use REST API.
 + [Computer Vision API](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) - The Computer Vision API by Microsoft provides state-of-the-art algorithms to process images and return information.
-+ [Face++](https://console.faceplusplus.com.cn/documents/4887579) - Face++ 人工智能开放平台是旷视科技推出的、面向开发者的开放平台。Face++以 API 或 SDK 的形式，将领先的、基于深度学习的计算机视觉技术开放给开发者，帮助您的应用更好地读懂世界。
++ [Face++](https://console.faceplusplus.com.cn/documents/4887579) - Face++ 人工智能开放平台是旷视科技推出的、面向开发者的开放平台。Face++以 API 或 SDK 的形式, 将领先的、基于深度学习的计算机视觉技术开放给开发者, 帮助您的应用更好地读懂世界。
 + [Watson Visual Recognition](https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/#introduction) - The IBM Watson™ Visual Recognition service identifies scenes, objects, and celebrity faces in images you upload to the service. You can create and train a custom classifier to identify subjects that suit your needs.
 + [我知图](http://api1.wozhitu.com/) - 访问我知图的图像分析 API.
 
 ### 天气
 + [AccuWeather](http://apidev.accuweather.com/developers/) - The AccuWeather API provides subscribers access to location based weather data via a simple RESTful web interface.
-+ [Aeris Weather](http://www.aerisweather.com/develop/) - An advanced weather API to power all of your custom applications, offering a breath of fresh air from the basic to the most complex solutions.
++ [Aeris Weather](http://www.aerisweather.com/develop/) - 驱动你的定制应用的先进 API, 为新鲜空气提供了从简到繁的解决方案.
 + [彩云天气](https://caiyunapp.com/index.html#api) - 中国天气信息.
 + [和风天气](https://www.heweather.com/documents/) - 中国天气信息.
-+ [Open Weather Map](https://openweathermap.org/api) - The OpenWeatherMap service provides free weather data and forecast API suitable for any cartographic services like web and smartphones applications.
-+ [Weather Underground](https://www.wunderground.com/weather/api/) - Reliable data, accurate forecast, & global coverage in 80 languages. .
-+ [Weather Unlocked](https://developer.weatherunlocked.com/documentation) - Weather driven solutions for digital advertising, eCommerce and developers.
++ [Open Weather Map](https://openweathermap.org/api) - Open Weather Map 服务提供免费的天气数据和预测 API, 适用于任何制图服务, 如网页和智能手机应用程序.
++ [Weather Underground](https://www.wunderground.com/weather/api/) - 可靠的数据, 准确的预测, 全球覆盖80种语言.
++ [Weather Unlocked](https://developer.weatherunlocked.com/documentation) - 电子广告商, 电子商务和开发人员的天气驱动方案.
 + [心知天气](https://www.seniverse.com/doc) - 中国天气信息.
-+ [Yandex.Weather](https://tech.yandex.com/weather/) - Yandex.Weather uses proprietary forecasting technology Meteum to assess current weather conditions in specific locations on the territory of **Russia** and create forecasts for these geographic coordinates.
-+ [Yahoo! Weather](https://developer.yahoo.com/weather/) - Get up-to-date weather information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
++ [Yandex.Weather](https://tech.yandex.com/weather/) - Yandex.Weather 使用专有的预测技术 Meteum 来评估**俄罗斯**地区特定地点的当前天气情况, 并为这些地理坐标创建预报.
++ [Yahoo! Weather](https://developer.yahoo.com/weather/) - 获取任何位置的最新天气信息, 包括5天预报, 风, 大气, 天文条件等.
 
 ### 更多资源
 + [阿里大于](http://www.alidayu.com/) - 提供中国可用的 API .
-+ [Amazon Developer](https://developer.amazon.com/) - Allows to build software about the Amazon Apps&Games, the Alexa, the AWS, the Amazon Services&APIs and the Amazon Devices.
++ [Amazon Developer](https://developer.amazon.com/) - 允许构建有关 Amazon 的应用与游戏, Alexa, AWS, Amazon 服务与 API 以及 Amazon 设备的软件。
 + [APiX](https://www.apix.cn/) - 提供中国可用的信用相关的 API.
 + [阿凡达数据](http://www.avatardata.cn/Docs) - 提供中国可用的 API .
 + [百度API STORE](http://apistore.baidu.com/) - 提供中国可用的 API .
 + [通联数据商城](https://m.datayes.com/) - 提供中国可用的金融相关 API .
-+ [Google API Library](https://console.developers.google.com/apis/library) - The Google API Library contains more than 100 apis such as the Google Cloud APIs, the Google Maps APIs, the Google Apps APIs, the Mobile APIs, the Social Media APIs, the Youtube APIs, the Advertising APIs, and the Other popular APIs.
++ [Google API Library](https://console.developers.google.com/apis/library) - Google API Library 包含100多个 API, 例如 Google Cloud API, Google Maps API, Google Apps API, 移动 API, 社交媒体API，Youtube API, 广告 API 以及其他受欢迎的 API.
 + [HaoService](http://www.haoservice.com/) - 提供中国中国可用的 API .
-+ [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - Allows to place search fields in the website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
-+ [Microsoft Developer](https://developer.microsoft.com/en-us/) - Access to Microsoft's public APIs.
++ [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - 允许在网站中放置搜索字段以搜索 iTunes Store, App Store, iBooks Store 和 Mac App Store 中的内容.
++ [Microsoft Developer](https://developer.microsoft.com/en-us/) - 访问 Microsoft 的公共 API.
 + [聚合数据](https://www.juhe.cn/) - 提供中国可用的 API .
-+ [ProgrammableWeb](https://www.programmableweb.com/) - The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
-+ [Yahoo! Developer Network](https://developer.yahoo.com/everything.html) - The Yahoo Developer Network offers APIs and tools to make it easy for developers to build, advertise, enhance applications and earn money with Yahoo.
++ [ProgrammableWeb](https://www.programmableweb.com/) - 关于 API 的新闻和信息的主要来源, 记录全球 API 经济的发展, 提供网络最依赖的 API 目录.
++ [Yahoo! Developer Network](https://developer.yahoo.com/everything.html) - Yahoo Developer Network 为开发者提供了用于简化构建, 宣传, 增强应用的API 和 工具. 和 Yahoo 一起赚钱吧.
