@@ -49,7 +49,7 @@
 ### 博客
 + [Blogger](https://developers.google.com/blogger/) - Blogger API v3 版本允许你创建新的博客, 编辑或者删除已经存在的博客, 查询符合特定标准的博客.
 + [Medium](https://github.com/Medium/medium-api-docs) - 访问 [medium.com](https://medium.com/) 的数据.
-+ [Weebly](https://cloud-developer.weebly.com/) -借助 Weebly Cloud, 您可以提供 Weebly 的最佳网站构建方式, 使您的客户能够在几分钟内创建自己的网站, 博客或在线商店, 同时完全控制帐单, 支持和客户关系.
++ [Weebly](https://cloud-developer.weebly.com/) -借助 Weebly Cloud, 你可以提供 Weebly 的最佳网站构建方式, 使你的客户能够在几分钟内创建自己的网站, 博客或在线商店, 同时完全控制帐单, 支持和客户关系.
 + [WordPress](https://codex.wordpress.org/WordPress_APIs) - 访问 WordPress 的 API.
 + [Telegraph](http://telegra.ph/api) - 访问 Telegraph 的 API, Telegram 的 发布服务.
 
@@ -136,7 +136,7 @@
 + [Gitter](https://developer.gitter.im/docs/welcome) - GitHub 的聊天工具.
 + [GitLab](https://docs.gitlab.com/ee/api/README.html) - 通过一个简单而强大的 API 自动化 GitLab.
 + [Google Play Developer](https://developers.google.com/android-publisher/) - Google Play Developer API 允许你执行大量的发布和应用程序管理任务。
-+ [IPInfo.io](https://ipinfo.io/developers) - 使用ipinfo.io IP查找API快速简单地将IP地理位置集成到您的脚本或网站。
++ [IPInfo.io](https://ipinfo.io/developers) - 使用ipinfo.io IP查找API快速简单地将IP地理位置集成到你的脚本或网站。
 + [Laravel China](https://laravel-china.org/topics/3097) - 访问 https://laravel-china.org/ 的 API.
 + [openHAB](https://github.com/openhab/openhab1-addons/wiki/REST-API) - openHAB 的 REST API 服务于不同的目标. 它可用于将 openHAB 与其他系统集成, 因为它允许读取项目和项目状态以及状态更新或发送项目命令. 此外, 它还提供对站点地图的访问, 因此它是远程用户界面(例如胖客户端或完全基于 Javascript 的 Web 客户端)使用的接口.
 + [开源中国](http://www.oschina.net/openapi) -  访问 https://oschina.net/ 的 API.
@@ -144,7 +144,7 @@
 + [QR Code Generator](http://goqr.me/api/) - 你可以使用 QR 码生成器 Web API 在 api.qrserver.com 上生成和解码/读取 QR 码图形.
 + [Ruby China](https://ruby-china.org/api-doc/) - 访问 https://ruby-china.org/ 的 API.
 + [StackExchange](https://api.stackexchange.com/docs) 访问 Stack Exchange API.
-+ [SVN](https://subversion.apache.org/docs/api/1.8/) - 文档涵盖了 Subversion 库提供的公共 API. 它主要面向程序员, 无论是从事 Subversion 本身的开发人员，还是希望使用这些 API 的第三方应用程序开发人员.
++ [SVN](https://subversion.apache.org/docs/api/1.8/) - 文档涵盖了 Subversion 库提供的公共 API. 它主要面向程序员, 无论是从事 Subversion 本身的开发人员, 还是希望使用这些 API 的第三方应用程序开发人员.
 + [TravisCI](https://docs.travis-ci.com/api/) - 这是官方 Travis CI Web 界面使用的 API, 因此 web 界面所能做的所有事情都可以通过 API 完成.
 + [V2EX](https://www.v2ex.com/p/7v9TEc53) -  访问 https://www.v2ex.com/ 的 API.
 + [W3C](https://github.com/w3c/w3c-api) - 作为对 W3C 社区的开发人员要求与 W3C 的数据进行交互的要求的相应, W3C Systems 团队开发了一个 Web API. 通过它, 规格, 群组, 组织和用户的数据变得可用. W3C API 是基于 JSON 格式的仅针对公开数据的只读 Web API.
@@ -161,8 +161,8 @@
 + [Adidas AG](https://developers.adidas.com/services) - 访问 Adidas AG 的 API.
 + [Fitbit](https://dev.fitbit.com/) - Fitbit API 允许开发人员在自己的应用程序, 产品和服务中与 Fitbit 数据进行交互.
 + [Jawbone UP](https://jawbone.com/up/developer) - 利用步数, 运动, 食物和睡眠跟踪的力量建立自己的产品和体验.
-+ [Lifelog](https://developer.sony.com/develop/services/lifelog-api/) - 索尼的 Lifelog API使您可以安全地访问智能手机中的传感器和 SmartWear 设备收集到的用户的生活方式, 健身和健康数据. 利用它在您的应用程序或服务中创建的具有创造性的新用例.
-+ [Misfit](https://build.misfit.com/) - 您现在可以利用一整套工具将 Misfit 的活动跟踪, 睡眠跟踪和可穿戴控制功能集成到您的产品和服务中.
++ [Lifelog](https://developer.sony.com/develop/services/lifelog-api/) - 索尼的 Lifelog API使你可以安全地访问智能手机中的传感器和 SmartWear 设备收集到的用户的生活方式, 健身和健康数据. 利用它在你的应用程序或服务中创建的具有创造性的新用例.
++ [Misfit](https://build.misfit.com/) - 你现在可以利用一整套工具将 Misfit 的活动跟踪, 睡眠跟踪和可穿戴控制功能集成到你的产品和服务中.
 + [Nike+](https://developer.nike.com/content/nike-developer-cq/us/en_us/index/documentation/api-docs.html) - Nike Activity Services 会将用户活动汇总的详细信息返回给 Nike +. 例如, 用户的跑步细节, 如平均速度, 时间, 距离, 从他/她的 Nike + FuelBand 获得的 NikeFuel, 终身成就等等.
 + [Recon](http://www.reconinstruments.com/developers/develop/for-recon-engage/api-documentation/) - 访问 [Recon instruments](http://www.reconinstruments.com/) 的数据.
 + [Strava](https://strava.github.io/api/) - Strava V3 API 是一个公开可用的接口, 允许开发人员访问丰富的 Strava 数据集.
@@ -188,7 +188,7 @@
 + [LIFX](https://api.developer.lifx.com/) - LIFX 是一款多色智能 WiFi LED 灯泡. LIFX HTTP API 允许你通过互联网控制 LIFX 设备, 并且是与 LIFX 设备交互的REST API.
 + [LightwaveRF](https://api.lightwaverf.com/) - 该 API 概述了 LightwaveRF 系统当前正在使用的本地命令协议.
 + [microBees](http://developers.microbees.com/documentation/#reference) - 轻松执行 REST API 并订阅实时消息.
-+ [Mojio](https://www.moj.io/developer/) - 使用 REST 节点进行请求和响应类型集成，使用 PUSH API 来实时推送数据.
++ [Mojio](https://www.moj.io/developer/) - 使用 REST 节点进行请求和响应类型集成, 使用 PUSH API 来实时推送数据.
 + [myStrom](https://mystrom.ch/de/mystrom-api) - myStrom WLAN Energy Control Switch 提供了一个 REST API, 允许你从 myStrom 独立的本地网络直接访问/控制交换机.
 + [Neurio](http://neur.io/developers/) - Neurio 是一个带有公共 API 的开放平台, 所以你可以任意扩展它. 将其连接到 Web 服务, 或编写自己的应用程序.
 + [Philips Hue](https://developers.meethue.com/) - 飞利浦的 Hue 连接的灯泡和桥接器让你能够完全控制你的照明.
@@ -201,7 +201,7 @@
 ### 机器学习
 + [Amazon Machine Learning](https://aws.amazon.com/cn/documentation/machine-learning/) - Amazon Machine Learning 使开发人员可以轻松构建智能应用程序, 包括欺诈检测, 需求预测, 有针对性的市场营销和点击预测等.
 + [BigML](https://bigml.com/api) - BigML 平台具有异常检测, 聚类分析, 用于决策树的 SunBurst 可视化, 文本分析等功能.
-+ [Diffbot](https://www.diffbot.com/dev/docs/) - Diffbot 平台利用 AI, 计算机视觉, 机器学习和自然语言处理的组合, 自动从网页(如文本，图像，视频，产品信息和评论)提取数据.
++ [Diffbot](https://www.diffbot.com/dev/docs/) - Diffbot 平台利用 AI, 计算机视觉, 机器学习和自然语言处理的组合, 自动从网页(如文本, 图像, 视频, 产品信息和评论)提取数据.
 + [Google Cloud Prediction](https://cloud.google.com/prediction/docs/) - Google Cloud Prediction API 提供了一个 RESTful API 来构建机器学习模型. Prediction 的基于云的机器学习工具可以帮助你分析数据, 为你的应用程序添加各种功能, 如客户情绪分析, 垃圾邮件检测, 推荐系统等.
 + [IBM Watson](https://developer.ibm.com/watson/) - 允许开发人员构建利用机器学习技术的应用程序, 如自然语言处理, 计算机视觉和预测.
 + [Microsoft Azure Machine Learning](https://azure.microsoft.com/en-us/services/cognitive-services/) - Microsoft Azure 机器学习平台提供自然语言处理, 推荐引擎, 模式识别, 计算机视觉和预测建模等功能.
@@ -232,8 +232,8 @@
 + [豆瓣音乐](https://developers.douban.com/wiki/?title=music_v2) - 允许访问豆瓣音乐的数据.
 + [考拉FM](https://github.com/kaolafm/api) - 允许访问考拉 FM 的数据.
 + [Last.fm](http://www.last.fm/zh/api?setlang=en) - Last.fm API 允许任何人使用 Last.fm 数据创建他们自己的程序, 无论他们使用网络, 桌面还是移动设备上.
-+ [MusicGraph](https://developer.musicgraph.com/) - 由 Senzari 推出的 MusicGraph API 是世界上第一个音乐知识引擎, 它将作为一个功能强大的『图形 API』的方式提供，开发人员可以利用它来利用强大的音乐智能来增强其应用.
-+ [Musixmatch](https://developer.musixmatch.com/) - 使用 Musixmatch API 将歌词带到您的应用程序中.
++ [MusicGraph](https://developer.musicgraph.com/) - 由 Senzari 推出的 MusicGraph API 是世界上第一个音乐知识引擎, 它将作为一个功能强大的『图形 API』的方式提供, 开发人员可以利用它来利用强大的音乐智能来增强其应用.
++ [Musixmatch](https://developer.musixmatch.com/) - 使用 Musixmatch API 将歌词带到你的应用程序中.
 + [One Music](http://www.onemusicapi.com/) - One Music API 能够提供令人惊讶的音乐范围的元数据, 因为它汇集了现有的, 维护良好的在线数据库.
 + [蜻蜓FM](http://open.qingting.fm/) - 允许访问蜻蜓 FM 的数据.
 + [企鹅FM](http://wq.qq.com/) - 允许访问企鹅 FM 的数据.
@@ -253,7 +253,7 @@
 + [Newsblur](https://newsblur.com/api) - NewsBlur 的 API 允许用户获取摘要, 摘要数量, 摘要图标, 内容分析和独立的摘要故事.
 + [NPR](http://www.npr.org/api/index) - NPR 的 API 提供了一种灵活, 强大的方式来访问你最喜欢的 NPR 内容.
 + [Pinboard](https://pinboard.in/api) - Pinboard API 是一种以编程方式与书签, 笔记和其他 Pinboard 数据进行交互的方式.
-+ [Pocket](https://getpocket.com/developer/) - 通过集成 Pocket API, 将「 保存后使用 」的功能带给用户和应用程序.
++ [Pocket](https://getpocket.com/developer/) - 通过集成 Pocket API, 将『保存后使用』的功能带给用户和应用程序.
 + [Product Hunt](https://api.producthunt.com/v1/docs) - 访问 [producthunt.com](https://www.producthunt.com/) 的 API.
 + [纽约时报](https://developer.nytimes.com/) - 访问『纽约时报』的 API.
 + [今日美国](https://developer.usatoday.com/docs/) - 访问来自『今日美国』的新闻和有趣的故事.
@@ -329,7 +329,7 @@
 ### 待办
 + [Beeminder](https://www.beeminder.com/api) - 访问 Beeminder 的 API.
 + [FollowUp.cc](http://docs.followup.cc/) - 访问 FollowUp.cc 的 API.
-+ [Todoist](https://developer.todoist.com/) - Todoist API (也称为「 Sync API 」) 专门用于客户端(例如移动应用程序)和 Todoist 之间的高效数据同步.
++ [Todoist](https://developer.todoist.com/) - Todoist API (也称为『Sync API』) 专门用于客户端(例如移动应用程序)和 Todoist 之间的高效数据同步.
 + [Toodledo](https://api.toodledo.com/3/) - Toodledo API 可以自由使用, 并提供对用户的任务, 笔记, 大纲和列表的访问.
 
 ### 旅游
@@ -371,7 +371,7 @@
 + [clarifai](https://clarifai.com/developer/guide/) - Clarifai API 提供了图片和视频识别服务.
 + [Cloud Vision API](https://cloud.google.com/vision/) - Google Cloud Vision API 使开发人员能够通过将强大的机器学习模型封装在易于使用的 REST API 中来理解图像的内容.
 + [Computer Vision API](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) - Microsoft 的 Computer Vision API 提供了最先进的算法来处理图像和返回信息.
-+ [Face++](https://console.faceplusplus.com.cn/documents/4887579) - Face++ 人工智能开放平台是旷视科技推出的、面向开发者的开放平台。Face++以 API 或 SDK 的形式, 将领先的、基于深度学习的计算机视觉技术开放给开发者, 帮助您的应用更好地读懂世界。
++ [Face++](https://console.faceplusplus.com.cn/documents/4887579) - Face++ 人工智能开放平台是旷视科技推出的、面向开发者的开放平台。Face++以 API 或 SDK 的形式, 将领先的、基于深度学习的计算机视觉技术开放给开发者, 帮助你的应用更好地读懂世界。
 + [Watson Visual Recognition](https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/#introduction) - IBM Watson™ 视觉识别服务识别你上传到服务器的图像中的场景, 物体和名人脸部. 你也可以创建和训练自定义分类, 以确定适合你的需求的主题.
 + [我知图](http://api1.wozhitu.com/) - 访问我知图的图像分析 API.
 
