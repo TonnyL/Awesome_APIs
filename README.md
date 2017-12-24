@@ -4,8 +4,6 @@
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README.md)
 [![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)](README-zh.md)
 
-⚠️ **Awesome APIs is under refactoring, it will be finished in the next several days.**
-
 This repo is a collection of **AWESOME** APIs for developers. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/TonnyL/Awesome_APIs/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [English](README.md) | [中文](README-zh.md)
@@ -128,25 +126,24 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X's RESTful API streamlines the connection between devices and the M2X service, allowing you to build applications and services that leverage time-series data analytics and distributed, high-availability time-series data storage, to deliver meaningful information to your customers and end-users and build IOT and M2M solutions without managing your own storage infrastructure.
 + [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - Bitbucket is a web-based hosting service that is owned by Atlassian, used for source code and development projects that use either Mercurial or Git revision control systems. 
 + [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
-+ [BrewereyDB](http://www.brewerydb.com/developers) - BreweryDB was made by developers, for developers. Our vast collection of data can be accessed via our free API. We want to encourage you to build the most awesome beer application, with the most reliable data available.
 + [Buddy](https://buddy.works/api/reference/getting-started/overview) - Buddy is a Continuous Integration service. It supports GitHub, Bitbucket, and Gitlab projects. Automate the lifecycle of web & Docker apps: Build, Test & Deploy.
 + [Bugzilla](https://wiki.mozilla.org/Bugzilla:REST_API) - Bugzilla is a Web-based general-purpose bugtracker and testing tool originally developed and used by the Mozilla project, and licensed under the Mozilla Public License.
 + [CircleCI](https://circleci.com/docs/api/v1-reference/) - The CircleCI API is a RESTful, fully-featured API that allows you to access all information and trigger all actions in CircleCI.
 + [Coding](https://open.coding.net/) - Access to https://coding.net/ .
 + [diycode](https://www.diycode.cc/api) - Access to https://www.diycode.cc/ .
 + [gank.io](http://gank.io/api) - Access to API of http://gank.io/ .(**Missing English Docs**)
-+ [GitHub](https://developer.github.com/v3/) - Access to activity, gists, git data, integrations, issues, migration, miscellaneous, organizations, projects, pull requests, reations, repositories, search, users and enterprise.
++ [GitHub](https://developer.github.com/v3/) - The world's leading software development platform.
 + [Gitter](https://developer.gitter.im/docs/welcome) - Chat tools for GitHub.
 + [GitLab](https://docs.gitlab.com/ee/api/README.html) - Automate GitLab via a simple and powerful API.
-+ [Google Play Developer](https://developers.google.com/android-publisher/) - The Google Play Developer API allows you to perform a number of publishing and app-management tasks. It includes two components: [The Subscriptions and In-App Purchases API](https://developers.google.com/android-publisher/#subscriptions) lets you manage in-app purchases and subscriptions. [The Publishing API](https://developers.google.com/android-publisher/#publishing) lets you upload and publish apps, and perform other publishing-related tasks.
-+ [IPInfo.io](https://ipinfo.io/developers) - Use the ipinfo.io IP lookup API to quickly and simply integrate IP geolocation into your script or website.
++ [Google Play Developer](https://developers.google.com/android-publisher/) - The Google Play Developer API allows you to perform a number of publishing and app-management tasks.
++ [IPInfo.io](https://ipinfo.io/developers) - Use the ipinfo.io IP lookup API to quickly and simply integrate IP geolocation into your script or website. 
 + [Laravel China](https://laravel-china.org/topics/3097) - Access to API of https://laravel-china.org/ .(**Missing English Docs**)
 + [openHAB](https://github.com/openhab/openhab1-addons/wiki/REST-API) - The REST API of openHAB serves different purposes. It can be used to integrate openHAB with other systems as it allows read access to items and item states as well as status updates or the sending of commands for items. Furthermore, it gives access to the sitemaps, so that it is the interface to be used by remote user interfaces (e.g. fat clients or fully Javascript based web clients).
 + [oschina](http://www.oschina.net/openapi) - Access to API of https://oschina.net/ .(**Missing English Docs**)
 + [Particle](https://docs.particle.io/reference/api/) - The Particle Cloud API is a REST API.
-+ [QR Code Generator](http://goqr.me/api/) - You can generate and decode / read QR code graphics with our QR code generator web API at api.qrserver.com.
++ [QR Code Generator](http://goqr.me/api/) - You can generate and decode / read QR code graphics with the QR code generator web API at api.qrserver.com.
 + [Ruby China](https://ruby-china.org/api-doc/) - Access to API of https://ruby-china.org/ .(**Missing English Docs**)
-+ [StackExchange](https://api.stackexchange.com/docs) Access to the data of Stack Exchange API.
++ [StackExchange](https://api.stackexchange.com/docs) Access to Stack Exchange API.
 + [SVN](https://subversion.apache.org/docs/api/1.8/) - This documentation covers the public APIs provided by the Subversion libraries. It is intended mainly for programmers, both those working on Subversion itself, as well as developers of 3rd-party applications intending to use these APIs.
 + [TravisCI](https://docs.travis-ci.com/api/) - This is the API used by the official Travis CI web interface, so everything the web ui is able to do can also be accomplished via the API.
 + [upyun](http://docs.upyun.com/api/developer_guide/) - Access to API of https://www.upyun.com/ .(**Missing English Docs**)
@@ -155,8 +152,8 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [ZenHub](https://github.com/ZenHubIO/API) - ZenHub is the only project management tool that integrates natively within GitHub’s user interface.
 
 ### Email
-+ [Context.IO](http://context.io/) - Build awesome things with email! We take the pain out of syncing email data with your app so you can focus on what makes your product great.
-+ [Gmail](https://developers.google.com/gmail/api/) - Flexible, RESTful access to the user's inbox.
++ [Context.IO](http://context.io/) - Context.IO is a modern, scalable email API that simplifies working with email data.
++ [Gmail](https://developers.google.com/gmail/api/) - Modern, easy, fast, RESTful.
 + [Inbox](https://www.inboxapp.com/docs) - Inbox provides modern RESTful APIs for working with mail providers. Stop fighting the old protocols and focus on building great apps.
 + [Mandrill](https://mandrillapp.com/api/docs/) - Mandrill is like MailChimp, for apps. Send transactional, triggered, and personalized email, then track results.
 + [Outlook Mail](https://msdn.microsoft.com/en-us/office/office365/api/mail-rest-operations) - The Outlook Mail API lets you read, create, and send messages and attachments, view and respond to event messages, and manage folders that are secured by Azure Active Directory in Office 365. It also provides the same functionality in Microsoft accounts specifically in these domains: Hotmail.com, Live.com, MSN.com, Outlook.com, and Passport.com.
@@ -164,7 +161,6 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 ### Fitness & Wearables
 + [Adidas AG](https://developers.adidas.com/services) - Access to Adidas AG's API.
 + [Fitbit](https://dev.fitbit.com/) - The Fitbit API allows developers to interact with Fitbit data in their own applications, products and services.
-+ [Google Glass](https://developers.google.com/glass/) - Build Glassware that is available at a user's glance on Glass.
 + [Jawbone UP](https://jawbone.com/up/developer) - Harness the power of step, activity, food, and sleep tracking to build your own products and experiences.
 + [Lifelog](https://developer.sony.com/develop/services/lifelog-api/) - Sony’s Lifelog API gives you secure access to your users’ lifestyle, fitness and health data, collected through sensors in their smartphone and connected SmartWear devices. Use it to create innovative new use cases in your app or service.
 + [Misfit](https://build.misfit.com/) - You can now leverage a suite of tools to integrate Misfit’s activity tracking, sleep tracking and wearable control functionality into your products and services.
@@ -177,23 +173,23 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Battle.net](https://dev.battle.net/) - Battle.net is an online video game Web site that features a collection of games developed by Blizzard Entertainment. The available Battle.net APIs include D3, WoW, SC2, Community APIs, and Game Data APIs.
 + [Clash of Clans](https://developer.clashofclans.com/#/) - The Clash of Clans API provides near real­time access to game related data.
 + [EVE Online](https://developers.eveonline.com/) - EVE Online is one of the most popular science fiction massively multiplayer online role-playing games (MMORPG). The EVE Online CREST and XML APIs provide programmatic access to characters, industries, markets, solar system, alliances and corporations, and other game data.
-+ [Facebook Games Services](https://developers.facebook.com/docs/games) - The Facebook Games Developer Center features a variety of services for game developers including (but not limited to) Achievements API, Scores API, App Notifications, Requests, Feed Gaming, and Facebook SDK for Unity. There is a lot of information available at the Facebook Games Developer Center such as games overview, API migration guide, tutorials, production and checklists, game monetization, and more.
++ [Facebook Games Services](https://developers.facebook.com/docs/games) - The Facebook Games Developer Center features a variety of services for game developers including (but not limited to) Achievements API, Scores API, App Notifications, Requests, Feed Gaming, and Facebook SDK for Unity.
 + [Google Play Games Services](https://developers.google.com/games/) - The Google Developers Games site provides a variety of APIs, SDKs, and services including (but not limited to) game publishing API, Unity Plugin, Play Games Services (achievements, leaderboards, player stats, etc.), and Google AdMob.
-+ [Riot Games](https://developer.riotgames.com/) - Access to recent games, ranked statistics, runes, masteries, and much more at your fingertips.
++ [Riot Games](https://developer.riotgames.com/) - Provides the League of Legends developer community with access to game data in a secure and reliable way. 
 + [Steam Web APIs](https://steamcommunity.com/dev) - The Steam Web APIs allow developers to query Steam for information that they can present on their own sites.At the moment the only APIs we offer provide item data for Team Fortress 2, but this list will grow over time.
 + [Giant Bomb](http://www.giantbomb.com/api/) - The Giant Bomb API provides programmatic access to a lot of the information available on the Giant Bomb Web site such as game titles, ratings, videos, companies, themes, genres, and much more. 
 
 ### IoT
 + [Automatic](https://developer.automatic.com/) - Provides REST API, Real-time Event API and Streaming API for interacting with Automatic data.
-+ [Amazon Alexa](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/content/avs-api-overview) - The Alexa Voice Service (AVS) API allows developers to voice-enable connected products with a microphone and speaker.
++ [Amazon Alexa](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/content/avs-api-overview) - The Alexa Voice Service API allows developers to voice-enable connected products with a microphone and speaker.
 + [Google Assistant](https://developers.google.com/actions/) - Actions on Google let you build for the Google Assistant.
-+ [Home8](https://developer.home8systems.com/) - The Internet of Things (IoT) refers to the set of sensors, devices, and systems that interconnect via the Internet.
++ [Home8](https://developer.home8systems.com/) - 100% wireless IoT System, Home8 simplifies Smart Alarm systems with DIY installation while providing you with the best Video-Verified Alarm protection.
 + [Homey](https://developers.athom.com/api/) - Access to Homey's API.
-+ [HP Print](https://developers.hp.com/printos/printos) - Access to HP's API.
++ [HP Print](https://developers.hp.com/printos/printos) - Access to HP Print's API.
 + [LIFX](https://api.developer.lifx.com/) - LIFX is a multi-color smart WiFi-enabled LED lightbulb. The LIFX HTTP API lets you control LIFX devices over the internet and is REST inspired API for interacting with LIFX devices.
 + [LightwaveRF](https://api.lightwaverf.com/) - This API outlines the local command protocols currently in use in the LightwaveRF system.
-+ [microBees](http://developers.microbees.com/documentation/#reference) - microBees is your home or office in your hands! Manage small or large automations directly from your smartphone without changing your electrical wiring.
-+ [Mojio](https://www.moj.io/developer/) - Mojio facilitates the efficient integration of connected car data into new and existing applications via their suite of best-in-class APIs and mobile SDKs.
++ [microBees](http://developers.microbees.com/documentation/#reference) - Easily execute REST APIs and subscribe for real-time messaging.
++ [Mojio](https://www.moj.io/developer/) - Use the REST endpoints for request and response type integrations and the PUSH API to push data in real-time.
 + [myStrom](https://mystrom.ch/de/mystrom-api) - The myStrom WLAN Energy Control Switch offers a REST API which allows you to access/control the switch from directly from your local network independent from myStrom.
 + [Neurio](http://neur.io/developers/) - Neurio is an open platform with a public API so you can extend it any way you like. Connect it to web services, or write your own applications.
 + [Philips Hue](https://developers.meethue.com/) - Philips Hue connected bulbs and bridge let you to take full control of your lighting.
@@ -216,7 +212,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Baidu Map](http://lbsyun.baidu.com/index.php?title=webapi) - Access to Baidu Map's web APIs.(**Missing English Docs**)
 + [Bing maps](https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx) - Access to Bing maps' APIs.
 + [Google Maps](https://developers.google.com/maps/web-services/?hl=en) - The Google Maps web services are a collection of HTTP interfaces to Google services providing geographic data for your maps applications.
-+ [Here Maps](https://developer.here.com/develop/rest-apis) - Use simple HTTP GET methods providing maps, routing, geocoding, places, positioning, traffic, transit and weather information. Platform Extensions add capabilities to the service results received from HERE REST APIs. Samples are provided.
++ [Here Maps](https://developer.here.com/develop/rest-apis) - Use simple HTTP GET methods providing maps, routing, geocoding, places, positioning, traffic, transit and weather information.
 + [Tencent Map](http://lbs.qq.com/webservice_v1/index.html) - Access to Tencent Map's WebService APIs.(**Missing English Docs**)
 
 ### Messaging
@@ -225,17 +221,15 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [dondeEsta Family](http://docs.dondeesta.apiary.io/#introduction/api) - Access to dondeEsta family API.
 + [Fleep](https://fleep.io/fleepapi/) - Fleep is a messenger for all your teams and projects.
 + [GroupMe](https://dev.groupme.com/docs/v3) - The GroupMe API will enable you to enhance existing apps with our group messaging abilities, build interesting new experiences, or simply add a little spice to your existing groups.
-+ [indoona](https://developer.indoona.com/) - The indoona RESTful API over HTTPS that lets you:send messages to indoona users and groups, create special address book contacts to let indoona users chat with your application.
-+ [join.me](https://developer.join.me/) - join.me is the online meeting tool that just gets out of the way so that people can accomplish great things together.
-+ [LINE](https://developers.line.me/) - LINE Login API make it easy for your users to log in to your app or website using their existing LINE accounts. Using Messaging API to send customized, interactive messages and responses.
++ [indoona](https://developer.indoona.com/) - The indoona RESTful API over HTTPS that lets you: send messages to indoona users and groups, create special address book contacts to let indoona users chat with your application.
++ [LINE](https://developers.line.me/) - LINE is a freeware app for instant communications on electronic devices such as smartphones, tablet computers, and personal computers.
 + [MessageBird](https://developers.messagebird.com/) - The MessageBird API connects your website or application to operators around the world. With the API you can integrate SMS, Chat & Voice.
-+ [Slack](https://api.slack.com/) - Real-time messaging, archiving and search for modern teams
-+ [TeamSnap](http://developer.teamsnap.com/) - Empower your users with the world's best team management solution.
-+ [Telegram](https://core.telegram.org/api) - The Bot API allows you to easily create programs that use Telegram messages for an interface. The Telegram API allows you to build your own customized Telegram clients. Demos are provided.
++ [Slack](https://api.slack.com/) - Slack is a cloud-based set of proprietary team collaboration tools and services.
++ [Telegram](https://core.telegram.org/api) - The Bot API allows you to easily create programs that use Telegram messages for an interface. The Telegram API allows you to build your own customized Telegram clients.
 + [Yo](http://docs.justyo.co/) - Yo is the simplest notification platform.
 
 ### Music
-+ [Deezer](https://developers.deezer.com/)
++ [Deezer](https://developers.deezer.com/) - Deezer is an Internet-based music streaming service.
 + [Douban Music](https://developers.douban.com/wiki/?title=music_v2) - Allows to access the data of Douban Music.(**Missing English Docs**)
 + [KaolaFM](https://github.com/kaolafm/api) - Allows to access the data of KaolaFM.(**Missing English Docs**)
 + [Last.fm](http://www.last.fm/zh/api?setlang=en) - The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
@@ -244,22 +238,22 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [One Music](http://www.onemusicapi.com/) - OneMusicAPI is able to provide metadata about an astonishing range of music because it aggregates existing, well maintained, online databases.
 + [QingtingFM](http://open.qingting.fm/) - Allows to access the data fo QingtingFM.(**Missing English Docs**)
 + [Qi'eFM](http://wq.qq.com/) - Allows to access the data of Qi'eFM.(**Missing English Docs**)
-+ [Rdio](http://developer.rdio.com/) - Tune in to your personal radio station, your FM, or choose from countless others to suit the mood. Make and share playlists. Get personalized recommendations. Stream or download songs and albums, start to finish, wherever you are.
 + [SoundCloud](https://developers.soundcloud.com/) - Allow users to upload and share sounds across the web.
 + [Spotify](https://developer.spotify.com/web-api/) - Spotify's Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
 
 ### News & information
++ [BrewereyDB](http://www.brewerydb.com/developers) - BreweryDB is a database of breweries, beers, beer events and guilds.
 + [Diigo](https://www.diigo.com/api_dev) - The Diigo API allows you to build apps that interact with the Diigo service.
 + [feedly](https://developer.feedly.com/) - Access to feedly's API.
 + [Genius](https://docs.genius.com/) - The Genius API to help build the world's greatest public knowledge project since Wikipedia.
-+ [goodreads](https://www.goodreads.com/api) - For users, books, comments, events, relationships, groups, ratings, reviews, searches, series, shelves, topics data.
++ [goodreads](https://www.goodreads.com/api) - The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social, and engaging.
 + [HackerNews](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 + [Inoreader](https://www.inoreader.com/developers/) - The Inoreader API allows you to help users subscribe to feeds, read articles or catalogue them for viewing later.
 + [Instapaper](https://www.instapaper.com/api) - The Instapaper API allows third-party applications to add URLs to Instapaper.
 + [Narro](https://docs.narro.co/#introduction) - Access articles and readings, as well as submit them on behalf of customers.
 + [Newsblur](https://newsblur.com/api) - NewsBlur's API allows users to retrieve their feeds, feed counts, feed icons, feed statistics, and individual feed stories.
 + [NPR](http://www.npr.org/api/index) - NPR's API provides a flexible, powerful way to access your favorite NPR content.
-+ [Pinboard](https://pinboard.in/api) - The Pinboard API is a way to interact programatically with your bookmarks, notes and other Pinboard data.
++ [Pinboard](https://pinboard.in/api) - The Pinboard API is a way to interact programmatically with your bookmarks, notes and other Pinboard data.
 + [Pocket](https://getpocket.com/developer/) - Bring the power of save for later to your users and applications by integrating the Pocket API.
 + [Product Hunt](https://api.producthunt.com/v1/docs) - Access to [producthunt.com](https://www.producthunt.com/)'s API.
 + [The New York Times](https://developer.nytimes.com/) - Access to The New York Times's API.
@@ -276,7 +270,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [WePay](https://www.wepay.com/) - WePay is designed for platforms like marketplaces, crowdfunding sites & small business tools. Get a seamless user experience & fraud protection.
 
 ### Photography
-+ [500px](https://github.com/500px/api-documentation) - Access to photo resources, upload, user resources, gallery resouces, collections/sets resources, comments resources.
++ [500px](https://github.com/500px/api-documentation) - 500px API provides programmatic access to 500px functionality and content.
 + [Giphy](https://developers.giphy.com/docs/) - The largest GIF libary in the world.
 + [Imgur](https://api.imgur.com/) - Using Imgur's RESTful API, you can do just about anything you can do on [imgur.com](http://imgur.com/).
 + [Pixabay](https://pixabay.com/api/docs/) - The pixabay API is a RESTful interface for searching and retrieving Pixabay images and videos released under Creative Commons CC0.
@@ -291,14 +285,14 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 ### Social
 + [Disqus](https://disqus.com/api/docs/) - Disqus' platform includes various features, such as social integration, social networking, user profiles, spam and moderation tools, analytics, email notifications, and mobile commenting.
 + [Douban](https://developers.douban.com/wiki/?title=guide) - Access to books, movies, music, broadcasts, etc.(**Missing English Docs**)
-+ [Facebook](https://developers.facebook.com/docs/?locale=en_US) - Access to analytics of apps, app ads/development/events/invites/links, atlas api, facebook audience network/login/pixel, basics, games, articles, marketing, messenger, pages, sharing, video and more.
-+ [Flickr](https://www.flickr.com/services/api/) - Access to the users, blogs, cameras, collections, commons, contacts, favorites, galleries, groups, interestingness, machinetags, panda, people, photos, places, prefs, push, reflection, stats, tags data of Flickr.
++ [Facebook](https://developers.facebook.com/docs/?locale=en_US) - Facebook is an American for-profit corporation and an online social media and social networking service.
++ [Flickr](https://www.flickr.com/services/api/) - Almost certainly the best online photo management and sharing application in the world.
 + [Foursquare](https://developer.foursquare.com/) - The Foursquare API gives you access to our world-class places database and the ability to interact with Foursquare users and merchants.
-+ [Instagram](https://www.instagram.com/developer/) - Access to the basic, comments, followers list, likes, public content and relationships data.
-+ [LinkedIn](https://developer.linkedin.com/) - World's largest professional network
++ [Instagram](https://www.instagram.com/developer/) - A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.
++ [LinkedIn](https://developer.linkedin.com/) - World's largest professional network.
 + [Pinterest](https://developers.pinterest.com/) - The Pinterest API lets you access users' Pinterest data, like their boards, Pins, followers and more.
-+ [Reddit](https://www.reddit.com/dev/api/) - Access to account, captcha, flair, reddit gold, links & comments, listings, live threads, private messages, misc, moderation, new modmail, multies, search, subreddits, users, wiki data.
-+ [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Access to blog info, avatar, likes, following, followers, posts, queue, drafts, submissions, posting, editing posts, reblogging posts, deleting posts and so much more data of Tumblr.
++ [Reddit](https://www.reddit.com/dev/api/) - Reddit is an American social news aggregation, web content rating, and discussion website.
++ [Tumblr](https://www.tumblr.com/docs/en/api/v2) - Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love.
 + [Twitter](https://dev.twitter.com/) - Access to Twitter's data.
 + [Weibo](http://open.weibo.com/wiki/API) - Access to posts, users, comments, favorites, etc.(**Missing English Docs**)
 
@@ -321,7 +315,9 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 
 ### Teamwork
 + [Asana](https://asana.com/guide/help/api/api) - Allows you to programmatically update and access much of your data on the platform.
-+ [Teambition](https://www.teambition.com/developer/open-platform) - Teambition's Open Platform offers complete set of Open API for data aquistion. Building an app based on project data will make the most use of your callaboration data, such as project tracking, data mining and more.
++ [join.me](https://developer.join.me/) - join.me is the online meeting tool that just gets out of the way so that people can accomplish great things together.
++ [Teambition](https://www.teambition.com/developer/open-platform) - Teambition's Open Platform offers complete set of Open API for data acquisition. Building an app based on project data will make the most use of your collaboration data, such as project tracking, data mining and more.
++ [TeamSnap](http://developer.teamsnap.com/) - Empower your users with the world's best team management solution.
 + [Trello](https://developers.trello.com/) - Trello is a web-based project management application.
 + [Worktile](https://dev.worktile.com/document/overview) - Access to Worktile's APIs.(**Missing English Docs**)
 
