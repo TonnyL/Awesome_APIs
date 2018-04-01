@@ -21,6 +21,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Development](#development)
 + [Email](#email)
 + [Fitness & Wearables](#fitness--wearables)
++ [Forex & Currencies](#forex--currencies)
 + [Games](#games)
 + [IoT](#iot)
 + [Machine Learning](#machine-learning)
@@ -168,6 +169,9 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Recon](http://www.reconinstruments.com/developers/develop/for-recon-engage/api-documentation/) - Access to [Recon instruments](http://www.reconinstruments.com/)'s data.
 + [Strava](https://strava.github.io/api/) - The Strava V3 API is a publicly available interface allowing developers access to the rich Strava dataset.
 + [Withings](http://www.withings.com/us/en/developers) - The Withings API allows developers to create applications that take advantage of the Withings devices and the data they record.
+
+### Forex & Currencies
++ [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
 
 ### Games
 + [Battle.net](https://dev.battle.net/) - Battle.net is an online video game Web site that features a collection of games developed by Blizzard Entertainment. The available Battle.net APIs include D3, WoW, SC2, Community APIs, and Game Data APIs.
