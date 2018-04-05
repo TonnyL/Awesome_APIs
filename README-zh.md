@@ -20,6 +20,7 @@
 + [开发](#开发)
 + [邮件](#邮件)
 + [健身 & 可穿戴](#健身--可穿戴)
++ [外汇 & 货币](#外汇--货币)
 + [游戏](#游戏)
 + [物联网](#物联网)
 + [机器学习](#机器学习)
@@ -166,6 +167,9 @@
 + [Recon](http://www.reconinstruments.com/developers/develop/for-recon-engage/api-documentation/) - 访问 [Recon instruments](http://www.reconinstruments.com/) 的数据.
 + [Strava](https://strava.github.io/api/) - Strava V3 API 是一个公开可用的接口, 允许开发人员访问丰富的 Strava 数据集.
 + [Withings](http://www.withings.com/us/en/developers) - Withings API 允许开发人员利用 Withings 设备和 Withings 记录的数据创建应用程序.
+
+### 外汇 & 货币
++ [1Forge.com](https://1forge.com/) - 通过 JSON 和 WebSocket 的实时外汇和加密服务.
 
 ### 游戏
 + [暴雪](https://dev.battle.net/) - Battle.net 是一个在线电子游戏网站, 其特点是由暴雪娱乐开发的游戏集合. 可用的 Battle.net API 包括 D3, WoW, SC2, 社区 API 和游戏数据 API.
