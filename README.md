@@ -144,6 +144,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Particle](https://docs.particle.io/reference/api/) - The Particle Cloud API is a REST API.
 + [QR Code Generator](http://goqr.me/api/) - You can generate and decode / read QR code graphics with the QR code generator web API at api.qrserver.com.
 + [Ruby China](https://ruby-china.org/api-doc/) - Access to API of https://ruby-china.org/ .(**Missing English Docs**)
++ [Scraper API](https://www.scraperapi.com/documentation) - Easily build build scalable web scrapers with Scraper API.
 + [StackExchange](https://api.stackexchange.com/docs) Access to Stack Exchange API.
 + [SVN](https://subversion.apache.org/docs/api/1.8/) - This documentation covers the public APIs provided by the Subversion libraries. It is intended mainly for programmers, both those working on Subversion itself, as well as developers of 3rd-party applications intending to use these APIs.
 + [TravisCI](https://docs.travis-ci.com/api/) - This is the API used by the official Travis CI web interface, so everything the web ui is able to do can also be accomplished via the API.
