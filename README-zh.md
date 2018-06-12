@@ -143,6 +143,7 @@
 + [Particle](https://docs.particle.io/reference/api/) - Particle Cloud API 是一个 REST API.
 + [QR Code Generator](http://goqr.me/api/) - 你可以使用 QR 码生成器 Web API 在 api.qrserver.com 上生成和解码/读取 QR 码图形.
 + [Ruby China](https://ruby-china.org/api-doc/) - 访问 https://ruby-china.org/ 的 API.
++ [Scraper API](https://www.scraperapi.com/documentation) - 使用Scraper API轻松构建可扩展的web scrapers.
 + [StackExchange](https://api.stackexchange.com/docs) 访问 Stack Exchange API.
 + [SVN](https://subversion.apache.org/docs/api/1.8/) - 文档涵盖了 Subversion 库提供的公共 API. 它主要面向程序员, 无论是从事 Subversion 本身的开发人员, 还是希望使用这些 API 的第三方应用程序开发人员.
 + [TravisCI](https://docs.travis-ci.com/api/) - 这是官方 Travis CI Web 界面使用的 API, 因此 web 界面所能做的所有事情都可以通过 API 完成.
