@@ -131,7 +131,7 @@
 + [CircleCI](https://circleci.com/docs/api/v1-reference/) - CircleCI API 是一个 RESTful, 全功能的 API, 允许你访问所有信息并触发 CircleCI 中的所有操作.
 + [Coding](https://open.coding.net/) -  访问 https://coding.net/ 的 API.
 + [diycode](https://www.diycode.cc/api) - 访问 https://www.diycode.cc/ 的 API.
-+ [干活集中营](http://gank.io/api) - 访问 http://gank.io/ 的 API.
++ [干货集中营](http://gank.io/api) - 访问 http://gank.io/ 的 API.
 + [GitHub](https://developer.github.com/v3/) - 世界上领先的软件开发平台.
 + [Gitter](https://developer.gitter.im/docs/welcome) - GitHub 的聊天工具.
 + [GitLab](https://docs.gitlab.com/ee/api/README.html) - 通过一个简单而强大的 API 自动化 GitLab.
