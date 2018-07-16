@@ -142,6 +142,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [openHAB](https://github.com/openhab/openhab1-addons/wiki/REST-API) - The REST API of openHAB serves different purposes. It can be used to integrate openHAB with other systems as it allows read access to items and item states as well as status updates or the sending of commands for items. Furthermore, it gives access to the sitemaps, so that it is the interface to be used by remote user interfaces (e.g. fat clients or fully Javascript based web clients).
 + [oschina](http://www.oschina.net/openapi) - Access to API of https://oschina.net/ .(**Missing English Docs**)
 + [Particle](https://docs.particle.io/reference/api/) - The Particle Cloud API is a REST API.
++ [ProxyCrawl](https://proxycrawl.com) -  Scrape and crawl any website without blocks, captchas or proxies.
 + [QR Code Generator](http://goqr.me/api/) - You can generate and decode / read QR code graphics with the QR code generator web API at api.qrserver.com.
 + [Ruby China](https://ruby-china.org/api-doc/) - Access to API of https://ruby-china.org/ .(**Missing English Docs**)
 + [Scraper API](https://www.scraperapi.com/documentation) -  Easily build scalable web scrapers with Scraper API.
