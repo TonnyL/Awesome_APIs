@@ -141,6 +141,7 @@
 + [openHAB](https://github.com/openhab/openhab1-addons/wiki/REST-API) - openHAB 的 REST API 服务于不同的目标. 它可用于将 openHAB 与其他系统集成, 因为它允许读取项目和项目状态以及状态更新或发送项目命令. 此外, 它还提供对站点地图的访问, 因此它是远程用户界面(例如胖客户端或完全基于 Javascript 的 Web 客户端)使用的接口.
 + [开源中国](http://www.oschina.net/openapi) -  访问 https://oschina.net/ 的 API.
 + [Particle](https://docs.particle.io/reference/api/) - Particle Cloud API 是一个 REST API.
++ [ProxyCrawl](https://proxycrawl.com) - 没有拦截、验证码和代理地爬取任何网站.
 + [QR Code Generator](http://goqr.me/api/) - 你可以使用 QR 码生成器 Web API 在 api.qrserver.com 上生成和解码/读取 QR 码图形.
 + [Ruby China](https://ruby-china.org/api-doc/) - 访问 https://ruby-china.org/ 的 API.
 + [Scraper API](https://www.scraperapi.com/documentation) - 使用Scraper API轻松构建可扩展的web scrapers.
