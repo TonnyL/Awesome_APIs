@@ -3,6 +3,8 @@
 [![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README.md)
 [![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)](README-zh.md)
+[![Backers on Open Collective](https://opencollective.com/awesome_apis/backers/badge.svg)](#backers)
+ [![Sponsors on Open Collective](https://opencollective.com/awesome_apis/sponsors/badge.svg)](#sponsors) 
 
 This repo is a collection of **AWESOME** APIs for developers. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/TonnyL/Awesome_APIs/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) list.
 
@@ -408,3 +410,33 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Juhe Data](https://www.juhe.cn/) - Provides APIs which are available in China.(**Missing English Docs**)
 + [ProgrammableWeb](https://www.programmableweb.com/) - The leading source of news & information about APIs, chronicling the evolution of the global API economy & providing the web's most relied-on API Directory.
 + [Yahoo! Developer Network](https://developer.yahoo.com/everything.html) - The Yahoo Developer Network offers APIs and tools to make it easy for developers to build, advertise, enhance applications and earn money with Yahoo.
+
+## Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="graphs/contributors"><img src="https://opencollective.com/Awesome_APIs/contributors.svg?width=890&button=false" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/Awesome_APIs#backer)]
+
+<a href="https://opencollective.com/Awesome_APIs#backers" target="_blank"><img src="https://opencollective.com/Awesome_APIs/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/Awesome_APIs#sponsor)]
+
+<a href="https://opencollective.com/Awesome_APIs/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome_APIs/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome_APIs/sponsor/2/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome_APIs/sponsor/3/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome_APIs/sponsor/4/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome_APIs/sponsor/5/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome_APIs/sponsor/6/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome_APIs/sponsor/7/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome_APIs/sponsor/8/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/Awesome_APIs/sponsor/9/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/9/avatar.svg"></a>
+
+
