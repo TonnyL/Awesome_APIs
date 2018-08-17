@@ -33,7 +33,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [News & Information](#news--information)
 + [Notes](#notes)
 + [Payment](#payment)
-+ [Photography](#Photography)
++ [Photography](#photography)
 + [Places](#places)
 + [Social](#social)
 + [Shopping](#shopping)
