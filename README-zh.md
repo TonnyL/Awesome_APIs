@@ -7,7 +7,7 @@
 
 [English](README.md) | [中文](README-zh.md)
 ## 目录
-
++ [二次元](#二次元)
 + [博客](#博客)
 + [书籍](#书籍)
 + [商业](#商业)
@@ -46,6 +46,9 @@
 + [天气](#天气)
 + [更多资源](#更多资源)
 
+### 二次元
++ [一言](https://hitokoto.cn/api) - 一言 API主要是提供一句话服务,可以是动漫中的台词,也可以是网络上的各种小段子.
++ [宅社AcgClub](https://github.com/Rabtman/AcgClub/wiki/%E5%AE%85%E7%A4%BEAcgClub-API) - 宅社AcgClub API主要是提供ACG相关的聚合类服务.
 ### 博客
 + [Blogger](https://developers.google.com/blogger/) - Blogger API v3 版本允许你创建新的博客, 编辑或者删除已经存在的博客, 查询符合特定标准的博客.
 + [Medium](https://github.com/Medium/medium-api-docs) - 访问 [medium.com](https://medium.com/) 的数据.

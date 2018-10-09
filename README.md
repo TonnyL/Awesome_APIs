@@ -11,6 +11,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 [English](README.md) | [中文](README-zh.md)
 ## Table of Contents
 
++ [ACG](#acg)
 + [Blogging](#blogging)
 + [Books](#books)
 + [Business](#business)
@@ -48,6 +49,10 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Vision Analysis](#vision-analysis)
 + [Weather](#weather)
 + [More Resource](#more-resource)
+
+### ACG
++ [hitokoto](https://hitokoto.cn/api) - hitokoto API provides a one-word service, which can be a line in anime, or a variety of small paragraphs on the network.
++ [AcgClub](https://github.com/Rabtman/AcgClub/wiki/%E5%AE%85%E7%A4%BEAcgClub-API) - AcgClub API provides ACG-related aggregation services.
 
 ### Blogging
 + [Blogger](https://developers.google.com/blogger/) - The Blogger API v3 allows you to create new blog posts, edit or delete existing posts, and query for posts that match particular criteria.
@@ -89,7 +94,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Baidu Cloud](https://cloud.baidu.com/doc/index.html) - (**Missing English Docs**)
 + [Bmob](http://www.bmob.cn/) - (**Missing English Docs**)
 + [Google Cloud Platform](https://cloud.google.com/apis/docs/overview)
-	 [LeanCloud](https://leancloud.cn/) - 	(**Missing English Docs**)
+   [LeanCloud](https://leancloud.cn/) - 	(**Missing English Docs**)
 + [Oracle Cloud](https://cloud.oracle.com/home)
 + [qiniu](http://www.qiniu.com/) - (**Missing English Docs**)
 + [Tencent Cloud](https://cloud.tencent.com/document/api?lang=en)
