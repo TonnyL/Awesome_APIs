@@ -372,6 +372,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Rotten Tomatoes](https://developer.fandango.com/Rotten_Tomatoes) - The Rotten Tomatoes API provides access to Rotten Tomatoes' ratings and reviews, allowing approved companies and individuals to enrich their applications and widgets with Rotten Tomatoes data.
 + [Sohu TV](http://lm.tv.sohu.com/union/open_platform.do) - Allows to query data.(**Missing English Docs**)
 + [The Movie Database (TMDb)](https://developers.themoviedb.org) - The Movie Database API provides access to Top rated movies, Upcoming movies, Now playing movies, Popular movies, Popular TV shows, Top rated TV shows, On the air TV shows, Airing today TV shows, Popular people and more.
++ [TVmaze](https://www.tvmaze.com/api) - TV Show and web series database. Episode guide, cast, crew and character information. Recaps, reviews, episode trailers, celebrity photos and more.
 + [Vimeo](https://developer.vimeo.com/) - The web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads.
 + [Youtube](https://developers.google.com/youtube/documentation/) - Embed YouTube functionality into your own website and applications.
 + [Youku](https://doc.open.youku.com/) - Allows to upload, download, log in, etc.(**Missing English Docs**)
