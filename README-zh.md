@@ -47,8 +47,9 @@
 + [更多资源](#更多资源)
 
 ### 二次元
-+ [一言](https://hitokoto.cn/api) - 一言 API主要是提供一句话服务,可以是动漫中的台词,也可以是网络上的各种小段子.
-+ [宅社AcgClub](https://github.com/Rabtman/AcgClub/wiki/%E5%AE%85%E7%A4%BEAcgClub-API) - 宅社AcgClub API主要是提供ACG相关的聚合类服务.
++ [宅社 AcgClub](https://github.com/Rabtman/AcgClub/wiki/%E5%AE%85%E7%A4%BEAcgClub-API) - 宅社 AcgClub API主要是提供 ACG 相关的聚合类服务.
++ [一言](https://hitokoto.cn/api) - 一言 API 主要是提供一句话服务,可以是动漫中的台词,也可以是网络上的各种小段子.
+
 ### 博客
 + [Blogger](https://developers.google.com/blogger/) - Blogger API v3 版本允许你创建新的博客, 编辑或者删除已经存在的博客, 查询符合特定标准的博客.
 + [Medium](https://github.com/Medium/medium-api-docs) - 访问 [medium.com](https://medium.com/) 的数据.
@@ -366,6 +367,7 @@
 + [Rotten Tomatoes](https://developer.fandango.com/Rotten_Tomatoes) - Rotten Tomatoes API 提供了获得 Rotten Tomatoes 的评分和评论, 允许获得批准的公司和个人用 Rotten Tomatoes 数据丰富他们的应用和小部件.
 + [搜狐视频](http://lm.tv.sohu.com/union/open_platform.do) - 允许查询数据.
 + [The Movie Database (TMDb)](https://developers.themoviedb.org) - The Movie Database 提供最受好评的电影, 即将到来的电影, 现在播放电影, 热门电影, 热门电视节目, 最受好评的电视节目, On the air 节目, Airing today TV shows, 热门人物等的接口.
++ [TVmaze](https://www.tvmaze.com/api) - 电视节目和网络系列数据库. 剧集指南,演员,工作人员和角色信息. 回顾,评论,剧集预告片,名人照片等。
 + [Vimeo](https://developer.vimeo.com/) - 最受创作者支持的网络社区, 可以获得高质量的工具, 用于在没有广告的情况下以华丽的高清格式托管, 分享和流式传输视频.
 + [Youtube](https://developers.google.com/youtube/documentation/) - 将YouTube 的功能嵌入到你自己的网站和应用程序中.
 + [优酷](https://doc.open.youku.com/) - 允许上传, 下载, 登录等.

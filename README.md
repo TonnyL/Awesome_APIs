@@ -4,14 +4,14 @@
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README.md)
 [![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)](README-zh.md)
 [![Backers on Open Collective](https://opencollective.com/awesome_apis/backers/badge.svg)](#backers)
- [![Sponsors on Open Collective](https://opencollective.com/awesome_apis/sponsors/badge.svg)](#sponsors) 
+ [![Sponsors on Open Collective](https://opencollective.com/awesome_apis/sponsors/badge.svg)](#sponsors)
 
 This repo is a collection of **AWESOME** APIs for developers. Feel free to **Star** and **Fork**. Any comments, suggestions? [Let us know](https://github.com/TonnyL/Awesome_APIs/issues). we love PRs :), please follow the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [English](README.md) | [中文](README-zh.md)
 ## Table of Contents
 
-+ [ACG](#acg)
++ [Anime](#anime)
 + [Blogging](#blogging)
 + [Books](#books)
 + [Business](#business)
@@ -50,20 +50,20 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Weather](#weather)
 + [More Resource](#more-resource)
 
-### ACG
-+ [hitokoto](https://hitokoto.cn/api) - hitokoto API provides a one-word service, which can be a line in anime, or a variety of small paragraphs on the network.
+### Anime
 + [AcgClub](https://github.com/Rabtman/AcgClub/wiki/%E5%AE%85%E7%A4%BEAcgClub-API) - AcgClub API provides ACG-related aggregation services.
++ [hitokoto](https://hitokoto.cn/api) - hitokoto API provides a one-word service, which can be a line in anime, or a variety of small paragraphs on the network.
 
 ### Blogging
 + [Blogger](https://developers.google.com/blogger/) - The Blogger API v3 allows you to create new blog posts, edit or delete existing posts, and query for posts that match particular criteria.
 + [Medium](https://github.com/Medium/medium-api-docs) - Access to the data of [medium.com](https://medium.com/).
-+ [Weebly](https://cloud-developer.weebly.com/) - With Weebly Cloud, you provide Weebly’s best-in-class website builder to enable your customers to create their own website, blog or online store in minutes, while you maintain full control over billing, support, and the customer relationship. 
++ [Weebly](https://cloud-developer.weebly.com/) - With Weebly Cloud, you provide Weebly’s best-in-class website builder to enable your customers to create their own website, blog or online store in minutes, while you maintain full control over billing, support, and the customer relationship.
 + [WordPress](https://codex.wordpress.org/WordPress_APIs) - Access to WordPress's APIs.
 + [Telegraph](http://telegra.ph/api) - Access to Telegraph's APIs, Telegram's publishing service.
 
 ### Books
 + [An API Of Ice And Fire](https://anapioficeandfire.com/) - The An API of Ice And Fire provide data about all Book, Characters, Houses from the universe of 'A Song of Ice and Fire' in JSON format. Authentication is not required. Node and Swift libraries available.
-+ [Open Library Books API](https://openlibrary.org/developers/api) - Open Library is an open, editable library catalog, building towards a web page for every book ever published. 
++ [Open Library Books API](https://openlibrary.org/developers/api) - Open Library is an open, editable library catalog, building towards a web page for every book ever published.
 + [The New York Public Library Digital Collections API](http://api.repo.nypl.org/) - For more than a century, The NY Public Library has amassed an extraordinary trove of rare and unique material covering the full spectrum of recorded knowledge.
 + [Bookshare](http://developer.bookshare.org/) - The Bookshare API allows our partners to enable their customers with qualified print disabilities to search,browse and download books and periodicals.
 
@@ -132,7 +132,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 ### Development
 + [ARTIK Cloud](https://developer.artik.cloud/documentation/api-reference/) - The ARTIK Cloud API provides access to the ARTIK Cloud platform.
 + [AT&T M2X](https://m2x.att.com/developer/documentation/v2/overview) - M2X's RESTful API streamlines the connection between devices and the M2X service, allowing you to build applications and services that leverage time-series data analytics and distributed, high-availability time-series data storage, to deliver meaningful information to your customers and end-users and build IOT and M2M solutions without managing your own storage infrastructure.
-+ [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - Bitbucket is a web-based hosting service that is owned by Atlassian, used for source code and development projects that use either Mercurial or Git revision control systems. 
++ [Bitbucket](https://developer.atlassian.com/cloud/bitbucket/) - Bitbucket is a web-based hosting service that is owned by Atlassian, used for source code and development projects that use either Mercurial or Git revision control systems.
 + [bitly](https://dev.bitly.com/) - bitly is the easiest and most fun way to save, share and discover links from around the web.
 + [Buddy](https://buddy.works/api/reference/getting-started/overview) - Buddy is a Continuous Integration service. It supports GitHub, Bitbucket, and Gitlab projects. Automate the lifecycle of web & Docker apps: Build, Test & Deploy.
 + [Bugzilla](https://wiki.mozilla.org/Bugzilla:REST_API) - Bugzilla is a Web-based general-purpose bugtracker and testing tool originally developed and used by the Mozilla project, and licensed under the Mozilla Public License.
@@ -144,7 +144,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Gitter](https://developer.gitter.im/docs/welcome) - Chat tools for GitHub.
 + [GitLab](https://docs.gitlab.com/ee/api/README.html) - Automate GitLab via a simple and powerful API.
 + [Google Play Developer](https://developers.google.com/android-publisher/) - The Google Play Developer API allows you to perform a number of publishing and app-management tasks.
-+ [IPInfo.io](https://ipinfo.io/developers) - Use the ipinfo.io IP lookup API to quickly and simply integrate IP geolocation into your script or website. 
++ [IPInfo.io](https://ipinfo.io/developers) - Use the ipinfo.io IP lookup API to quickly and simply integrate IP geolocation into your script or website.
 + [Laravel China](https://laravel-china.org/topics/3097) - Access to API of https://laravel-china.org/ .(**Missing English Docs**)
 + [openHAB](https://github.com/openhab/openhab1-addons/wiki/REST-API) - The REST API of openHAB serves different purposes. It can be used to integrate openHAB with other systems as it allows read access to items and item states as well as status updates or the sending of commands for items. Furthermore, it gives access to the sitemaps, so that it is the interface to be used by remote user interfaces (e.g. fat clients or fully Javascript based web clients).
 + [oschina](http://www.oschina.net/openapi) - Access to API of https://oschina.net/ .(**Missing English Docs**)
@@ -188,9 +188,9 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [EVE Online](https://developers.eveonline.com/) - EVE Online is one of the most popular science fiction massively multiplayer online role-playing games (MMORPG). The EVE Online CREST and XML APIs provide programmatic access to characters, industries, markets, solar system, alliances and corporations, and other game data.
 + [Facebook Games Services](https://developers.facebook.com/docs/games) - The Facebook Games Developer Center features a variety of services for game developers including (but not limited to) Achievements API, Scores API, App Notifications, Requests, Feed Gaming, and Facebook SDK for Unity.
 + [Google Play Games Services](https://developers.google.com/games/) - The Google Developers Games site provides a variety of APIs, SDKs, and services including (but not limited to) game publishing API, Unity Plugin, Play Games Services (achievements, leaderboards, player stats, etc.), and Google AdMob.
-+ [Riot Games](https://developer.riotgames.com/) - Provides the League of Legends developer community with access to game data in a secure and reliable way. 
++ [Riot Games](https://developer.riotgames.com/) - Provides the League of Legends developer community with access to game data in a secure and reliable way.
 + [Steam Web APIs](https://steamcommunity.com/dev) - The Steam Web APIs allow developers to query Steam for information that they can present on their own sites.At the moment the only APIs we offer provide item data for Team Fortress 2, but this list will grow over time.
-+ [Giant Bomb](http://www.giantbomb.com/api/) - The Giant Bomb API provides programmatic access to a lot of the information available on the Giant Bomb Web site such as game titles, ratings, videos, companies, themes, genres, and much more. 
++ [Giant Bomb](http://www.giantbomb.com/api/) - The Giant Bomb API provides programmatic access to a lot of the information available on the Giant Bomb Web site such as game titles, ratings, videos, companies, themes, genres, and much more.
 
 ### IoT
 + [Automatic](https://developer.automatic.com/) - Provides REST API, Real-time Event API and Streaming API for interacting with Automatic data.
@@ -419,7 +419,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 
 ## Contributors
 
-This project exists thanks to all the people who contribute. 
+This project exists thanks to all the people who contribute.
 <a href="graphs/contributors"><img src="https://opencollective.com/Awesome_APIs/contributors.svg?width=890&button=false" /></a>
 
 
@@ -444,5 +444,3 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 <a href="https://opencollective.com/Awesome_APIs/sponsor/7/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/7/avatar.svg"></a>
 <a href="https://opencollective.com/Awesome_APIs/sponsor/8/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/8/avatar.svg"></a>
 <a href="https://opencollective.com/Awesome_APIs/sponsor/9/website" target="_blank"><img src="https://opencollective.com/Awesome_APIs/sponsor/9/avatar.svg"></a>
-
-
