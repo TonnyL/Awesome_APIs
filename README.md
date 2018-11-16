@@ -146,6 +146,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Google Play Developer](https://developers.google.com/android-publisher/) - The Google Play Developer API allows you to perform a number of publishing and app-management tasks.
 + [IPInfo.io](https://ipinfo.io/developers) - Use the ipinfo.io IP lookup API to quickly and simply integrate IP geolocation into your script or website.
 + [Laravel China](https://laravel-china.org/topics/3097) - Access to API of https://laravel-china.org/ .(**Missing English Docs**)
++ [MAC Address Vendor Lookup](https://macaddress.io/api-documentation) - Retrieve vendor details and other information regarding a given MAC address or an OUI.
 + [openHAB](https://github.com/openhab/openhab1-addons/wiki/REST-API) - The REST API of openHAB serves different purposes. It can be used to integrate openHAB with other systems as it allows read access to items and item states as well as status updates or the sending of commands for items. Furthermore, it gives access to the sitemaps, so that it is the interface to be used by remote user interfaces (e.g. fat clients or fully Javascript based web clients).
 + [oschina](http://www.oschina.net/openapi) - Access to API of https://oschina.net/ .(**Missing English Docs**)
 + [Particle](https://docs.particle.io/reference/api/) - The Particle Cloud API is a REST API.
