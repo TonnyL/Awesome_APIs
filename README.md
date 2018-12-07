@@ -267,6 +267,7 @@ English | [中文](README-zh.md)
 + [Spotify](https://developer.spotify.com/web-api/) - Spotify's Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
 
 ### News & information
++ [aztro](https://aztro.sameerkumar.website) - aztro is a REST API for retrieving horoscope information.
 + [BrewereyDB](http://www.brewerydb.com/developers) - BreweryDB is a database of breweries, beers, beer events and guilds.
 + [Diigo](https://www.diigo.com/api_dev) - The Diigo API allows you to build apps that interact with the Diigo service.
 + [feedly](https://developer.feedly.com/) - Access to feedly's API.
