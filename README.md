@@ -142,6 +142,7 @@ English | [中文](README-zh.md)
 + [Bugzilla](https://wiki.mozilla.org/Bugzilla:REST_API) - Bugzilla is a Web-based general-purpose bugtracker and testing tool originally developed and used by the Mozilla project, and licensed under the Mozilla Public License.
 + [CircleCI](https://circleci.com/docs/api/v1-reference/) - The CircleCI API is a RESTful, fully-featured API that allows you to access all information and trigger all actions in CircleCI.
 + [Coding](https://open.coding.net/) - Access to https://coding.net/ .
++ [Dataflow kit](https://github.com/slotix/dataflowkit) - Dataflow kit is a Web Scraping framework for Gophers. It helps to extract data from web pages, following the specified CSS Selectors.
 + [diycode](https://www.diycode.cc/api) - Access to https://www.diycode.cc/ .
 + [gank.io](http://gank.io/api) - Access to API of http://gank.io/ .(**Missing English Docs**)
 + [GitHub](https://developer.github.com/v3/) - The world's leading software development platform.
