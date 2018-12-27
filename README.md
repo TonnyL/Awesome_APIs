@@ -94,7 +94,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Baidu Cloud](https://cloud.baidu.com/doc/index.html) - (**Missing English Docs**)
 + [Bmob](http://www.bmob.cn/) - (**Missing English Docs**)
 + [Google Cloud Platform](https://cloud.google.com/apis/docs/overview)
-   [LeanCloud](https://leancloud.cn/) - 	(**Missing English Docs**)
++ [LeanCloud](https://leancloud.cn/) -	(**Missing English Docs**)
 + [Oracle Cloud](https://cloud.oracle.com/home)
 + [qiniu](http://www.qiniu.com/) - (**Missing English Docs**)
 + [Tencent Cloud](https://cloud.tencent.com/document/api?lang=en)
