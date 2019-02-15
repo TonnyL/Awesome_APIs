@@ -238,7 +238,6 @@
 
 ### 音乐
 + [Deezer](https://developers.deezer.com/) - Deezer 是一种基于网络的音乐流服务.
-+ [豆瓣音乐](https://developers.douban.com/wiki/?title=music_v2) - 允许访问豆瓣音乐的数据.
 + [考拉FM](https://github.com/kaolafm/api) - 允许访问考拉 FM 的数据.
 + [Last.fm](http://www.last.fm/zh/api?setlang=en) - Last.fm API 允许任何人使用 Last.fm 数据创建他们自己的程序, 无论他们使用网络, 桌面还是移动设备上.
 + [MusicGraph](https://developer.musicgraph.com/) - 由 Senzari 推出的 MusicGraph API 是世界上第一个音乐知识引擎, 它将作为一个功能强大的『图形 API』的方式提供, 开发人员可以利用它来利用强大的音乐智能来增强其应用.
@@ -292,7 +291,6 @@
 
 ### 社交
 + [Disqus](https://disqus.com/api/docs/) -Disqus 平台包含各种功能, 如社交整合, 社交网络, 用户档案, 垃圾邮件和审核工具, 分析, 电子邮件通知和移动评论.
-+ [豆瓣](https://developers.douban.com/wiki/?title=guide) - 访问图书, 电影, 音乐, 广播等内容.
 + [Facebook](https://developers.facebook.com/docs/?locale=en_US) - Facebook是一家美国营利性公司, 也是一家在线社交媒体和社交网络服务公司.
 + [Flickr](https://www.flickr.com/services/api/) - 几乎是世界上最好的在线照片管理和共享的应用.
 + [Foursquare](https://developer.foursquare.com/) - Foursquare API 让你可以访问我们的世界级的地点数据库, 并且可以与 Foursquare 用户和商家进行互动.
@@ -360,7 +358,6 @@
 
 ### 视频
 + [Dailymotion](https://developer.dailymotion.com/api) - Dailymotion 是全球第二大视频托管平台.
-+ [豆瓣电影](https://developers.douban.com/wiki/?title=movie_v2) - 电影数据.
 + [Narrative](http://open.getnarrative.com/) - 自定义剪辑, 获取玩家, 徽章, 并与 Narrative API 一起玩耍.
 + [爱奇艺](http://open.iqiyi.com/lib/scheme.html) - 支持查询爱奇艺的数据.
 + [乐视视频](http://www.lecloud.com/zh-cn/help/2016/07/27/150.html?LeftMenu=api_db_guide) - 允许查询, 上传, 下载等.

@@ -244,7 +244,6 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 
 ### Music
 + [Deezer](https://developers.deezer.com/) - Deezer is an Internet-based music streaming service.
-+ [Douban Music](https://developers.douban.com/wiki/?title=music_v2) - Allows to access the data of Douban Music.(**Missing English Docs**)
 + [KaolaFM](https://github.com/kaolafm/api) - Allows to access the data of KaolaFM.(**Missing English Docs**)
 + [Last.fm](http://www.last.fm/zh/api?setlang=en) - The Last.fm API allows anyone to build their own programs using Last.fm data, whether they're on the web, the desktop or mobile devices.
 + [MusicGraph](https://developer.musicgraph.com/) - MusicGraph API, launched by Senzari, is the world's first knowledge engine for music, which will be available as a powerful 'graph API' that can be leveraged by developers to enhance their applications with deep musical intelligence.
@@ -298,7 +297,6 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 
 ### Social
 + [Disqus](https://disqus.com/api/docs/) - Disqus' platform includes various features, such as social integration, social networking, user profiles, spam and moderation tools, analytics, email notifications, and mobile commenting.
-+ [Douban](https://developers.douban.com/wiki/?title=guide) - Access to books, movies, music, broadcasts, etc.(**Missing English Docs**)
 + [Facebook](https://developers.facebook.com/docs/?locale=en_US) - Facebook is an American for-profit corporation and an online social media and social networking service.
 + [Flickr](https://www.flickr.com/services/api/) - Almost certainly the best online photo management and sharing application in the world.
 + [Foursquare](https://developer.foursquare.com/) - The Foursquare API gives you access to our world-class places database and the ability to interact with Foursquare users and merchants.
@@ -366,7 +364,6 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 
 ### Video
 + [Dailymotion](https://developer.dailymotion.com/api) - Dailymotion is the second largest video hosting platform in the world.
-+ [Douban Movie](https://developers.douban.com/wiki/?title=movie_v2) - Movie data.(**Missing English Docs**)
 + [Narrative](http://open.getnarrative.com/) - Customize your clip, get players, badges, and play with the Narrative API.
 + [iqiyi](http://open.iqiyi.com/lib/scheme.html) - Supports query data of iqiyi.(**Missing English Docs**)
 + [LeTV](http://www.lecloud.com/zh-cn/help/2016/07/27/150.html?LeftMenu=api_db_guide) - Allows to query data, upload, download, etc.(**Missing English Docs**)
