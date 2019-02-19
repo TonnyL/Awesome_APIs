@@ -48,7 +48,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Voice Analysis](#voice-analysis)
 + [Vision Analysis](#vision-analysis)
 + [Weather](#weather)
-+ [More Resource](#more-resource)
++ [More Resources](#more-resources)
 
 ### Anime
 + [AcgClub](https://github.com/Rabtman/AcgClub/wiki/%E5%AE%85%E7%A4%BEAcgClub-API) - AcgClub API provides ACG-related aggregation services.
@@ -400,7 +400,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Yandex.Weather](https://tech.yandex.com/weather/) - Yandex.Weather uses proprietary forecasting technology Meteum to assess current weather conditions in specific locations on the territory of **Russia** and create forecasts for these geographic coordinates.
 + [Yahoo! Weather](https://developer.yahoo.com/weather/) - Get up-to-date weather information for any location, including 5-day forecast, wind, atmosphere, astronomy conditions, and more.
 
-### More Resource
+### More Resources
 + [Alidayu](http://www.alidayu.com/) - Provides APIs which are available in China.(**Missing English Docs**)
 + [Amazon Developer](https://developer.amazon.com/) - Allows to build software about the Amazon Apps&Games, the Alexa, the AWS, the Amazon Services&APIs and the Amazon Devices.
 + [APiX](https://www.apix.cn/) - Provides some credit APIs which are available in China.(**Missing English Docs**)
