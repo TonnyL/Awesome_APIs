@@ -192,6 +192,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Riot Games](https://developer.riotgames.com/) - Provides the League of Legends developer community with access to game data in a secure and reliable way.
 + [Steam Web APIs](https://steamcommunity.com/dev) - The Steam Web APIs allow developers to query Steam for information that they can present on their own sites.At the moment the only APIs we offer provide item data for Team Fortress 2, but this list will grow over time.
 + [Giant Bomb](http://www.giantbomb.com/api/) - The Giant Bomb API provides programmatic access to a lot of the information available on the Giant Bomb Web site such as game titles, ratings, videos, companies, themes, genres, and much more.
++ [Guild Wars 2](https://wiki.guildwars2.com/wiki/API:Main) The Guild Wars 2 API is an interface that enables third-party applications to access data directly from the Guild Wars 2 servers.
 
 ### IoT
 + [Automatic](https://developer.automatic.com/) - Provides REST API, Real-time Event API and Streaming API for interacting with Automatic data.
