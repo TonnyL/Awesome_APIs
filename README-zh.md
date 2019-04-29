@@ -329,6 +329,7 @@
 
 ### 文本分析
 + [BosonNLP](http://docs.bosonnlp.com/) - 中文文本分析.
++ [检测语言API](https://rapidapi.com/BigLobster/api/language-identification-prediction) - 任何文本的自动语言识别。
 + [腾讯文智](http://nlp.qq.com/help.cgi) - 中文文本分析.
 + [Text Analytics API](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) - The Text Analytics API 是一套文本分析 Web 服务, 使用最佳的 Microsoft 机器学习算法构建.
 + [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) - Watson 的  Natural Language Understanding 使用自然语言处理来分析任何文本的语义特征.
