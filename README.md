@@ -335,6 +335,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 
 ### Text Analysis
 + [BosonNLP](http://docs.bosonnlp.com/) - Chinese text analysis.(**Missing English Docs**)
++ [Detect Language API](https://rapidapi.com/BigLobster/api/language-identification-prediction) - Automatic language identification for any texts.
 + [Tencent NLP](http://nlp.qq.com/help.cgi) - Chinese text analysis.(**Missing English Docs**)
 + [Text Analytics API](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) - The Text Analytics API is a suite of text analytics web services built with best-in-class Microsoft machine learning algorithms.
 + [Watson Natural Language Understanding](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/) - Natural Language Understanding by Watson uses natural language processing to analyze semantic features of any text.
