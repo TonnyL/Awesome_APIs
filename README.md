@@ -66,6 +66,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [Open Library Books API](https://openlibrary.org/developers/api) - Open Library is an open, editable library catalog, building towards a web page for every book ever published.
 + [The New York Public Library Digital Collections API](http://api.repo.nypl.org/) - For more than a century, The NY Public Library has amassed an extraordinary trove of rare and unique material covering the full spectrum of recorded knowledge.
 + [Bookshare](http://developer.bookshare.org/) - The Bookshare API allows our partners to enable their customers with qualified print disabilities to search,browse and download books and periodicals.
++ [Manning Publications](https://www.manning.com/books/api-design-patterns) - Book that provides you with a unique catalog of design standards and best practices to ensure your APIs are flexible and user-friendly.
 
 ### Business
 + [Airtable](https://airtable.com/api) - The Airtable Standard API allows you to create, read, update, and destroy records.
