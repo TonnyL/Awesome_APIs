@@ -274,6 +274,7 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 + [USA TODAY](https://developer.usatoday.com/docs/) - Access to the latest news and most interesting stories from USA TODAY.
 
 ### Notes
++ [Evernote](https://dev.evernote.com/doc/) - Access to Evernote's API references as well as guides
 + [OneNote](https://msdn.microsoft.com/en-us/office/office365/howto/onenote-supported-ops) - Access to OneNote's RESTful APIs.
 + [Youdao Note](http://note.youdao.com/open/) - Access to Youdao Note's web APIs.(**Missing English Docs**)
 
