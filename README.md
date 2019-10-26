@@ -53,6 +53,9 @@ This repo is a collection of **AWESOME** APIs for developers. Feel free to **Sta
 ### Anime
 + [AcgClub](https://github.com/Rabtman/AcgClub/wiki/%E5%AE%85%E7%A4%BEAcgClub-API) - AcgClub API provides ACG-related aggregation services.
 + [hitokoto](https://hitokoto.cn/api) - hitokoto API provides a one-word service, which can be a line in anime, or a variety of small paragraphs on the network.
++ [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) - The AniList GraphQL Api provides quick and powerful access to over 500k anime and manga entries, including character, staff, and live airing data.
++ [Kitsu API](https://kitsu.docs.apiary.io/#) - Kitsu is a modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans.
+
 
 ### Blogging
 + [Blogger](https://developers.google.com/blogger/) - The Blogger API v3 allows you to create new blog posts, edit or delete existing posts, and query for posts that match particular criteria.
