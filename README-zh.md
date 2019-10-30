@@ -5,7 +5,7 @@
 
 这个仓库主要是为开发者收集非常好的 API . 请随意 **Star** 或 **Fork**. 有任何评论或者建议? [请让我们知道](https://github.com/TonnyL/Awesome_APIs/issues).   我们欢迎 PR :), 格式参照 [awesome](https://github.com/sindresorhus/awesome) 的清单.
 
-[English](README.md) | [中文](README-zh.md)
+[English](README.md) | 中文
 ## 目录
 + [二次元](#二次元)
 + [博客](#博客)
@@ -47,8 +47,10 @@
 + [更多资源](#更多资源)
 
 ### 二次元
++ [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) - 通过 AniList GraphQL Api, 可以快速, 强大地访问超过500k的动漫和漫画条目, 包括角色, 创作人员和播放数据.
 + [宅社 AcgClub](https://github.com/Rabtman/AcgClub/wiki/%E5%AE%85%E7%A4%BEAcgClub-API) - 宅社 AcgClub API主要是提供 ACG 相关的聚合类服务.
 + [一言](https://hitokoto.cn/api) - 一言 API 主要是提供一句话服务,可以是动漫中的台词,也可以是网络上的各种小段子.
++ [Kitsu API](https://kitsu.docs.apiary.io/#) - Kitsu 是一个现代动漫探索平台, 可帮助您跟踪正在观看的动漫, 发现新动漫并与其他粉丝进行社交.
 
 ### 博客
 + [Blogger](https://developers.google.com/blogger/) - Blogger API v3 版本允许你创建新的博客, 编辑或者删除已经存在的博客, 查询符合特定标准的博客.
@@ -267,6 +269,7 @@
 + [今日美国](https://developer.usatoday.com/docs/) - 访问来自『今日美国』的新闻和有趣的故事.
 
 ### 笔记
++ [印象笔记](https://dev.yinxiang.com/doc/) - 访问印象笔记的 API 参考和指南.
 + [OneNote](https://msdn.microsoft.com/en-us/office/office365/howto/onenote-supported-ops) - 访问 OneNote 的 RESTful API.
 + [有道云笔记](http://note.youdao.com/open/) - 访问有道云笔记的 Web API.
 
