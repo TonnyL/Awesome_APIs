@@ -289,7 +289,7 @@ English | [中文](README-zh.md)
 
 ### Photography
 + [500px](https://github.com/500px/api-documentation) - 500px API provides programmatic access to 500px functionality and content.
-+ [Giphy](https://developers.giphy.com/docs/) - The largest GIF libary in the world.
++ [Giphy](https://developers.giphy.com/docs/) - The largest GIF library in the world.
 + [Imgur](https://api.imgur.com/) - Using Imgur's RESTful API, you can do just about anything you can do on [imgur.com](http://imgur.com/).
 + [Pixabay](https://pixabay.com/api/docs/) - The pixabay API is a RESTful interface for searching and retrieving Pixabay images and videos released under Creative Commons CC0.
 + [Unsplash](https://unsplash.com/documentation) - Access to the most powerful photo engine in the world.
@@ -412,7 +412,7 @@ English | [中文](README-zh.md)
 + [APiX](https://www.apix.cn/) - Provides some credit APIs which are available in China.(**Missing English Docs**)
 + [Avatar Data](http://www.avatardata.cn/Docs) - Provides APIs which are available in China.(**Missing English Docs**)
 + [Baidu API STORE](http://apistore.baidu.com/) - Provides APIs which are available in China.(**Missing English Docs**)
-+ [Datayes](https://m.datayes.com/) - Provides some finacial APIs which are available in China.(**Missing English Docs**)
++ [Datayes](https://m.datayes.com/) - Provides some financial APIs which are available in China.(**Missing English Docs**)
 + [Google API Library](https://console.developers.google.com/apis/library) - The Google API Library contains more than 100 apis such as the Google Cloud APIs, the Google Maps APIs, the Google Apps APIs, the Mobile APIs, the Social Media APIs, the Youtube APIs, the Advertising APIs, and the Other popular APIs.
 + [HaoService](http://www.haoservice.com/) - Provides APIs which are available in China.(**Missing English Docs**)
 + [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - Allows to place search fields in the website to search for content within the iTunes Store, App Store, iBooks Store and Mac App Store.
