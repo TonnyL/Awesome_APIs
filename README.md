@@ -185,6 +185,7 @@ English | [中文](README-zh.md)
 
 ### Forex & Currencies
 + [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
++ [CurrencyScoop.com](https://currencyscoop.com/) - Free Real-time and historical currency rates JSON API.
 
 ### Games
 + [Battle.net](https://dev.battle.net/) - Battle.net is an online video game Web site that features a collection of games developed by Blizzard Entertainment. The available Battle.net APIs include D3, WoW, SC2, Community APIs, and Game Data APIs.
