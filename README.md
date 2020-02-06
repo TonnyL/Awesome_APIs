@@ -255,6 +255,7 @@ English | [中文](README-zh.md)
 + [One Music](http://www.onemusicapi.com/) - OneMusicAPI is able to provide metadata about an astonishing range of music because it aggregates existing, well maintained, online databases.
 + [QingtingFM](http://open.qingting.fm/) - Allows to access the data fo QingtingFM.(**Missing English Docs**)
 + [Qi'eFM](http://wq.qq.com/) - Allows to access the data of Qi'eFM.(**Missing English Docs**)
++ [SearchLy](https://github.com/AlbertSuarez/searchly) - Similarities search based on song lyrics.
 + [SoundCloud](https://developers.soundcloud.com/) - Allow users to upload and share sounds across the web.
 + [Spotify](https://developer.spotify.com/web-api/) - Spotify's Web API lets your applications fetch data from the Spotify music catalog and manage user’s playlists and saved music.
 
